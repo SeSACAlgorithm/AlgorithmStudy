@@ -27,8 +27,12 @@ jobs: # 실제 실행될 내용
       run: |
         git config --global user.name 'SeokHeeKim' # 유저명
         git config --global user.email 'yehang218@naver.com' # 유저 이메일
+        rm -rf .git/
+        git init
         git add -A
         git commit -am "auto update README.md" # 커밋 메시지
+        git remote add origin https://github.com/SeSACAlgorithm/AlgorithmStudy.git
+        
     - name: Push changes # 4) 메인에 푸시
       run: |
-        git push
+        git push -f origin main
