@@ -36,6 +36,9 @@ def main():
             continue
 
         if directory not in directories:
+            content+= ""
+
+        if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
             else:
@@ -53,9 +56,10 @@ def main():
                     content += "|{}|[링크]({})|".format(category, folder_link)
                 else:
                     content += "{}|[링크]({})|\n".format(category, folder_link)
-                    solveds.append(category)
-                    print("category : " + category)
-                index += 1;
+                    index += 1;
+                solveds.append(category)
+                print("category : " + category)
+
 
     with open("README.md", "w") as fd:
         fd.write(content)
