@@ -40,19 +40,15 @@ def main():
                 content += "# 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
-                content += "| 문제 | 링크 | 문제 | 링크 |\n"
-                content += "| ----- | ----- | ----- | ----- |\n"
+                content += "| 문제 | 링크 |\n"
+                content += "| ----- | ----- |\n"
             directories.append(directory)
 
         index = 0
         for file in files:
             if category not in solveds:
-                if index % 2 == 0:
-                    content += "|{}|[링크]({})|".format(category, parse.quote(os.path.join(root, file)))
-                else:
-                    content += "{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
+                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
                 solveds.append(category)
-                index += 1
                 print("category : " + category)
 
     with open("README.md", "w") as fd:
