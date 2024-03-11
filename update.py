@@ -44,17 +44,11 @@ def main():
                 content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        files_processed = 0
-        for file in files:
-            if files_processed == 2:
-                content += "\n"  # 새로운 줄 추가
-                files_processed = 0
-            
+         for file in files:
             if category not in solveds:
                 content += "|{}|[링크]({})|".format(category, parse.quote(os.path.join(root, file)))
                 solveds.append(category)
                 print("category : " + category)
-                files_processed += 1
 
     with open("README.md", "w") as fd:
         fd.write(content)
