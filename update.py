@@ -40,15 +40,21 @@ def main():
                 content += "# 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
-                content += "| 문제 | 링크 |\n"
-                content += "| ----- | ----- |\n"
+                content += "| 문제 | 링크 | 문제 | 링크 |\n"
+                content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
+        files_processed = 0
         for file in files:
+            if files_processed == 2:
+                content += "\n"  # 새로운 줄 추가
+                files_processed = 0
+            
             if category not in solveds:
-                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
+                content += "|{}|[링크]({})|".format(category, parse.quote(os.path.join(root, file)))
                 solveds.append(category)
                 print("category : " + category)
+                files_processed += 1
 
     with open("README.md", "w") as fd:
         fd.write(content)
