@@ -44,10 +44,10 @@ def main():
                 content += "| ----- | ----- |\n"
             directories.append(directory)
 
-        index = 0
         for file in files:
             if category not in solveds:
-                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
+                folder_link = parse.quote(os.path.join(root))
+                content += "|{}|[링크]({})|\n".format(category, folder_link)
                 solveds.append(category)
                 print("category : " + category)
 
