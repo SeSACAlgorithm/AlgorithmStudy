@@ -34,7 +34,7 @@ def main():
         
         if directory == '.':
             continue
-            
+
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
@@ -44,6 +44,7 @@ def main():
                 content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
+        index = 0;
         for file in files:
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
