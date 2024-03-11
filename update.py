@@ -44,6 +44,7 @@ def main():
                 content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
+        testindex = 0;
         index = 0;
         for file in files:
             if category not in solveds:
