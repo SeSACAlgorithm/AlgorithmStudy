@@ -54,11 +54,14 @@ def main():
                 #content += "|{}|[링크]({})|\n".format(category, folder_link)
                 if index % 2 == 0:
                     content += "|{}|[링크]({})|".format(category, folder_link)
+                    index+=1;
+                    solveds.append(category)
+                    print("category : " + category)
                 else:
                     content += "{}|[링크]({})|\n".format(category, folder_link)
                     index += 1;
-                solveds.append(category)
-                print("category : " + category)
+                    solveds.append(category)
+                    print("category : " + category)
 
 
     with open("README.md", "w") as fd:
