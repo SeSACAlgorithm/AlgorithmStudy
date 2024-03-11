@@ -52,6 +52,7 @@ def main():
                     content += "|{}|[링크]({})|".format(category, folder_link)
                 else:
                     content += "{}|[링크]({})|\n".format(category, folder_link)
+                    content += "| ----- | ----- |\n"  # 새로운 행 시작
                 solveds.append(category)
                 print("category : " + category)
                 index += 1
