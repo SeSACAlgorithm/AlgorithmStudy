@@ -44,9 +44,15 @@ def main():
                 content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        for file in files:
+        for i in range(0, len(files), 2):
+            file1 = files[i]
+            file2 = files[i + 1] if i + 1 < len(files) else None
+            
             if category not in solveds:
-                content += "|{}|[링크]({})|".format(category, parse.quote(os.path.join(root, file)))
+                if file2:  # 두 번째 파일이 있을 경우
+                    content += "|{}|[링크]({})|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file1)), category, parse.quote(os.path.join(root, file2)))
+                else:  # 두 번째 파일이 없을 경우
+                    content += "|{}|[링크]({})| |\n".format(category, parse.quote(os.path.join(root, file1)))
                 solveds.append(category)
                 print("category : " + category)
 
