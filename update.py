@@ -63,7 +63,6 @@ def main():
                     solveds.append(category)
                     print("category : " + category)
 
-
     with open("README.md", "w") as fd:
         fd.write(content)
         
