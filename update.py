@@ -44,7 +44,7 @@ def main():
                 content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-         for file in files:
+        for file in files:
             if category not in solveds:
                 content += "|{}|[링크]({})|".format(category, parse.quote(os.path.join(root, file)))
                 solveds.append(category)
