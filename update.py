@@ -44,7 +44,6 @@ def main():
                 content += "| ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        index = 0
         for file in files:
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
