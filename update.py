@@ -48,26 +48,21 @@ def main():
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
-                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |"
+                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        solved_dict = {name: False for name in ['윤지', '석희', '경호', '정완', '윤선', '응찬']}
-        prev_category = category
+        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
         for file in files:
-            for name in solved_dict:
+            if category not in solveds:
+              folder_link = parse.quote(os.path.join(root))
+              content += "|{}|[링크]({})|".format(category, folder_link)
+            for name in names:
                 if name in file:
-                    solved_dict[name] = True
-            if category != prev_category:
-                folder_link = parse.quote(os.path.join(root))
-                content += "\n|{}|[링크]({})|".format(category, folder_link)
-                for name in solved_dict:
-                    if solved_dict[name]:
-                        content += "✔"
-                    else:
-                        content += ""
-                    content += "|"
-                    solved_dict[name] = False
-                
+                    content += "✔"
+                else:
+                    content += ""
+                content += "|"
+            content += "\n"    
                 
     if directories:  # Check if there are any directories
         content += "\n</details>\n\n"  # Close the last details tag
