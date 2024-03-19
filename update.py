@@ -48,17 +48,19 @@ def main():
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
-                content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
-                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
+                content += "| 문제 | 링크 | All | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
+                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        files_count = len(files)
         for file in files:
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
                 names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+                all_checked = all(name in file for name in names)
+                content += "✔" if all_checked else ""
+                content += "|"
                 for name in names:
                     if name in file:
                         content += "✔"
