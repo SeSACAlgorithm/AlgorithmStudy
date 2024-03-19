@@ -16,15 +16,11 @@ def main():
     content = ""
     content += HEADER
     
-    directories = [];
-    checkFolder = [];
+    directories = []
+    solveds = []
+    names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
 
     for root, dirs, files in os.walk("."):
-        content += "root : "
-        content += root
-        content += "\nfiles : "
-        content += files
-        content += "\n"
         dirs.sort()
         if root == '.':
             for dir in ('.git', '.github'):
@@ -34,9 +30,9 @@ def main():
                     pass
             continue
 
-        questionFolder = os.path.basename(root)
+        category = os.path.basename(root)
         
-        if questionFolder == 'images':
+        if category == 'images':
             continue
         
         directory = os.path.basename(os.path.dirname(root))
@@ -46,7 +42,7 @@ def main():
             
         if directory not in directories:
             if directories:
-                content += "</details>\n\n"
+                content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
@@ -56,23 +52,23 @@ def main():
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
+        
+        if category not in solveds:
+            folder_link = parse.quote(os.path.join(root))
+            content += "|{}|[링크]({})|".format(category, folder_link)
+            solveds.append(category)
 
-        for file in files:
-            if questionFolder not in checkFolder:
-                folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(questionFolder, folder_link)
-                checkFolder.append(questionFolder)
-            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
-            for name in names:
-                if name in file:
-                    content += "✔"
-                else:
-                    content += ""
-                content += "|"
-            content += "\n"
+        for name in names:
+            if name in files:
+                content += "✔"
+            else:
+                content += ""
+            content += "|"
+            
+        content += "\n"
                 
     if directories:  # Check if there are any directories
-        content += "</details>\n\n"  # Close the last details tag
+        content += "\n</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
