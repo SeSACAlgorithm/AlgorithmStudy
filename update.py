@@ -54,17 +54,18 @@ def main():
 
         files_count = len(files)
         for file in files:
-            if category not in solveds:
-                folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(category, folder_link)
-                solveds.append(category)
-            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
-            for name in names:
-                if name in file:
-                    content += "✔"
-                else:
-                    content += ""
-                content += "|"
+            problem_name, ext = os.path.splitext(file)  # Extract problem name and extension
+            if problem_name not in solveds:
+                folder_link = parse.quote(os.path.join(root, file))  # Create link to the file
+                content += "|{}|[링크]({})|".format(problem_name, folder_link)
+                solveds.append(problem_name)
+                names = ['윤', '석', '경', '정', '윤', '응']  # List of names
+                for name in names:
+                    if name in problem_name:  # Check if the name is in the problem name
+                        content += "✔"  # If so, mark it as solved
+                    else:
+                        content += ""  # Otherwise, leave it empty
+                    content += "|"
                 content += "\n"
                 
     if directories:  # Check if there are any directories
