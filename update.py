@@ -48,8 +48,8 @@ def main():
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
-                content += "| 문제 | 링크 | All |\n"
-                content += "| ----- | ----- | ----- |\n"
+                content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
+                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
         index = 0
@@ -59,8 +59,13 @@ def main():
                 folder_link = parse.quote(os.path.join(root))
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
-                if files_count == 6:
-                    content += "✔"
+                names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+                for name in names:
+                    if name in file:
+                        content += "✔"
+                    else:
+                        content += "."
+                    content += "|"
                 content += "\n"
                 print("category : " + category)
                 
