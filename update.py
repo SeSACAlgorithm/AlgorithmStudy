@@ -37,8 +37,9 @@ def main():
         
         directory = os.path.basename(os.path.dirname(root))
         
-        if directory == '.':
-            continue
+        if any(files) :
+            if directory == '.':
+                continue
             
         check = False
         if directory not in directories:
@@ -59,7 +60,7 @@ def main():
         if check != True :
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(category, folder_link)
+                content += "|{}|[링크]({})|".format(category, folder_link) 
                 solveds.append(category)
 
             for name in names:
