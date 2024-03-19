@@ -59,11 +59,12 @@ def main():
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
                 names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
-                for name in names:
-                    if name in file:
+                all_names_present = all(name in file for name in names)
+                for _ in range(len(names)):
+                    if all_names_present:
                         content += "✔"
                     else:
-                        content += " "
+                        content += ""
                     content += "|"
                 content += "\n"
                 print("category : " + category)
