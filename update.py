@@ -1,23 +1,9 @@
-#!/usr/bin/env python
-
-import os
-from urllib import parse
-
-HEADER="""# 
-# 백준 & 프로그래머스 문제 풀이 목록
-
-## 목차
-### [백준](#-백준) <br>
-### [프로그래머스](#-프로그래머스)
-
-"""
-
 def main():
     content = ""
     content += HEADER
     
-    directories = [];
-    solveds = [];
+    directories = []
+    solveds = {}
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -52,27 +38,26 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        files_count = len(files)
+        if category not in solveds:
+            solveds[category] = []
         for file in files:
-            if category not in solveds:
-                folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(category, folder_link)
-                solveds.append(category)
-            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
-            for name in names:
+            solveds[category].append(file)
+
+    for category, files in solveds.items():
+        folder_link = parse.quote(os.path.join(category))
+        content += "|{}|[링크]({})|".format(category, folder_link)
+        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+        for name in names:
+            for file in files:
                 if name in file:
                     content += "✔"
                 else:
                     content += ""
-                content += "|"
-            content += "\n"
+            content += "|"
+        content += "\n"
 
-                
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
-        
-if __name__ == "__main__":
-    main()
