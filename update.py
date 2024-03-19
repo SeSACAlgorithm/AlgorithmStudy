@@ -65,7 +65,7 @@ def main():
                     solveds[category] += "✔|"
                 else:
                     solveds[category] += "|"
-        content += "\n"
+            content += "\n"
                 
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
