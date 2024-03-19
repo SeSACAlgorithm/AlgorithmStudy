@@ -43,7 +43,7 @@ def main():
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
-                content += "<details>"
+                content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | All |\n"
@@ -57,7 +57,8 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, folder_link)
                 solveds.append(category)
                 print("category : " + category)
-    content += "</details>\n\n"
+        
+        content += "</details>\n\n"
 
     with open("README.md", "w") as fd:
         fd.write(content)
