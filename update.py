@@ -68,7 +68,7 @@ def main():
                 
                 
     if directories:  # Check if there are any directories
-        content += "</details>\n\n"  # Close the last details tag
+        content += "\n</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
