@@ -17,7 +17,7 @@ def main():
     content += HEADER
     
     directories = [];
-    solveds = [];
+    solveds = set();
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -54,20 +54,17 @@ def main():
 
         files_count = len(files)
         for file in files:
-            if category not in solveds:
-                folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(category, folder_link)
-                solveds.append(category)
-                names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
-                all_names_present = all(name in file for name in names)
-                for _ in range(len(names)):
-                    if all_names_present:
-                        content += "✔"
-                    else:
-                        content += ""
-                    content += "|"
-                content += "\n"
-                print("category : " + category)
+            folder_link = parse.quote(os.path.join(root))
+            content += "|{}|[링크]({})|".format(category, folder_link)
+            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+            for name in names:
+                if name in file:
+                    content += "✔"
+                else:
+                    content += ""
+                content += "|"
+            content += "\n"
+            print("category : " + category)
                 
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
