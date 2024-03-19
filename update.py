@@ -1,3 +1,17 @@
+#!/usr/bin/env python
+
+import os
+from urllib import parse
+
+HEADER="""# 
+# 백준 & 프로그래머스 문제 풀이 목록
+
+## 목차
+### [백준](#-백준) <br>
+### [프로그래머스](#-프로그래머스)
+
+"""
+
 def main():
     content = ""
     content += HEADER
@@ -61,3 +75,6 @@ def main():
 
     with open("README.md", "w") as fd:
         fd.write(content)
+
+if __name__ == "__main__":
+    main()
