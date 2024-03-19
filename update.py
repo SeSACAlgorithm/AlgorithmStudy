@@ -52,7 +52,6 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        index = 0
         files_count = len(files)
         for file in files:
             if category not in solveds:
