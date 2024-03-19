@@ -51,8 +51,6 @@ def main():
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
-
-        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
         
         for file in files:
             if category not in solveds:
@@ -60,6 +58,7 @@ def main():
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
                 
+            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
             for name in names:
                 if name in file:
                     solveds[category] += "✔|"
