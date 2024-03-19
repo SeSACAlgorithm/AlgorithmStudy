@@ -53,20 +53,20 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
-        if category not in solveds:
-            folder_link = parse.quote(os.path.join(root))
-            content += "|{}|[링크]({})|".format(category, folder_link)
-            solveds.append(category)
+            if category not in solveds:
+                folder_link = parse.quote(os.path.join(root))
+                content += "|{}|[링크]({})|".format(category, folder_link)
+                solveds.append(category)
 
-        for name in names:
-            for file in files:
-                if name in file:
-                    content += "✔"
-                else:
-                    continue
-            content += "|"
-            
-        content += "\n"
+            for name in names:
+                for file in files:
+                    if name in file:
+                        content += "✔"
+                    else:
+                        continue
+                content += "|"
+                
+            content += "\n"
                 
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
