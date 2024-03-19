@@ -17,6 +17,7 @@ def main():
     content += HEADER
     
     directories = [];
+    solveds = [];
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
