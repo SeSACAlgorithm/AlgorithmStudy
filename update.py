@@ -40,6 +40,7 @@ def main():
         if directory == '.':
             continue
             
+        solveds.append(directory)
         if directory not in directories:
             if directories:
                 content += "\n</details>\n\n"
@@ -51,22 +52,23 @@ def main():
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
+                solveds.append(directory)
             directories.append(directory)
         
-            if category not in solveds:
-                folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(category, folder_link)
-                solveds.append(category)
+        if category not in solveds:
+            folder_link = parse.quote(os.path.join(root))
+            content += "|{}|[링크]({})|".format(category, folder_link)
+            solveds.append(category)
 
-            for name in names:
-                for file in files:
-                    if name in file:
-                        content += "✔"
-                    else:
-                        continue
-                content += "|"
+        for name in names:
+            for file in files:
+                if name in file:
+                    content += "✔"
+                else:
+                    continue
+            content += "|"
                 
-            content += "\n"
+        content += "\n"
                 
     if directories:  # Check if there are any directories
         content += "\n</details>\n\n"  # Close the last details tag
