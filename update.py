@@ -59,10 +59,11 @@ def main():
             solveds.append(category)
 
         for name in names:
-            if name in files:
-                content += "✔"
-            else:
-                content += ""
+            for file in files:
+                if name in file:
+                    content += "✔"
+                else:
+                    continue
             content += "|"
             
         content += "\n"
