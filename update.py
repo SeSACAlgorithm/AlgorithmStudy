@@ -57,10 +57,11 @@ def main():
         for file in files:
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|\n".format(category, folder_link)
+                content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
                 if files_count == 6:
                     content += "✔"
+                content += "\n"
                 print("category : " + category)
                 
     if directories:  # Check if there are any directories
