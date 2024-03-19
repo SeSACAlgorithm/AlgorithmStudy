@@ -45,7 +45,6 @@ def main():
                 content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
-                continue
             else:
                 content += "<details>\n"
                 content += "  <summary><b>"
@@ -54,20 +53,20 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
-        if category not in solveds:
-            folder_link = parse.quote(os.path.join(root))
-            content += "|{}|[링크]({})|".format(category, folder_link)
-            solveds.append(category)
+            if category not in solveds:
+                folder_link = parse.quote(os.path.join(root))
+                content += "|{}|[링크]({})|".format(category, folder_link)
+                solveds.append(category)
 
-        for name in names:
-            for file in files:
-                if name in file:
-                    content += "✔"
-                else:
-                    continue
-            content += "|"
-            
-        content += "\n"
+            for name in names:
+                for file in files:
+                    if name in file:
+                        content += "✔"
+                    else:
+                        continue
+                content += "|"
+                
+            content += "\n"
                 
     if directories:  # Check if there are any directories
         content += "\n</details>\n\n"  # Close the last details tag
