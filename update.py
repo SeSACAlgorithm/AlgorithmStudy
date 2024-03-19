@@ -40,20 +40,17 @@ def main():
         if directory == '.':
             continue
             
-        check = False
         if directory not in directories:
             if directories:
                 content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
-                check = True
             else:
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
-                check = False
             directories.append(directory)
             solveds.append(directory)
         
@@ -69,7 +66,7 @@ def main():
                 else:
                     continue
             content += "|"
-                
+            
         content += "\n"
                 
     if directories:  # Check if there are any directories
