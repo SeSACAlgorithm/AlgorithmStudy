@@ -42,7 +42,7 @@ def main():
             
         if directory not in directories:
             if directories:
-                content += "\n</details>\n\n"
+                content += "</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
@@ -69,7 +69,7 @@ def main():
         content += "\n"
                 
     if directories:  # Check if there are any directories
-        content += "\n</details>\n\n"  # Close the last details tag
+        content += "</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
