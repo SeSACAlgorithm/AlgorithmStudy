@@ -51,17 +51,22 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |"
             directories.append(directory)
 
-        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+        solved_dict = {name: False for name in ['윤지', '석희', '경호', '정완', '윤선', '응찬']}
+        prev_category = category
         for file in files:
-            content += "\n"
-            folder_link = parse.quote(os.path.join(root))
-            content += "|{}|[링크]({})|".format(category, folder_link)
-            for name in names:
+            for name in solved_dict:
                 if name in file:
-                    content += "✔"
-                else:
-                    content += ""
-                content += "|"
+                    solved_dict[name] = True
+            if category != prev_category:
+                folder_link = parse.quote(os.path.join(root))
+                content += "\n|{}|[링크]({})|".format(category, folder_link)
+                for name in solved_dict:
+                    if solved_dict[name]:
+                        content += "✔"
+                    else:
+                        content += ""
+                    content += "|"
+                    solved_dict[name] = False
                 
                 
     if directories:  # Check if there are any directories
