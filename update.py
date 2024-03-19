@@ -61,7 +61,7 @@ def main():
         for name in names:
             for file in files:
                 if name in file:
-                    content += "✔"
+                    content += "✔|"
                 else:
                     continue
             content += "|"
