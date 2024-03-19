@@ -53,7 +53,7 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
-        if category not in solveds:
+        if category not in solveds and category not in directories:
             folder_link = parse.quote(os.path.join(root))
             content += "|{}|[링크]({})|".format(category, folder_link)
             solveds.append(category)
