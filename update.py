@@ -58,12 +58,12 @@ def main():
                 folder_link = parse.quote(os.path.join(root))
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
-                names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+                names = ["윤지.cpp", "석희.cpp", "경호.cpp", "정완.cpp", "윤선.cpp", "응찬.cpp"]
                 for name in names:
                     if name in file:
                         content += "✔"
                     else:
-                        content += "ㅎㅎㅎ"
+                        content += ""
                     content += "|"
                 content += "\n"
                 print("category : " + category)
