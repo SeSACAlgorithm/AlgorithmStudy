@@ -40,26 +40,23 @@ def main():
         if directory == '.':
             continue
             
-        check = False
         if directory not in directories:
             if directories:
                 content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
-                check = True
             else:
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
-                check = False
             directories.append(directory)
         
-        if category != directory:
+        if category[0].isdigit():
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
-                content += "|{}|[링크]({})|".format(category, folder_link) 
+                content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
 
             for name in names:
