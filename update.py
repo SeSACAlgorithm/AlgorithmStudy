@@ -41,6 +41,8 @@ def main():
             continue
             
         if directory not in directories:
+            if directories:
+                content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
