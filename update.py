@@ -51,15 +51,20 @@ def main():
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
-        
-        
-            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+
+        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+        for file in files:
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
+                for name in names:
+                    if name in file:
+                        content += "✔"
+                    else:
+                        content += ""
+                    content += "|"
                 content += "\n"
-            
                 
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
