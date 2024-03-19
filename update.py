@@ -16,8 +16,8 @@ def main():
     content = ""
     content += HEADER
     
-    directories = []
-    solveds = {}
+    directories = [];
+    solveds = [];
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -52,29 +52,38 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        if category not in solveds:
-            solveds[category] = []
+        solved_dict = {name: False for name in ['윤지', '석희', '경호', '정완', '윤선', '응찬']}
         for file in files:
-            solveds[category].append(file)
-
-    for category, files in solveds.items():
-        folder_link = parse.quote(os.path.join(category))
-        content += "|{}|[링크]({})|".format(category, folder_link)
-        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
-        for name in names:
-            for file in files:
+            if name in file:
+                solved_dict[name] = True
+            if category not in solveds:    
+                for name in solved_dict:
+                    if solved_dict[name]:
+                        content += "✔"
+                    else:
+                        content += ""
+                    content += "|"
+                content += "\n"
+                
+                for name in solved_dict:
+                    if name in file:
+                        solved_dict[name] = False
                 if name in file:
-                    content += "✔"
-                else:
-                    content += ""
-            content += "|"
-        content += "\n"
+                solved_dict[name] = True
 
+
+                
+                folder_link = parse.quote(os.path.join(root))
+                content += "|{}|[링크]({})|".format(category, folder_link)
+                solveds.append(category)
+                
+
+                
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
-
+        
 if __name__ == "__main__":
     main()
