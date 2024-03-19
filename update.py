@@ -45,12 +45,14 @@ def main():
                 content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
+                continue
             else:
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
+                solveds.append(directory)
             directories.append(directory)
         
         if category not in solveds:
