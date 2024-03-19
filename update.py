@@ -52,32 +52,19 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        solved_dict = {name: False for name in ['윤지', '석희', '경호', '정완', '윤선', '응찬']}
-        for file in files:
-            if name in file:
-                solved_dict[name] = True
-            if category not in solveds:    
-                for name in solved_dict:
-                    if solved_dict[name]:
-                        content += "✔"
-                    else:
-                        content += ""
-                    content += "|"
-                content += "\n"
-                
-                for name in solved_dict:
-                    if name in file:
-                        solved_dict[name] = False
-                if name in file:
-                solved_dict[name] = True
-
-
-                
+        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+        if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
-                
-
+        for name in names:
+            for file in files:
+                if name in file:
+                    content += "✔"
+                else:
+                    content += ""
+                content += "|"
+            content += "\n"
                 
     if directories:  # Check if there are any directories
         content += "</details>\n\n"  # Close the last details tag
