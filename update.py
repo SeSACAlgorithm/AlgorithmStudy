@@ -63,7 +63,7 @@ def main():
                     if name in file:
                         content += "✔"
                     else:
-                        content += ""
+                        content += " "
                     content += "|"
                 content += "\n"
                 print("category : " + category)
