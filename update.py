@@ -36,7 +36,6 @@ def main():
             continue
         
         directory = os.path.basename(os.path.dirname(root))
-        solveds.append(directory)
 
         if directory == '.':
             continue
@@ -54,6 +53,7 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
+        solveds.append(directory)
         if category not in solveds:
             folder_link = parse.quote(os.path.join(root))
             content += "|{}|[링크]({})|".format(category, folder_link)
