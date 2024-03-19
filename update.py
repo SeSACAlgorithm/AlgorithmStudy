@@ -43,6 +43,8 @@ def main():
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
+                if directories:
+                    content += "</details>\n\n"
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
@@ -58,7 +60,8 @@ def main():
                 solveds.append(category)
                 print("category : " + category)
         
-        content += "</details>\n\n"
+    if directories:  # Check if there are any directories
+        content += "</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
