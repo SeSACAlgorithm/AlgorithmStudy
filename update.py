@@ -52,7 +52,6 @@ def main():
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
-            solveds.append(directory)
         
         if category not in solveds:
             folder_link = parse.quote(os.path.join(root))
