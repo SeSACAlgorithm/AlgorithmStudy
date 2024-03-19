@@ -17,7 +17,6 @@ def main():
     content += HEADER
     
     directories = [];
-    solveds = [];
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -52,11 +51,13 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
+        solveds = []
         names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+        if category not in solveds:
+          folder_link = parse.quote(os.path.join(root))
+          content += "|{}|[링크]({})|".format(category, folder_link)
+          solveds.append(category)
         for file in files:
-            if category not in solveds:
-              folder_link = parse.quote(os.path.join(root))
-              content += "|{}|[링크]({})|".format(category, folder_link)
             for name in names:
                 if name in file:
                     content += "✔"
