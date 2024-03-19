@@ -46,8 +46,8 @@ def main():
                 content += "<details>"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
-                content += "| 문제 | 링크 | ----- |\n"
-                content += "| ----- | ----- | All |\n"
+                content += "| 문제 | 링크 | All |\n"
+                content += "| ----- | ----- | ----- |\n"
             directories.append(directory)
 
         index = 0
@@ -57,7 +57,7 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, folder_link)
                 solveds.append(category)
                 print("category : " + category)
-        content += "</details>\n\n"
+    content += "</details>\n\n"
 
     with open("README.md", "w") as fd:
         fd.write(content)
