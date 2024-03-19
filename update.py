@@ -17,7 +17,8 @@ def main():
     content += HEADER
     
     directories = []
-    problems = {}  # Dictionary to store problems and their solvers
+    solveds = []
+    names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -52,36 +53,26 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
 
-        names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
         for file in files:
-            content += "\n"
-            folder_link = parse.quote(os.path.join(root))
-            content += "|[{}]({})|".format(category, folder_link)
+            if category not in solveds:
+                folder_link = parse.quote(os.path.join(root))
+                content += "|{}|[링크]({})|".format(category, folder_link)
+                solveds.append(category)
+            
             for name in names:
                 if name in file:
-                    if category not in problems:
-                        problems[category] = set()  # Initialize set for the problem if not exists
-                    problems[category].add(name)
-                    content += "✔|"
+                    content += "✔"
                 else:
-                    content += "|"
+                    content += ""
+                content += "|"
+            
+        content += "\n"
                 
     if directories:  # Check if there are any directories
         content += "\n</details>\n\n"  # Close the last details tag
 
-    # Now, we iterate over the problems dictionary to generate the final table
-    for problem, solvers in problems.items():
-        content += "|{}|[링크]({})|".format(problem, "link_placeholder")
-        for name in names:
-            if name in solvers:
-                content += "✔|"
-            else:
-                content += "|"
-        content += "\n"
-
     with open("README.md", "w") as fd:
         fd.write(content)
-
         
 if __name__ == "__main__":
     main()
