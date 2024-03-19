@@ -52,7 +52,6 @@ def main():
                 content += "🚀 {}</b></summary>\n\n".format(directory)
                 content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
-                solveds.append(directory)
             directories.append(directory)
         
         if category not in solveds:
