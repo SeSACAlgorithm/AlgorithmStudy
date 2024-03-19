@@ -54,6 +54,7 @@ def main():
 
         index = 0
         files_count = len(files)
+        print("len(files) : " + files_count)
         for file in files:
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
@@ -61,7 +62,6 @@ def main():
                 solveds.append(category)
                 if files_count == 6:
                     content += "✔"
-                content += "\n"
                 print("category : " + category)
                 
     if directories:  # Check if there are any directories
