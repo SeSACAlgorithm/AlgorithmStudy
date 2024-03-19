@@ -55,7 +55,7 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
                 check = False
             directories.append(directory)
-            directories.append(solveds)
+            solveds.append(directory)
         
         if category not in solveds:
             folder_link = parse.quote(os.path.join(root))
