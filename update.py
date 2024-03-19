@@ -6,6 +6,10 @@ from urllib import parse
 HEADER="""# 
 # 백준 & 프로그래머스 문제 풀이 목록
 
+## 목차
+### [백준](#-백준) <br>
+### [프로그래머스](#-프로그래머스)
+
 """
 
 def main():
@@ -39,9 +43,11 @@ def main():
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
-                content += "### 🚀 {}\n".format(directory)
-                content += "| 문제 | 링크 |\n"
-                content += "| ----- | ----- |\n"
+                content += "<details>"
+                content += "  <summary><b>"
+                content += "🚀 {}</b></summary>\n\n".format(directory)
+                content += "| 문제 | 링크 | ----- |\n"
+                content += "| ----- | ----- | All |\n"
             directories.append(directory)
 
         index = 0
@@ -51,6 +57,7 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, folder_link)
                 solveds.append(category)
                 print("category : " + category)
+        content += "</details>\n\n"
 
     with open("README.md", "w") as fd:
         fd.write(content)
