@@ -18,6 +18,7 @@ def main():
     
     directories = []
     solveds = []
+    names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -41,7 +42,7 @@ def main():
             
         if directory not in directories:
             if directories:
-                content += "</details>\n\n"
+                content += "\n</details>\n\n"
             if directory in ["백준", "프로그래머스"]:
                 content += "# 📚 {}\n".format(directory)
             else:
@@ -52,22 +53,24 @@ def main():
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
-        for file in files:
+        if category[0].isdigit():
             if category not in solveds:
                 folder_link = parse.quote(os.path.join(root))
                 content += "|{}|[링크]({})|".format(category, folder_link)
                 solveds.append(category)
-                
-            names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+
             for name in names:
-                if name in file:
-                    solveds[category] += "✔|"
-                else:
-                    solveds[category] += "|"
+                for file in files:
+                    if name in file:
+                        content += "✔"
+                    else:
+                        continue
+                content += "|"
+                
             content += "\n"
                 
     if directories:  # Check if there are any directories
-        content += "</details>\n\n"  # Close the last details tag
+        content += "\n</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
