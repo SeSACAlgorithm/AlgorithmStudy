@@ -175,6 +175,47 @@
 </details>
 
 <details>
+  <summary><b>🚀 완전탐색</b></summary>
+
+| 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1025](https://www.acmicpc.net/problem/1025)|제곱수 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1025%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)|||||||
+|[12919](https://www.acmicpc.net/problem/12919)|A와 B 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/12919%29%20A%EC%99%80%20B%202)|||||||
+|[14391](https://www.acmicpc.net/problem/14391)|종이 조각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14391%29%20%EC%A2%85%EC%9D%B4%20%EC%A1%B0%EA%B0%81)|||||||
+|[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)|||||||
+|[14501](https://www.acmicpc.net/problem/14501)|퇴사|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14501%29%20%ED%87%B4%EC%82%AC)|||||||
+|[14620](https://www.acmicpc.net/problem/14620)|꽃길|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14620%29%20%EA%BD%83%EA%B8%B8)|||||||
+|[1548](https://www.acmicpc.net/problem/1548)|부분 삼각 수열|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1548%29%20%EB%B6%80%EB%B6%84%20%EC%82%BC%EA%B0%81%20%EC%88%98%EC%97%B4)|||||||
+|[15661](https://www.acmicpc.net/problem/15661)|링크와 스타트|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/15661%29%20%EB%A7%81%ED%81%AC%EC%99%80%20%EC%8A%A4%ED%83%80%ED%8A%B8)|||||||
+|[15686](https://www.acmicpc.net/problem/15686)|치킨 배달|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/15686%29%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC)|||||||
+|[15721](https://www.acmicpc.net/problem/15721)|번데기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/15721%29%20%EB%B2%88%EB%8D%B0%EA%B8%B0)|||||||
+|[16439](https://www.acmicpc.net/problem/16439)|치킨치킨치킨|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16439%29%20%EC%B9%98%ED%82%A8%EC%B9%98%ED%82%A8%EC%B9%98%ED%82%A8)|||||||
+|[16508](https://www.acmicpc.net/problem/16508)|전공책|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16508%29%20%EC%A0%84%EA%B3%B5%EC%B1%85)|||||||
+|[16637](https://www.acmicpc.net/problem/16637)|괄호 추가하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16637%29%20%EA%B4%84%ED%98%B8%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)|||||||
+|[16937](https://www.acmicpc.net/problem/16937)|두 스티커|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16937%29%20%EB%91%90%20%EC%8A%A4%ED%8B%B0%EC%BB%A4)|||||||
+||||||
+|[18312](https://www.acmicpc.net/problem/18312)|시각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18312%29%20%EC%8B%9C%EA%B0%81)|||||||
+|[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18511%29%20%ED%81%B0%20%EC%88%98%20%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)|||||||
+|[18808](https://www.acmicpc.net/problem/18808)|스티커 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18808%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%B6%99%EC%9D%B4%EA%B8%B0)|||||||
+|[19532](https://www.acmicpc.net/problem/19532)|수학은 비대면강의입니다|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/19532%29%20%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4)|||||||
+|[1969](https://www.acmicpc.net/problem/1969)|DNA|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1969%29%20DNA)|||||||
+|[21278](https://www.acmicpc.net/problem/21278)|호석이 두 마리 치킨|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21278%29%20%ED%98%B8%EC%84%9D%EC%9D%B4%20%EB%91%90%20%EB%A7%88%EB%A6%AC%20%EC%B9%98%ED%82%A8)|||||||
+|[21315](https://www.acmicpc.net/problem/21315)|카드 섞기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21315%29%20%EC%B9%B4%EB%93%9C%20%EC%84%9E%EA%B8%B0)|||||||
+|[21943](https://www.acmicpc.net/problem/21943)|연산 최대로|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21943%29%20%EC%97%B0%EC%82%B0%20%EC%B5%9C%EB%8C%80%EB%A1%9C)|||||||
+|[2231](https://www.acmicpc.net/problem/2231)|분해합|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2231%29%20%EB%B6%84%ED%95%B4%ED%95%A9)|||||||
+||||||
+|[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)|||||||
+|[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)|||||||
+|[2503](https://www.acmicpc.net/problem/2503)|숫자 야구|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2503%29%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC)|||||||
+||||||
+|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)|||||||
+|[2961](https://www.acmicpc.net/problem/2961)|도영이가 만든 맛있는 음식|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2961%29%20%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%20%EB%A7%8C%EB%93%A0%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EC%9D%8C%EC%8B%9D)|||||||
+|[5568](https://www.acmicpc.net/problem/5568)|카드 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/5568%29%20%EC%B9%B4%EB%93%9C%20%EB%86%93%EA%B8%B0)|||||||
+|[9079](https://www.acmicpc.net/problem/9079)|동전 게임|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/9079%29%20%EB%8F%99%EC%A0%84%20%EA%B2%8C%EC%9E%84)|||||||
+
+</details>
+
+<details>
   <summary><b>🚀 자료구조 1</b></summary>
 
 | 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |
