@@ -67,7 +67,7 @@ def main():
                     problem_link = site_link + str(number)
                     quetion_name = re.sub(r'^\d+\)\s*', '', category)
                     folder_link = parse.quote(os.path.join(root))
-                    content += "|[{}]({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
+                    content += "|[{}]({})|({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
                     solveds.append(category)
 
             for name in names:
