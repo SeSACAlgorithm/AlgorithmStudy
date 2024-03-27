@@ -207,7 +207,7 @@
 |[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)|||||||
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)|||||||
 |[2503](https://www.acmicpc.net/problem/2503)|숫자 야구|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2503%29%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC)|||||||
-||||||
+|[2615](https://www.acmicpc.net/problem/2615)|오목_|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2615%29%20%EC%98%A4%EB%AA%A9_)|||||||
 |[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)|||||||
 |[2961](https://www.acmicpc.net/problem/2961)|도영이가 만든 맛있는 음식|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2961%29%20%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%20%EB%A7%8C%EB%93%A0%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EC%9D%8C%EC%8B%9D)|||||||
 |[5568](https://www.acmicpc.net/problem/5568)|카드 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/5568%29%20%EC%B9%B4%EB%93%9C%20%EB%86%93%EA%B8%B0)|||||||
