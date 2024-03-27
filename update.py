@@ -55,7 +55,7 @@ def main():
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
-                content += "| 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
+                content += "| 번호 | 문제 | 링크 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
@@ -63,11 +63,12 @@ def main():
             if category not in solveds:
                 match = re.match(r'(\d+)', category)
                 if match : 
-                    number = int(match.group(1))
+                    number = int(match.group(1)) # 문제 번호
                     problem_link = site_link + str(number)
-                folder_link = parse.quote(os.path.join(root))
-                content += "|[{}]({})|[링크]({})|".format(category, problem_link, folder_link)
-                solveds.append(category)
+                    quetion_name = re.sub(r'^\d+\)\s*', '', category)
+                    folder_link = parse.quote(os.path.join(root))
+                    content += "|[{}]({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
+                    solveds.append(category)
 
             for name in names:
                 for file in files:
