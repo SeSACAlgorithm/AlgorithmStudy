@@ -179,7 +179,7 @@
 
 | 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1025](https://www.acmicpc.net/problem/1025)|제곱수 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1025%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)|||||||
+|[1025](https://www.acmicpc.net/problem/1025)|제곱수 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1025%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)||✔|||||
 |[12919](https://www.acmicpc.net/problem/12919)|A와 B 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/12919%29%20A%EC%99%80%20B%202)|||||||
 |[14391](https://www.acmicpc.net/problem/14391)|종이 조각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14391%29%20%EC%A2%85%EC%9D%B4%20%EC%A1%B0%EA%B0%81)|||||||
 |[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)|||||||
@@ -202,7 +202,7 @@
 |[21278](https://www.acmicpc.net/problem/21278)|호석이 두 마리 치킨|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21278%29%20%ED%98%B8%EC%84%9D%EC%9D%B4%20%EB%91%90%20%EB%A7%88%EB%A6%AC%20%EC%B9%98%ED%82%A8)|||||||
 |[21315](https://www.acmicpc.net/problem/21315)|카드 섞기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21315%29%20%EC%B9%B4%EB%93%9C%20%EC%84%9E%EA%B8%B0)|||||||
 |[21943](https://www.acmicpc.net/problem/21943)|연산 최대로|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21943%29%20%EC%97%B0%EC%82%B0%20%EC%B5%9C%EB%8C%80%EB%A1%9C)|||||||
-|[2231](https://www.acmicpc.net/problem/2231)|분해합|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2231%29%20%EB%B6%84%ED%95%B4%ED%95%A9)|||||||
+|[2231](https://www.acmicpc.net/problem/2231)|분해합|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2231%29%20%EB%B6%84%ED%95%B4%ED%95%A9)||✔|||||
 |[22864](https://www.acmicpc.net/problem/22864)|피로도_|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/22864%29%20%ED%94%BC%EB%A1%9C%EB%8F%84_)|||||||
 |[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)|||||||
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)|||||||
