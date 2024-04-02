@@ -4,7 +4,7 @@ import os
 import re
 from urllib import parse
 
-HEADER = """# 
+HEADER="""# 
 # 백준 & 프로그래머스 문제 풀이 목록
 
 ## 목차
@@ -16,29 +16,32 @@ HEADER = """#
 def main():
     content = ""
     content += HEADER
-
+    
     directories = []
     solveds = []
     names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
     site_link = ""
 
-    # Get the list of changed files and directories
-    changed_files = []
-    for line in os.popen('git diff --name-only HEAD').read().splitlines():
-        if line.startswith('./'):
-            changed_files.append(line[2:])
+    for root, dirs, files in os.walk("."):
+        dirs.sort()
+        if root == '.':
+            for dir in ('.git', '.github'):
+                try:
+                    dirs.remove(dir)
+                except ValueError:
+                    pass
+            continue
 
-    for file in changed_files:
-        category = os.path.basename(os.path.dirname(file))
-
+        category = os.path.basename(root)
+        
         if category == 'images':
             continue
-
-        directory = os.path.basename(os.path.dirname(os.path.dirname(file)))
-
+        
+        directory = os.path.basename(os.path.dirname(root))
+        
         if directory == '.':
             continue
-
+            
         if directory not in directories:
             if directories:
                 content += "\n</details>\n\n"
@@ -55,31 +58,33 @@ def main():
                 content += "| 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
-
+        
         if category[0].isdigit():
             if category not in solveds:
                 match = re.match(r'(\d+)', category)
-                if match: 
-                    number = int(match.group(1))  # 문제 번호
+                if match : 
+                    number = int(match.group(1)) # 문제 번호
                     problem_link = site_link + str(number)
                     quetion_name = re.sub(r'^\d+\)\s*', '', category)
-                    folder_link = parse.quote(os.path.join(os.path.dirname(file)))
+                    folder_link = parse.quote(os.path.join(root))
                     content += "|[{}]({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
                     solveds.append(category)
 
             for name in names:
-                if name in file:
-                    content += "✔"
-                else:
-                    content += "|"
-
+                for file in files:
+                    if name in file:
+                        content += "✔"
+                    else:
+                        continue
+                content += "|"
+                
             content += "\n"
-
+                
     if directories:  # Check if there are any directories
         content += "\n</details>\n\n"  # Close the last details tag
 
     with open("README.md", "w") as fd:
         fd.write(content)
-
+        
 if __name__ == "__main__":
     main()
