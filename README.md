@@ -325,7 +325,7 @@
 
 | 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[12901](https://programmers.co.kr/learn/courses/30/lessons/12901)|2016년|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12901%29%202016%EB%85%84)|||✔||||
+|[12901](https://programmers.co.kr/learn/courses/30/lessons/12901)|2016년|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12901%29%202016%EB%85%84)||✔|✔||||
 |[12903](https://programmers.co.kr/learn/courses/30/lessons/12903)|가운데 글자 가져오기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12903%29%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)|✔|✔|✔|✔|||
 |[12906](https://programmers.co.kr/learn/courses/30/lessons/12906)|같은 숫자는 싫어|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12906%29%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)|✔|✔|✔|✔|✔||
 |[12910](https://programmers.co.kr/learn/courses/30/lessons/12910)|나누어 떨어지는 숫자 배열|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12910%29%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4)|✔|✔|✔|✔|||
@@ -369,7 +369,7 @@
 |[12930](https://programmers.co.kr/learn/courses/30/lessons/12930)|이상한 문자 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12930%29%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||✔|✔|✔|||
 |[12931](https://programmers.co.kr/learn/courses/30/lessons/12931)|자릿수 더하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12931%29%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)|✔|✔|✔|✔|||
 |[12932](https://programmers.co.kr/learn/courses/30/lessons/12932)|자연수 뒤집어 배열로 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12932%29%20%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|✔|||
-|[12933](https://programmers.co.kr/learn/courses/30/lessons/12933)|정수 내림차순으로 배치하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12933%29%20%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)||✔|✔||||
+|[12933](https://programmers.co.kr/learn/courses/30/lessons/12933)|정수 내림차순으로 배치하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12933%29%20%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)|✔|✔|✔||||
 |[12934](https://programmers.co.kr/learn/courses/30/lessons/12934)|정수 제곱근 판별|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12934%29%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)||✔|✔||||
 |[12935](https://programmers.co.kr/learn/courses/30/lessons/12935)|제일 작은 수 제거하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12935%29%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|✔||✔|✔|||
 |[12937](https://programmers.co.kr/learn/courses/30/lessons/12937)|짝수와 홀수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12937%29%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)|✔|✔|✔|✔|||
