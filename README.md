@@ -55,7 +55,7 @@
 |[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/11725%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0)||✔|||||
 |[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1260%29%20DFS%EC%99%80%20BFS)|✔|✔|||||
 |[13023](https://www.acmicpc.net/problem/13023)|ABCDE|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/13023%29%20ABCDE)|||||||
-|[1325](https://www.acmicpc.net/problem/1325)|효율적인 해킹|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1325%29%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9)|||||||
+|[1325](https://www.acmicpc.net/problem/1325)|효율적인 해킹|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1325%29%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9)||✔|||||
 |[13549](https://www.acmicpc.net/problem/13549)|숨바꼭질 3|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/13549%29%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203)||✔|||||
 |[14502](https://www.acmicpc.net/problem/14502)|연구소|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/14502%29%20%EC%97%B0%EA%B5%AC%EC%86%8C)||✔|||||
 |[14940](https://www.acmicpc.net/problem/14940)|쉬운 최단거리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/14940%29%20%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)|||||||
