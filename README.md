@@ -448,7 +448,7 @@
 
 | 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[12899](https://programmers.co.kr/learn/courses/30/lessons/12899)|124 나라의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12899%29%20124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)|||||||
+|[12899](https://programmers.co.kr/learn/courses/30/lessons/12899)|124 나라의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12899%29%20124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)|||✔||||
 |[12973](https://programmers.co.kr/learn/courses/30/lessons/12973)|짝지어 제거하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12973%29%20%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|||✔||||
 |[12978](https://programmers.co.kr/learn/courses/30/lessons/12978)|배달|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12978%29%20%EB%B0%B0%EB%8B%AC)|||||||
 |[12985](https://programmers.co.kr/learn/courses/30/lessons/12985)|예상 대진표|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12985%29%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)|||✔||||
