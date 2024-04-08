@@ -420,7 +420,7 @@
 | 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[12919](https://programmers.co.kr/learn/courses/30/lessons/12919)|서울에서 김서방 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12919%29%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)|✔|✔|✔|✔|✔||
-|[12921](https://programmers.co.kr/learn/courses/30/lessons/12921)|소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12921%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)||✔|✔|✔|||
+|[12921](https://programmers.co.kr/learn/courses/30/lessons/12921)|소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12921%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)|✔|✔|✔|✔|||
 |[12922](https://programmers.co.kr/learn/courses/30/lessons/12922)|수박수박수박수박수박수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12922%29%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)|✔|✔|✔|✔|✔||
 |[12925](https://programmers.co.kr/learn/courses/30/lessons/12925)|문자열을 정수로 바꾸기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12925%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)|✔|✔|✔|✔|||
 |[12926](https://programmers.co.kr/learn/courses/30/lessons/12926)|시저 암호|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12926%29%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)|||✔||||
