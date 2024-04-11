@@ -19,7 +19,7 @@ def main():
     
     directories = []
     solveds = []
-    names = ['윤지', '석희', '경호', '정완', '윤선', '응찬']
+    names = ['윤지', '석희', '경호', '정완', '윤선', '응찬', '정현']
     site_link = ""
 
     for root, dirs, files in os.walk("."):
@@ -55,8 +55,8 @@ def main():
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
-                content += "| 번호 | 문제 | 깃 | 윥 | 석 | 경 | 정 | 윤 | 응 |\n"
-                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
+                content += "| 번호 | 문제 | 깃 | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 |\n"
+                content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
         if category[0].isdigit():
