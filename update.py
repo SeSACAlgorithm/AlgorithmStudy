@@ -55,7 +55,7 @@ def main():
                 content += "<details>\n"
                 content += "  <summary><b>"
                 content += "🚀 {}</b></summary>\n\n".format(directory)
-                content += "| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 |\n"
+                content += "| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 |\n"
                 content += "| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
             directories.append(directory)
         
