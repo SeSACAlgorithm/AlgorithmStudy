@@ -437,7 +437,7 @@
 |[12944](https://programmers.co.kr/learn/courses/30/lessons/12944)|평균 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12944%29%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)|✔|✔|✔|✔|✔||||||
 |[12947](https://programmers.co.kr/learn/courses/30/lessons/12947)|하샤드 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12947%29%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)|✔|✔|✔|✔|||||||
 |[12948](https://programmers.co.kr/learn/courses/30/lessons/12948)|핸드폰 번호 가리기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12948%29%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0)|✔|✔|✔|✔|✔||||||
-|[12950](https://programmers.co.kr/learn/courses/30/lessons/12950)|행렬의 덧셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12950%29%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88)|✔||✔|✔|||||||
+|[12950](https://programmers.co.kr/learn/courses/30/lessons/12950)|행렬의 덧셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12950%29%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88)|✔|✔|✔|✔|||||||
 |[12954](https://programmers.co.kr/learn/courses/30/lessons/12954)|x만큼 간격이 있는 n개의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12954%29%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)|✔|✔|✔|✔|✔||||||
 |[12969](https://programmers.co.kr/learn/courses/30/lessons/12969)|직사각형 별찍기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12969%29%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0)|✔||✔|✔|||||||
 
