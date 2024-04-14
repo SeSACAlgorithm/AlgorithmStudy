@@ -462,7 +462,7 @@
 |[42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|기능개발|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42586%29%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|||✔|||||||||
 |[42587](https://programmers.co.kr/learn/courses/30/lessons/42587)|프로세스|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42587%29%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)|||✔|||||||||
 |[42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42626%29%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C)|||✔|||||||||
-|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746)|가장 큰 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42746%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)||||||||||||
+|[42746](https://programmers.co.kr/learn/courses/30/lessons/42746)|가장 큰 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42746%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)|||||||||||✔|
 |[42747](https://programmers.co.kr/learn/courses/30/lessons/42747)|H-Index|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42747%29%20H-Index)||||||||||||
 |[42839](https://programmers.co.kr/learn/courses/30/lessons/42839)|소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42839%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)||||||||||||
 |[42842](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42842%29%20%EC%B9%B4%ED%8E%AB)|||✔|||||||||
