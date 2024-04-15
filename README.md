@@ -41,12 +41,12 @@
 |[22860](https://www.acmicpc.net/problem/22860)|폴더 정리 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22860%29%20%ED%8F%B4%EB%8D%94%20%EC%A0%95%EB%A6%AC%20%28small%29)||||||||||||
 |[2578](https://www.acmicpc.net/problem/2578)|빙고|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2578%29%20%EB%B9%99%EA%B3%A0)||||||||||||
 |[2615](https://www.acmicpc.net/problem/2615)|오목|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2615%29%20%EC%98%A4%EB%AA%A9)||||||||||||
-|[2711](https://www.acmicpc.net/problem/2711)|오타맨 고창영|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2711%29%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81)||||||||||||
+|[2711](https://www.acmicpc.net/problem/2711)|오타맨 고창영|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2711%29%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81)|✔|||||||||||
 |[2753](https://www.acmicpc.net/problem/2753)|윤년|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2753%29%20%EC%9C%A4%EB%85%84)||✔|✔|✔||||||||
 |[2947](https://www.acmicpc.net/problem/2947)|나무 조각|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2947%29%20%EB%82%98%EB%AC%B4%20%EC%A1%B0%EA%B0%81)||||||||||||
 |[4396](https://www.acmicpc.net/problem/4396)|지뢰 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/4396%29%20%EC%A7%80%EB%A2%B0%20%EC%B0%BE%EA%B8%B0)||✔||||||||||
 |[5597](https://www.acmicpc.net/problem/5597)|과제 안내신분|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/5597%29%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%EB%82%B4%EC%8B%A0%EB%B6%84)||✔||||||||||
-|[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/8958%29%20OX%ED%80%B4%EC%A6%88)||||||||||||
+|[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/8958%29%20OX%ED%80%B4%EC%A6%88)|✔|||||||||||
 
 </details>
 
@@ -169,7 +169,7 @@
 |[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2609%29%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)||✔||||||||||
 |[2745](https://www.acmicpc.net/problem/2745)|진법 변환|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2745%29%20%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98)||||||||||||
 |[2960](https://www.acmicpc.net/problem/2960)|에라토스테네스의 체|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2960%29%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)|||✔|||||||||
-|[3052](https://www.acmicpc.net/problem/3052)|나머지|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/3052%29%20%EB%82%98%EB%A8%B8%EC%A7%80)||||||||||||
+|[3052](https://www.acmicpc.net/problem/3052)|나머지|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/3052%29%20%EB%82%98%EB%A8%B8%EC%A7%80)|✔|||||||||||
 |[4134](https://www.acmicpc.net/problem/4134)|다음 소수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/4134%29%20%EB%8B%A4%EC%9D%8C%20%EC%86%8C%EC%88%98)||||||||||||
 |[5347](https://www.acmicpc.net/problem/5347)|LCM|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/5347%29%20LCM)||||||||||||
 |[5618](https://www.acmicpc.net/problem/5618)|공약수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/5618%29%20%EA%B3%B5%EC%95%BD%EC%88%98)||||||||||||
@@ -262,7 +262,7 @@
 |[10828](https://www.acmicpc.net/problem/10828)|스택|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10828%29%20%EC%8A%A4%ED%83%9D)|✔|✔|✔|✔|✔|✔||||||
 |[10866](https://www.acmicpc.net/problem/10866)|덱|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10866%29%20%EB%8D%B1)|✔|✔|✔|✔|✔|✔||||||
 |[1158](https://www.acmicpc.net/problem/1158)|요세푸스 문제|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1158%29%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)|✔|✔|✔|✔||✔||||||
-|[1302](https://www.acmicpc.net/problem/1302)|베스트셀러|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1302%29%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC)||||||||||||
+|[1302](https://www.acmicpc.net/problem/1302)|베스트셀러|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1302%29%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC)|✔|||||||||||
 |[18258](https://www.acmicpc.net/problem/18258)|큐 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/18258%29%20%ED%81%90%202)|✔|✔|✔|✔|✔|✔||||||
 |[1874](https://www.acmicpc.net/problem/1874)|스택 수열|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1874%29%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4)|✔|✔||||✔||||||
 |[1918](https://www.acmicpc.net/problem/1918)|후위 표기식|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1918%29%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D)||||||||||||
