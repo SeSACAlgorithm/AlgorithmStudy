@@ -82,6 +82,7 @@
 |[2667](https://www.acmicpc.net/problem/2667)|단지번호 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2667%29%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||✔||||||||||
 |[2668](https://www.acmicpc.net/problem/2668)|숫자고르기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2668%29%20%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0)||||||||||||
 |[4179](https://www.acmicpc.net/problem/4179)|불!|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/4179%29%20%EB%B6%88%21)||||||||||||
+|[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/4485%29%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80)||||||||||||
 |[5547](https://www.acmicpc.net/problem/5547)|일루미네이션|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/5547%29%20%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98)||||||||||||
 |[7569](https://www.acmicpc.net/problem/7569)|토마토|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/7569%29%20%ED%86%A0%EB%A7%88%ED%86%A0)||✔||||||||||
 |[7576](https://www.acmicpc.net/problem/7576)|토마토|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/7576%29%20%ED%86%A0%EB%A7%88%ED%86%A0)||✔||||||||||
