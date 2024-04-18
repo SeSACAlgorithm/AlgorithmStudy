@@ -91,6 +91,26 @@
 </details>
 
 <details>
+  <summary><b>🚀 누적 합</b></summary>
+
+| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
+| ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[10896](https://www.acmicpc.net/problem/10896)|나머지 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/10896%29%20%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%A9)||||||||||||
+|[11659](https://www.acmicpc.net/problem/11659)|구간 합 구하기 4|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/11659%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204)||||||||||||
+|[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기 5|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/11660%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)||||||||||||
+|[14929](https://www.acmicpc.net/problem/14929)|귀찮아(SIB)|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/14929%29%20%EA%B7%80%EC%B0%AE%EC%95%84%28SIB%29)||||||||||||
+|[1749](https://www.acmicpc.net/problem/1749)|점수따먹기|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/1749%29%20%EC%A0%90%EC%88%98%EB%94%B0%EB%A8%B9%EA%B8%B0)||||||||||||
+|[2015](https://www.acmicpc.net/problem/2015)|수들의 합 4|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/2015%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%204)||||||||||||
+|[20438](https://www.acmicpc.net/problem/20438)|출석체크|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/20438%29%20%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC)||||||||||||
+|[20440](https://www.acmicpc.net/problem/20440)|🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/20440%29%20%F0%9F%8E%B5%EB%8B%88%EA%B0%80%20%EC%8B%AB%EC%96%B4%20%EC%8B%AB%EC%96%B4%20%EB%84%88%EB%AC%B4%20%EC%8B%AB%EC%96%B4%20%EC%8B%AB%EC%96%B4%20%EC%98%A4%EC%A7%80%20%EB%A7%88%20%EB%82%B4%EA%B2%8C%20%EC%B0%9D%EC%A9%8D%EB%8C%80%EC%A7%80%EB%A7%88%F0%9F%8E%B5%20-%201)||||||||||||
+|[20543](https://www.acmicpc.net/problem/20543)|폭탄 던지는 태영이|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/20543%29%20%ED%8F%AD%ED%83%84%20%EB%8D%98%EC%A7%80%EB%8A%94%20%ED%83%9C%EC%98%81%EC%9D%B4)||||||||||||
+|[21318](https://www.acmicpc.net/problem/21318)|피아노 체조|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/21318%29%20%ED%94%BC%EC%95%84%EB%85%B8%20%EC%B2%B4%EC%A1%B0)||||||||||||
+|[2167](https://www.acmicpc.net/problem/2167)|2차원 배열의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/2167%29%202%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%95%A9)||||||||||||
+|[21757](https://www.acmicpc.net/problem/21757)|나누기|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/21757%29%20%EB%82%98%EB%88%84%EA%B8%B0)||||||||||||
+
+</details>
+
+<details>
   <summary><b>🚀 동적 계획법 1</b></summary>
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
@@ -101,7 +121,7 @@
 |[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11053%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)||||||||||||
 |[11055](https://www.acmicpc.net/problem/11055)|가장 큰 증가하는 부분 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11055%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)||||||||||||
 |[1106](https://www.acmicpc.net/problem/1106)|호텔|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1106%29%20%ED%98%B8%ED%85%94)||||||||||||
-|[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기 5|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11660%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)||||||||||||
+|||||||||||
 |[11726](https://www.acmicpc.net/problem/11726)|2xn 타일링|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11726%29%202xn%20%ED%83%80%EC%9D%BC%EB%A7%81)||||||||||||
 |[11727](https://www.acmicpc.net/problem/11727)|2 x n 타일링 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11727%29%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81%202)||||||||||||
 |[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1463%29%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||||||
