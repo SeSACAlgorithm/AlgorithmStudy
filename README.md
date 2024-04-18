@@ -196,6 +196,7 @@
 |[15666](https://www.acmicpc.net/problem/15666)|N과 M (12)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15666%29%20N%EA%B3%BC%20M%20%2812%29)||||||||||||
 |[16987](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/16987%29%20%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%20%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0)||||||||||||
 |[17136](https://www.acmicpc.net/problem/17136)|색종이 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/17136%29%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||||||||||||
+|[1759](https://www.acmicpc.net/problem/1759)|암호 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1759%29%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||✔||||||||||
 |[1799](https://www.acmicpc.net/problem/1799)|비숍|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1799%29%20%EB%B9%84%EC%88%8D)||||||||||||
 |[18430](https://www.acmicpc.net/problem/18430)|무기 공학|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/18430%29%20%EB%AC%B4%EA%B8%B0%20%EA%B3%B5%ED%95%99)||||||||||||
 |[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)||||||||||||
