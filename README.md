@@ -172,6 +172,42 @@
 </details>
 
 <details>
+  <summary><b>🚀 백트래킹</b></summary>
+
+| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
+| ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1062](https://www.acmicpc.net/problem/1062)|가르침|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1062%29%20%EA%B0%80%EB%A5%B4%EC%B9%A8)||||||||||||
+|[10971](https://www.acmicpc.net/problem/10971)|외판원 순회2|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10971%29%20%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C2)||||||||||||
+|[1174](https://www.acmicpc.net/problem/1174)|줄어드는 수|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1174%29%20%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%20%EC%88%98)||||||||||||
+|[1182](https://www.acmicpc.net/problem/1182)|부분수열의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1182%29%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9)||||||||||||
+|[14712](https://www.acmicpc.net/problem/14712)|넴모넴모 (Easy)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14712%29%20%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%20%28Easy%29)||||||||||||
+|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14888%29%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)||||||||||||
+|[15649](https://www.acmicpc.net/problem/15649)|N과 M (1)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15649%29%20N%EA%B3%BC%20M%20%281%29)||✔||||||||||
+|[15650](https://www.acmicpc.net/problem/15650)|N과 M (2)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15650%29%20N%EA%B3%BC%20M%20%282%29)||✔||||||||||
+|[15651](https://www.acmicpc.net/problem/15651)|N과 M (3)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15651%29%20N%EA%B3%BC%20M%20%283%29)||✔||||||||||
+|[15652](https://www.acmicpc.net/problem/15652)|N과 M (4)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15652%29%20N%EA%B3%BC%20M%20%284%29)||✔||||||||||
+|[15654](https://www.acmicpc.net/problem/15654)|N과 M (5)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15654%29%20N%EA%B3%BC%20M%20%285%29)||✔||||||||||
+|[15655](https://www.acmicpc.net/problem/15655)|N과 M (6)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15655%29%20N%EA%B3%BC%20M%20%286%29)||✔||||||||||
+|[15656](https://www.acmicpc.net/problem/15656)|N과 M (7)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15656%29%20N%EA%B3%BC%20M%20%287%29)||✔||||||||||
+|[15657](https://www.acmicpc.net/problem/15657)|N과 M (8)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657%29%20N%EA%B3%BC%20M%20%288%29)||✔||||||||||
+|[15663](https://www.acmicpc.net/problem/15663)|N과 M (9)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15663%29%20N%EA%B3%BC%20M%20%289%29)||✔||||||||||
+|[15664](https://www.acmicpc.net/problem/15664)|N과 M (10)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15664%29%20N%EA%B3%BC%20M%20%2810%29)||||||||||||
+|[15665](https://www.acmicpc.net/problem/15665)|N과 M (11)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15665%29%20N%EA%B3%BC%20M%20%2811%29)||||||||||||
+|[15666](https://www.acmicpc.net/problem/15666)|N과 M (12)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15666%29%20N%EA%B3%BC%20M%20%2812%29)||||||||||||
+|[16987](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/16987%29%20%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%20%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0)||||||||||||
+|[17136](https://www.acmicpc.net/problem/17136)|색종이 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/17136%29%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||||||||||||
+|[1799](https://www.acmicpc.net/problem/1799)|비숍|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1799%29%20%EB%B9%84%EC%88%8D)||||||||||||
+|[18430](https://www.acmicpc.net/problem/18430)|무기 공학|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/18430%29%20%EB%AC%B4%EA%B8%B0%20%EA%B3%B5%ED%95%99)||||||||||||
+|[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)||||||||||||
+|[2580](https://www.acmicpc.net/problem/2580)|스도쿠|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2580%29%20%EC%8A%A4%EB%8F%84%EC%BF%A0)||||||||||||
+|[2661](https://www.acmicpc.net/problem/2661)|좋은 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2661%29%20%EC%A2%8B%EC%9D%80%20%EC%88%98%EC%97%B4)||||||||||||
+|[3980](https://www.acmicpc.net/problem/3980)|선발 명단|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/3980%29%20%EC%84%A0%EB%B0%9C%20%EB%AA%85%EB%8B%A8)||||||||||||
+|[6443](https://www.acmicpc.net/problem/6443)|애너그램|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/6443%29%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8)||||||||||||
+|[9663](https://www.acmicpc.net/problem/9663)|N-Queen|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/9663%29%20N-Queen)||||||||||||
+
+</details>
+
+<details>
   <summary><b>🚀 수학</b></summary>
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
@@ -263,7 +299,7 @@
 |[21315](https://www.acmicpc.net/problem/21315)|카드 섞기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21315%29%20%EC%B9%B4%EB%93%9C%20%EC%84%9E%EA%B8%B0)||||||||||||
 |[21943](https://www.acmicpc.net/problem/21943)|연산 최대로|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21943%29%20%EC%97%B0%EC%82%B0%20%EC%B5%9C%EB%8C%80%EB%A1%9C)||||||||||||
 |[2231](https://www.acmicpc.net/problem/2231)|분해합|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2231%29%20%EB%B6%84%ED%95%B4%ED%95%A9)||✔||||||||||
-|[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)||||||||||||
+|||||||||||
 |[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2309%29%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)|✔||||||✔|||||
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)||||||||||||
 |[2503](https://www.acmicpc.net/problem/2503)|숫자 야구|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2503%29%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC)||||||||||||
