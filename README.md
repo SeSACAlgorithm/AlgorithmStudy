@@ -368,6 +368,7 @@
 |[11657](https://www.acmicpc.net/problem/11657)|타임머신|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/11657%29%20%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0)||||||||||||
 |[1238](https://www.acmicpc.net/problem/1238)|파티|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1238%29%20%ED%8C%8C%ED%8B%B0)||✔||||||||||
 |[1277](https://www.acmicpc.net/problem/1277)|발전소 설치|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1277%29%20%EB%B0%9C%EC%A0%84%EC%86%8C%20%EC%84%A4%EC%B9%98)||||||||||||
+|||||||||||
 |[14938](https://www.acmicpc.net/problem/14938)|서강그라운드|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/14938%29%20%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)||✔||||||||||
 |[1507](https://www.acmicpc.net/problem/1507)|궁금한 민호|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1507%29%20%EA%B6%81%EA%B8%88%ED%95%9C%20%EB%AF%BC%ED%98%B8)||||||||||||
 |[1613](https://www.acmicpc.net/problem/1613)|역사|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1613%29%20%EC%97%AD%EC%82%AC)||||||||||||
