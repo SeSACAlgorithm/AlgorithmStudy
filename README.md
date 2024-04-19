@@ -71,7 +71,7 @@
 |[17836](https://www.acmicpc.net/problem/17836)|공주님을 구해라!|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/17836%29%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC%21)||||||||||||
 |[18513](https://www.acmicpc.net/problem/18513)|샘터|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/18513%29%20%EC%83%98%ED%84%B0)||||||||||||
 |[1967](https://www.acmicpc.net/problem/1967)|트리의 지름|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1967%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)||||||||||||
-|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2178%29%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)||✔||||||||||
+|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2178%29%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)|✔|✔||||||||||
 |[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2206%29%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||✔||||||||||
 |[22868](https://www.acmicpc.net/problem/22868)|산책 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22868%29%20%EC%82%B0%EC%B1%85%20%28small%29)||||||||||||
 |[22946](https://www.acmicpc.net/problem/22946)|원 이동하기 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22946%29%20%EC%9B%90%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%201)||||||||||||
