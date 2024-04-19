@@ -333,7 +333,26 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[10815](https://www.acmicpc.net/problem/10815)|숫자 카드|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/10815%29%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C)||||||||||||
+|[11663](https://www.acmicpc.net/problem/11663)|선분 위의 점|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/11663%29%20%EC%84%A0%EB%B6%84%20%EC%9C%84%EC%9D%98%20%EC%A0%90)||||||||||||
+|[1300](https://www.acmicpc.net/problem/1300)|K번째 수|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1300%29%20K%EB%B2%88%EC%A7%B8%20%EC%88%98)||||||||||||
+|[13397](https://www.acmicpc.net/problem/13397)|구간 나누기 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/13397%29%20%EA%B5%AC%EA%B0%84%20%EB%82%98%EB%88%84%EA%B8%B0%202)||||||||||||
+|[1477](https://www.acmicpc.net/problem/1477)|휴게소 세우기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1477%29%20%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%B8%EC%9A%B0%EA%B8%B0)||||||||||||
+|[1654](https://www.acmicpc.net/problem/1654)|랜선 자르기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1654%29%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)||||||||||||
+|[1789](https://www.acmicpc.net/problem/1789)|수들의 합|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1789%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9)||||||||||||
+|[1939](https://www.acmicpc.net/problem/1939)|중량제한|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1939%29%20%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C)||||||||||||
+|[19637](https://www.acmicpc.net/problem/19637)|IF문 좀 대신 써줘|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/19637%29%20IF%EB%AC%B8%20%EC%A2%80%20%EB%8C%80%EC%8B%A0%20%EC%8D%A8%EC%A4%98)||||||||||||
+|[20444](https://www.acmicpc.net/problem/20444)|색종이와 가위|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/20444%29%20%EC%83%89%EC%A2%85%EC%9D%B4%EC%99%80%20%EA%B0%80%EC%9C%84)||||||||||||
+|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2110%29%20%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98)||||||||||||
+|[22871](https://www.acmicpc.net/problem/22871)|징검다리 건너기(large)|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/22871%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0%28large%29)||||||||||||
+|[2412](https://www.acmicpc.net/problem/2412)|암벽 등반|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2412%29%20%EC%95%94%EB%B2%BD%20%EB%93%B1%EB%B0%98)||||||||||||
+|[2417](https://www.acmicpc.net/problem/2417)|정수 제곱근|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2417%29%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC)||||||||||||
+|[2470](https://www.acmicpc.net/problem/2470)|두 용액|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2470%29%20%EB%91%90%20%EC%9A%A9%EC%95%A1)||||||||||||
+|[2473](https://www.acmicpc.net/problem/2473)|세 용액|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2473%29%20%EC%84%B8%20%EC%9A%A9%EC%95%A1)||||||||||||
+|[2512](https://www.acmicpc.net/problem/2512)|예산|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2512%29%20%EC%98%88%EC%82%B0)||||||||||||
 |[2805](https://www.acmicpc.net/problem/2805)|나무 자르기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2805%29%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)||✔||||||||||
+|[3079](https://www.acmicpc.net/problem/3079)|입국심사|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/3079%29%20%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)||||||||||||
+|[7453](https://www.acmicpc.net/problem/7453)|합이 0인 네 정수|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/7453%29%20%ED%95%A9%EC%9D%B4%200%EC%9D%B8%20%EB%84%A4%20%EC%A0%95%EC%88%98)||||||||||||
 
 </details>
 
@@ -482,10 +501,10 @@
 |[21921](https://www.acmicpc.net/problem/21921)|블로그|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/21921%29%20%EB%B8%94%EB%A1%9C%EA%B7%B8)||||||||||||
 |[22862](https://www.acmicpc.net/problem/22862)|가장 긴 짝수 연속한 부분 수열 (large)|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/22862%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28large%29)||||||||||||
 |[22945](https://www.acmicpc.net/problem/22945)|팀 빌딩|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/22945%29%20%ED%8C%80%20%EB%B9%8C%EB%94%A9)||||||||||||
-|[2470](https://www.acmicpc.net/problem/2470)|두 용액|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2470%29%20%EB%91%90%20%EC%9A%A9%EC%95%A1)||||||||||||
+|||||||||||
 |[2559](https://www.acmicpc.net/problem/2559)|수열|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2559%29%20%EC%88%98%EC%97%B4)|✔|||||||||||
 |[3151](https://www.acmicpc.net/problem/3151)|합이 0|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/3151%29%20%ED%95%A9%EC%9D%B4%200)||||||||||||
-|[7453](https://www.acmicpc.net/problem/7453)|합이 0인 네 정수|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/7453%29%20%ED%95%A9%EC%9D%B4%200%EC%9D%B8%20%EB%84%A4%20%EC%A0%95%EC%88%98)||||||||||||
+|||||||||||
 
 </details>
 
