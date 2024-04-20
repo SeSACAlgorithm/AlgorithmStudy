@@ -16,7 +16,7 @@ int Rank(int win){
 
 vector<int> solution(vector<int> lottos, vector<int> win_nums) {
     vector<int> ans;
-    int win;
+    int win = 0;
     int zero = count(lottos.begin(), lottos.end(), 0);
     
     for(int i : lottos)
