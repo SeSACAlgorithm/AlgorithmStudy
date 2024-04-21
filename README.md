@@ -220,7 +220,14 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1074](https://www.acmicpc.net/problem/1074)|Z|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/1074%29%20Z)||||||||||||
+|[17829](https://www.acmicpc.net/problem/17829)|222-풀링|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/17829%29%20222-%ED%92%80%EB%A7%81)||||||||||||
+|[18222](https://www.acmicpc.net/problem/18222)|투에-모스 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/18222%29%20%ED%88%AC%EC%97%90-%EB%AA%A8%EC%8A%A4%20%EB%AC%B8%EC%9E%90%EC%97%B4)||||||||||||
+|[1992](https://www.acmicpc.net/problem/1992)|쿼드트리|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/1992%29%20%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)||||||||||||
+|[2447](https://www.acmicpc.net/problem/2447)|별 찍기 - 10|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/2447%29%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010)||||||||||||
+|[2448](https://www.acmicpc.net/problem/2448)|별 찍기 - 11|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/2448%29%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011)||✔||||||||||
 |[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/2630%29%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||||||
+|[4256](https://www.acmicpc.net/problem/4256)|트리|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/4256%29%20%ED%8A%B8%EB%A6%AC)||||||||||||
 
 </details>
 
@@ -521,7 +528,7 @@
 |[2250](https://www.acmicpc.net/problem/2250)|트리의 높이와 너비|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/2250%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%86%92%EC%9D%B4%EC%99%80%20%EB%84%88%EB%B9%84)||||||||||||
 |[2263](https://www.acmicpc.net/problem/2263)|트리의 순회|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/2263%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C)||||||||||||
 |[3584](https://www.acmicpc.net/problem/3584)|가장 가까운 공통 조상|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/3584%29%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81)||||||||||||
-|[4256](https://www.acmicpc.net/problem/4256)|트리|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/4256%29%20%ED%8A%B8%EB%A6%AC)||||||||||||
+|||||||||||
 |[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/5639%29%20%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)||||||||||||
 |[6416](https://www.acmicpc.net/problem/6416)|트리인가|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/6416%29%20%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80)||||||||||||
 |[9489](https://www.acmicpc.net/problem/9489)|사촌|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/9489%29%20%EC%82%AC%EC%B4%8C)||||||||||||
