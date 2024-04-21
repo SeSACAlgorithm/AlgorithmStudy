@@ -216,6 +216,20 @@
 </details>
 
 <details>
+  <summary><b>🚀 분리 집합</b></summary>
+
+| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
+| ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[10775](https://www.acmicpc.net/problem/10775)|공항|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/10775%29%20%EA%B3%B5%ED%95%AD)||||||||||||
+|[16562](https://www.acmicpc.net/problem/16562)|친구비|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/16562%29%20%EC%B9%9C%EA%B5%AC%EB%B9%84)||||||||||||
+|[1717](https://www.acmicpc.net/problem/1717)|집합의 표현|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/1717%29%20%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84)||||||||||||
+|[18116](https://www.acmicpc.net/problem/18116)|로봇 조립|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/18116%29%20%EB%A1%9C%EB%B4%87%20%EC%A1%B0%EB%A6%BD)||||||||||||
+|[1976](https://www.acmicpc.net/problem/1976)|여행 가자|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/1976%29%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90)||||||||||||
+|[4195](https://www.acmicpc.net/problem/4195)|친구 네트워크|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%EB%A6%AC%20%EC%A7%91%ED%95%A9/4195%29%20%EC%B9%9C%EA%B5%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)||||||||||||
+
+</details>
+
+<details>
   <summary><b>🚀 분할정복</b></summary>
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
