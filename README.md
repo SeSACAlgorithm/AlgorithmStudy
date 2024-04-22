@@ -103,7 +103,6 @@
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[10896](https://www.acmicpc.net/problem/10896)|나머지 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/10896%29%20%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%A9)||||||||||||
 |[11659](https://www.acmicpc.net/problem/11659)|구간 합 구하기 4|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/11659%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204)|✔|||||||||||
-|[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기 5|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/11660%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)||||||||||||
 |[14929](https://www.acmicpc.net/problem/14929)|귀찮아(SIB)|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/14929%29%20%EA%B7%80%EC%B0%AE%EC%95%84%28SIB%29)||||||||||||
 |[1749](https://www.acmicpc.net/problem/1749)|점수따먹기|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/1749%29%20%EC%A0%90%EC%88%98%EB%94%B0%EB%A8%B9%EA%B8%B0)||||||||||||
 |[2015](https://www.acmicpc.net/problem/2015)|수들의 합 4|[링크](./%EB%B0%B1%EC%A4%80/%EB%88%84%EC%A0%81%20%ED%95%A9/2015%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%204)||||||||||||
@@ -128,7 +127,7 @@
 |[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11053%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)||||||||||||
 |[11055](https://www.acmicpc.net/problem/11055)|가장 큰 증가하는 부분 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11055%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4)||||||||||||
 |[1106](https://www.acmicpc.net/problem/1106)|호텔|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1106%29%20%ED%98%B8%ED%85%94)||||||||||||
-|||||||||||
+|[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기 5|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11660%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)||||||||||||
 |[11726](https://www.acmicpc.net/problem/11726)|2xn 타일링|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11726%29%202xn%20%ED%83%80%EC%9D%BC%EB%A7%81)||||||||||||
 |[11727](https://www.acmicpc.net/problem/11727)|2 x n 타일링 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11727%29%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81%202)||||||||||||
 |[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1463%29%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||||||
@@ -541,10 +540,8 @@
 |[21921](https://www.acmicpc.net/problem/21921)|블로그|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/21921%29%20%EB%B8%94%EB%A1%9C%EA%B7%B8)||||||||||||
 |[22862](https://www.acmicpc.net/problem/22862)|가장 긴 짝수 연속한 부분 수열 (large)|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/22862%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28large%29)||||||||||||
 |[22945](https://www.acmicpc.net/problem/22945)|팀 빌딩|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/22945%29%20%ED%8C%80%20%EB%B9%8C%EB%94%A9)||||||||||||
-|||||||||||
 |[2559](https://www.acmicpc.net/problem/2559)|수열|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2559%29%20%EC%88%98%EC%97%B4)|✔|||||||||||
 |[3151](https://www.acmicpc.net/problem/3151)|합이 0|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/3151%29%20%ED%95%A9%EC%9D%B4%200)||||||||||||
-|||||||||||
 
 </details>
 
@@ -553,10 +550,8 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|||||||||||
 |[14725](https://www.acmicpc.net/problem/14725)|개미굴|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/14725%29%20%EA%B0%9C%EB%AF%B8%EA%B5%B4)||||||||||||
 |[20166](https://www.acmicpc.net/problem/20166)|문자열 지옥에 빠진 호석|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/20166%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%80%EC%98%A5%EC%97%90%20%EB%B9%A0%EC%A7%84%20%ED%98%B8%EC%84%9D)||||||||||||
-|||||||||||
 |[5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/5052%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)||||||||||||
 
 </details>
@@ -574,7 +569,6 @@
 |[2250](https://www.acmicpc.net/problem/2250)|트리의 높이와 너비|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/2250%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%86%92%EC%9D%B4%EC%99%80%20%EB%84%88%EB%B9%84)||||||||||||
 |[2263](https://www.acmicpc.net/problem/2263)|트리의 순회|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/2263%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C)||||||||||||
 |[3584](https://www.acmicpc.net/problem/3584)|가장 가까운 공통 조상|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/3584%29%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81)||||||||||||
-|||||||||||
 |[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/5639%29%20%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC)||||||||||||
 |[6416](https://www.acmicpc.net/problem/6416)|트리인가|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/6416%29%20%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80)||||||||||||
 |[9489](https://www.acmicpc.net/problem/9489)|사촌|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC/9489%29%20%EC%82%AC%EC%B4%8C)||||||||||||
