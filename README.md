@@ -69,6 +69,7 @@
 |[1600](https://www.acmicpc.net/problem/1600)|말이 되고픈 원숭이|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1600%29%20%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4)||||||||||||
 |[16234](https://www.acmicpc.net/problem/16234)|인구 이동|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16234%29%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99)||✔||||||||||
 |[16918](https://www.acmicpc.net/problem/16918)|봄버맨|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16918%29%20%EB%B4%84%EB%B2%84%EB%A7%A8)||||||||||||
+|[16928](https://www.acmicpc.net/problem/16928)|뱀과 사다리 게임|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16928%29%20%EB%B1%80%EA%B3%BC%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EA%B2%8C%EC%9E%84)||✔||||||||||
 |[16932](https://www.acmicpc.net/problem/16932)|모양 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16932%29%20%EB%AA%A8%EC%96%91%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||||||
 |[16954](https://www.acmicpc.net/problem/16954)|움직이는 미로 탈출|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16954%29%20%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%20%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C)||||||||||||
 |[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1697%29%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)||✔||||||||||
