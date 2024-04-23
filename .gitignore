@@ -400,3 +400,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .vscode/tasks.json
+.vscode/settings.json
