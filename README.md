@@ -72,7 +72,7 @@
 |[1212](https://www.acmicpc.net/problem/1212)|8진수 2진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1212%29%208%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98)||✔||✔||||||||
 |[1244](https://www.acmicpc.net/problem/1244)|스위치 켜고 끄기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1244%29%20%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BC%9C%EA%B3%A0%20%EB%81%84%EA%B8%B0)||||||||||||
 |[12933](https://www.acmicpc.net/problem/12933)|오리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/12933%29%20%EC%98%A4%EB%A6%AC)||||||||||||
-|[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1373%29%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98)||✔||✔||||||||
+|[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1373%29%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98)||✔|✔|✔||||||||
 |[14053](https://www.acmicpc.net/problem/14053)|로봇 청소기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14053%29%20%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)||✔||||||||||
 |[14467](https://www.acmicpc.net/problem/14467)|소가 길을 건너간 이유 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14467%29%20%EC%86%8C%EA%B0%80%20%EA%B8%B8%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B0%84%20%EC%9D%B4%EC%9C%A0%201)||✔||||||||||
 |[14719](https://www.acmicpc.net/problem/14719)|빗물|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14719%29%20%EB%B9%97%EB%AC%BC)||||||||||||
