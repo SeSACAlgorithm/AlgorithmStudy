@@ -5,11 +5,12 @@ import re
 from urllib import parse
 
 HEADER="""# 
-# 백준 & 프로그래머스 문제 풀이 목록
+# 백준 & 프로그래머스 & SWEA
 
 ## 목차
 ### [백준](#-백준) <br>
-### [프로그래머스](#-프로그래머스)
+### [프로그래머스](#-프로그래머스) <br>
+### [SWEA](#-SWEA)
 
 """
 
@@ -45,11 +46,13 @@ def main():
         if directory not in directories:
             if directories:
                 content += "\n</details>\n\n"
-            if directory in ["백준", "프로그래머스"]:
+            if directory in ["백준", "프로그래머스", "SWEA"]:
                 if directory == "백준":
                     site_link = "https://www.acmicpc.net/problem/"
                 elif directory == "프로그래머스":
                     site_link = "https://programmers.co.kr/learn/courses/30/lessons/"
+                elif directory == "SWEA:
+                    site_link = " "
                 content += "# 📚 {}\n".format(directory)
             else:
                 content += "<details>\n"
@@ -64,7 +67,8 @@ def main():
                 match = re.match(r'(\d+)', category)
                 if match : 
                     number = int(match.group(1)) # 문제 번호
-                    problem_link = site_link + str(number)
+                    if site_link != " "
+                        problem_link = site_link + str(number)
                     quetion_name = re.sub(r'^\d+\)\s*', '', category)
                     folder_link = parse.quote(os.path.join(root))
                     content += "|[{}]({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
