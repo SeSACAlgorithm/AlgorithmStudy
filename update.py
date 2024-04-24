@@ -51,7 +51,7 @@ def main():
                     site_link = "https://www.acmicpc.net/problem/"
                 elif directory == "프로그래머스":
                     site_link = "https://programmers.co.kr/learn/courses/30/lessons/"
-                elif directory == "SWEA:
+                elif directory == "SWEA":
                     site_link = " "
                 content += "# 📚 {}\n".format(directory)
             else:
@@ -67,7 +67,7 @@ def main():
                 match = re.match(r'(\d+)', category)
                 if match : 
                     number = int(match.group(1)) # 문제 번호
-                    if site_link != " "
+                    if site_link != " ":
                         problem_link = site_link + str(number)
                     quetion_name = re.sub(r'^\d+\)\s*', '', category)
                     folder_link = parse.quote(os.path.join(root))
