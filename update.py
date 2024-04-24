@@ -5,11 +5,12 @@ import re
 from urllib import parse
 
 HEADER="""# 
-# 백준 & 프로그래머스 문제 풀이 목록
+# 백준 & 프로그래머스 & SWEA
 
 ## 목차
+### [SWEA](#-SWEA)
 ### [백준](#-백준) <br>
-### [프로그래머스](#-프로그래머스)
+### [프로그래머스](#-프로그래머스) <br>
 
 """
 
@@ -45,8 +46,10 @@ def main():
         if directory not in directories:
             if directories:
                 content += "\n</details>\n\n"
-            if directory in ["백준", "프로그래머스"]:
-                if directory == "백준":
+            if directory in ["SWEA", "백준", "프로그래머스"]:
+                if directory == "SWEA" :
+                    site_link = "SWEA"
+                elif directory == "백준":
                     site_link = "https://www.acmicpc.net/problem/"
                 elif directory == "프로그래머스":
                     site_link = "https://programmers.co.kr/learn/courses/30/lessons/"
@@ -64,10 +67,13 @@ def main():
                 match = re.match(r'(\d+)', category)
                 if match : 
                     number = int(match.group(1)) # 문제 번호
-                    problem_link = site_link + str(number)
                     quetion_name = re.sub(r'^\d+\)\s*', '', category)
                     folder_link = parse.quote(os.path.join(root))
-                    content += "|[{}]({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
+                    if site_link != "SWEA":
+                        problem_link = site_link + str(number)
+                        content += "|[{}]({})|{}|[링크]({})|".format(number, problem_link, quetion_name, folder_link)
+                    else :
+                        content += "|{}|{}|[링크]({})|".format(number, quetion_name, folder_link)
                     solveds.append(category)
 
             for name in names:
