@@ -24,7 +24,7 @@ def main():
     site_link = ""
 
     for root, dirs, files in os.walk("."):
-        dirs.sort()
+        #dirs.sort()
         if root == '.':
             for dir in ('.git', '.github'):
                 try:
