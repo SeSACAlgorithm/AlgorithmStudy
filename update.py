@@ -8,9 +8,9 @@ HEADER="""#
 # 백준 & 프로그래머스 & SWEA
 
 ## 목차
+### [SWEA](#-SWEA)
 ### [백준](#-백준) <br>
 ### [프로그래머스](#-프로그래머스) <br>
-### [SWEA](#-SWEA)
 
 """
 
@@ -47,12 +47,12 @@ def main():
             if directories:
                 content += "\n</details>\n\n"
             if directory in ["SWEA", "백준", "프로그래머스"]:
-                if directory == "백준":
+                if directory == "SWEA" :
+                    site_link = "SWEA"
+                elif directory == "백준":
                     site_link = "https://www.acmicpc.net/problem/"
                 elif directory == "프로그래머스":
                     site_link = "https://programmers.co.kr/learn/courses/30/lessons/"
-                elif directory == "SWEA":
-                    site_link = "SWEA"
                 content += "# 📚 {}\n".format(directory)
             else:
                 content += "<details>\n"
