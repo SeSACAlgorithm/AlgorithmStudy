@@ -19,7 +19,7 @@
 |[1212](https://www.acmicpc.net/problem/1212)|8진수 2진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1212%29%208%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98)||✔||✔||||||||
 |[1244](https://www.acmicpc.net/problem/1244)|스위치 켜고 끄기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1244%29%20%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BC%9C%EA%B3%A0%20%EB%81%84%EA%B8%B0)||||||||||||
 |[12933](https://www.acmicpc.net/problem/12933)|오리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/12933%29%20%EC%98%A4%EB%A6%AC)||||||||||||
-|[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1373%29%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98)||✔||||||||||
+|[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1373%29%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98)||✔||✔||||||||
 |[14053](https://www.acmicpc.net/problem/14053)|로봇 청소기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14053%29%20%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)||✔||||||||||
 |[14467](https://www.acmicpc.net/problem/14467)|소가 길을 건너간 이유 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14467%29%20%EC%86%8C%EA%B0%80%20%EA%B8%B8%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B0%84%20%EC%9D%B4%EC%9C%A0%201)||✔||||||||||
 |[14719](https://www.acmicpc.net/problem/14719)|빗물|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14719%29%20%EB%B9%97%EB%AC%BC)||||||||||||
@@ -160,7 +160,7 @@
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[10798](https://www.acmicpc.net/problem/10798)|세로읽기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/10798%29%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)||||||||||||
 |[11365](https://www.acmicpc.net/problem/11365)|!밀비급일|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365%29%20%21%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC)||||||||||||
-|[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9)||||||||||||
+|[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9)||||✔||||||||
 |[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1181%29%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC)||✔||||||||||
 |[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 체커|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%29%20%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4)||✔||||||||||
 |[16171](https://www.acmicpc.net/problem/16171)|나는 친구가 적다(Small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/16171%29%20%EB%82%98%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%EC%A0%81%EB%8B%A4%28Small%29)||||||||||||
