@@ -146,6 +146,7 @@
 |[3154](https://www.acmicpc.net/problem/3154)|양|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/3154%29%20%EC%96%91)||||||||||||
 |[4179](https://www.acmicpc.net/problem/4179)|불!|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/4179%29%20%EB%B6%88%21)||||||||||||
 |[5547](https://www.acmicpc.net/problem/5547)|일루미네이션|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/5547%29%20%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98)||||||||||||
+|[6593](https://www.acmicpc.net/problem/6593)|상범 빌딩|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/6593%29%20%EC%83%81%EB%B2%94%20%EB%B9%8C%EB%94%A9)||||||||||||
 |[7569](https://www.acmicpc.net/problem/7569)|토마토|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/7569%29%20%ED%86%A0%EB%A7%88%ED%86%A0)||✔||||||||||
 |[7576](https://www.acmicpc.net/problem/7576)|토마토|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/7576%29%20%ED%86%A0%EB%A7%88%ED%86%A0)|✔|✔||||||||||
 |[9466](https://www.acmicpc.net/problem/9466)|텀 프로젝트|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/9466%29%20%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)||||||||||||
