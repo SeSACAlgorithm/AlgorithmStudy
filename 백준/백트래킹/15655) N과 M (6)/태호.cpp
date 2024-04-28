@@ -18,7 +18,7 @@ void func(int cur)
     int st = 0;
 
     if(cur != 0)
-		st = sub[cur - 1] + 1;
+	st = sub[cur - 1] + 1;
 
     for(int i = st; i < n; ++i)
     {
