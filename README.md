@@ -251,7 +251,7 @@
 |[15652](https://www.acmicpc.net/problem/15652)|N과 M (4)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15652%29%20N%EA%B3%BC%20M%20%284%29)||✔|||||||||✔|
 |[15654](https://www.acmicpc.net/problem/15654)|N과 M (5)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15654%29%20N%EA%B3%BC%20M%20%285%29)|✔|✔|||||||||✔|
 |[15655](https://www.acmicpc.net/problem/15655)|N과 M (6)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15655%29%20N%EA%B3%BC%20M%20%286%29)||✔|||||||||✔|
-|[15656](https://www.acmicpc.net/problem/15656)|N과 M (7)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15656%29%20N%EA%B3%BC%20M%20%287%29)||✔||||||||||
+|[15656](https://www.acmicpc.net/problem/15656)|N과 M (7)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15656%29%20N%EA%B3%BC%20M%20%287%29)||✔|||||||||✔|
 |[15657](https://www.acmicpc.net/problem/15657)|N과 M (8)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657%29%20N%EA%B3%BC%20M%20%288%29)||✔||||||||||
 |[15663](https://www.acmicpc.net/problem/15663)|N과 M (9)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15663%29%20N%EA%B3%BC%20M%20%289%29)||✔||||||||||
 |[15664](https://www.acmicpc.net/problem/15664)|N과 M (10)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15664%29%20N%EA%B3%BC%20M%20%2810%29)||||||||||||
