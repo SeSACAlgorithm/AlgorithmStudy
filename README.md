@@ -246,7 +246,7 @@
 |[14712](https://www.acmicpc.net/problem/14712)|넴모넴모 (Easy)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14712%29%20%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%20%28Easy%29)||||||||||||
 |[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14888%29%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)||||||||||||
 |[15649](https://www.acmicpc.net/problem/15649)|N과 M (1)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15649%29%20N%EA%B3%BC%20M%20%281%29)||✔||||||||||
-|[15650](https://www.acmicpc.net/problem/15650)|N과 M (2)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15650%29%20N%EA%B3%BC%20M%20%282%29)||✔||||||||||
+|[15650](https://www.acmicpc.net/problem/15650)|N과 M (2)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15650%29%20N%EA%B3%BC%20M%20%282%29)||✔|||||||||✔|
 |[15651](https://www.acmicpc.net/problem/15651)|N과 M (3)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15651%29%20N%EA%B3%BC%20M%20%283%29)||✔||||||||||
 |[15652](https://www.acmicpc.net/problem/15652)|N과 M (4)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15652%29%20N%EA%B3%BC%20M%20%284%29)||✔||||||||||
 |[15654](https://www.acmicpc.net/problem/15654)|N과 M (5)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15654%29%20N%EA%B3%BC%20M%20%285%29)|✔|✔||||||||||
