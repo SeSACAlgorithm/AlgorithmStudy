@@ -29,13 +29,13 @@ void func(const vector<string>& user_id, int k)
             {
                 V.push_back(i);
                 if(V.size() == k)
-					break;
+		  break;
             }
-		}
+      }
 
-        sort(V.begin(), V.end());
+       sort(V.begin(), V.end());
 
-        bool bSame = false;
+       bool bSame = false;
 
         for(int i = 0; i < VS.size(); ++i)
         {
@@ -54,12 +54,12 @@ void func(const vector<string>& user_id, int k)
 		
 
 		
-	    return;
+	 return;
     }
 
     for(int i = 0; i < user_id.size(); ++i)
     {
-		bool bSame = true;
+	bool bSame = true;
 
         if (vis[i] || user_id[i].size() != banned[k].user_id.size()) continue;
 
@@ -88,20 +88,20 @@ int solution(vector<string> user_id, vector<string> banned_id) {
 
 	for(int i = 0; i < banned_id.size(); ++i)
 	{
-        banned.push_back({ banned_id[i], vector<int>(), i});
-
-        for(int j = 0; j < banned_id[i].size(); ++j)
-        {
-	        if(banned_id[i][j] != '*')
-	        {
-                banned[i].asteriskPoint.push_back(j);
-	        }
-               
+	      banned.push_back({ banned_id[i], vector<int>(), i});
+	
+	      for(int j = 0; j < banned_id[i].size(); ++j)
+	      {
+		    if(banned_id[i][j] != '*')
+		    {
+		       banned[i].asteriskPoint.push_back(j);
+		    }
+	       
 				
-        }
+	       }
 	}
 
-    func(user_id, 0);
+    	func(user_id, 0);
 
-    return answer;
+    	return answer;
 }
