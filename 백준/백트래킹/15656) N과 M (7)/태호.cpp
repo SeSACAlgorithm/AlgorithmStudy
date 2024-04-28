@@ -4,14 +4,14 @@ int idx[10];
 
 void func(int cur)
 {
-	if(cur == m)
-	{
-		for(int i = 0; i < m; ++i)
-			cout << arr[i] << ' ';
+    if(cur == m)
+    {
+	for(int i = 0; i < m; ++i)
+	    cout << arr[i] << ' ';
 
-        cout << '\n';
-		return;
-	}
+         cout << '\n';
+	 return;
+    }
 
     for(int i = 0; i < n; ++i)
     {
