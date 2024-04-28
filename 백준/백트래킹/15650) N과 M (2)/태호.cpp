@@ -9,18 +9,18 @@ int arr[10];
 
 void func(int cur)
 {
-	if(cur == m)
-	{
-		  for(int i = 0; i < cur - 1; ++i)
-			  if(arr[i] > arr[i + 1])
-				  return;
+    if(cur == m)
+    {
+        for(int i = 0; i < cur - 1; ++i)
+	    if(arr[i] > arr[i + 1])
+		return;
 
-		  for(int i = 0; i < cur; ++i)
-			  cout << arr[i] << ' ';
+	  for(int i = 0; i < cur; ++i)
+	      cout << arr[i] << ' ';
 
-      cout << '\n';
-		  return;
-	}
+      	cout << '\n';
+	return;
+    }
 
     for(int i = 1; i <= n; ++i)
     {
