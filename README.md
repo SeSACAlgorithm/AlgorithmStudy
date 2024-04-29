@@ -90,7 +90,7 @@
 |[20546](https://www.acmicpc.net/problem/20546)|기적의 매매법|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20546%29%20%EA%B8%B0%EC%A0%81%EC%9D%98%20%EB%A7%A4%EB%A7%A4%EB%B2%95)||||||||||||
 |[21608](https://www.acmicpc.net/problem/21608)|상어초등학교|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21608%29%20%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90)||||||||||||
 |[21611](https://www.acmicpc.net/problem/21611)|마법사 상어와 블리자드|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21611%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B8%94%EB%A6%AC%EC%9E%90%EB%93%9C)||||||||||||
-|[21918](https://www.acmicpc.net/problem/21918)|전구|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21918%29%20%EC%A0%84%EA%B5%AC)||✔||||||||||
+|[21918](https://www.acmicpc.net/problem/21918)|전구|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21918%29%20%EC%A0%84%EA%B5%AC)||✔||✔||||||||
 |[22856](https://www.acmicpc.net/problem/22856)|트리 순회|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22856%29%20%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C)||||||||||||
 |[22858](https://www.acmicpc.net/problem/22858)|원상 복구 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22858%29%20%EC%9B%90%EC%83%81%20%EB%B3%B5%EA%B5%AC%20%28small%29)||||||||||||
 |[22859](https://www.acmicpc.net/problem/22859)|HTML 파싱|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22859%29%20HTML%20%ED%8C%8C%EC%8B%B1)||||||||||||
