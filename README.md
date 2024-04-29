@@ -97,7 +97,7 @@
 |[22860](https://www.acmicpc.net/problem/22860)|폴더 정리 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22860%29%20%ED%8F%B4%EB%8D%94%20%EC%A0%95%EB%A6%AC%20%28small%29)||||||||||||
 |[2578](https://www.acmicpc.net/problem/2578)|빙고|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2578%29%20%EB%B9%99%EA%B3%A0)||||||||||||
 |[2615](https://www.acmicpc.net/problem/2615)|오목|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2615%29%20%EC%98%A4%EB%AA%A9)||||||||||||
-|[2711](https://www.acmicpc.net/problem/2711)|오타맨 고창영|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2711%29%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81)|✔||||||✔|||||
+|[2711](https://www.acmicpc.net/problem/2711)|오타맨 고창영|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2711%29%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81)|✔|||✔|||✔|||||
 |[2753](https://www.acmicpc.net/problem/2753)|윤년|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2753%29%20%EC%9C%A4%EB%85%84)|✔|✔|✔|✔||||||||
 |[2846](https://www.acmicpc.net/problem/2846)|오르막길|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2846%29%20%EC%98%A4%EB%A5%B4%EB%A7%89%EA%B8%B8)|✔|||||||||||
 |[2947](https://www.acmicpc.net/problem/2947)|나무 조각|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2947%29%20%EB%82%98%EB%AC%B4%20%EC%A1%B0%EA%B0%81)|✔||||||✔|||||
