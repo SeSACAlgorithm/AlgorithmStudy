@@ -74,7 +74,7 @@
 |[12933](https://www.acmicpc.net/problem/12933)|오리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/12933%29%20%EC%98%A4%EB%A6%AC)||||||||||||
 |[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1373%29%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98)||✔|✔|✔||||||||
 |[14053](https://www.acmicpc.net/problem/14053)|로봇 청소기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14053%29%20%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0)||✔||||||||||
-|[14467](https://www.acmicpc.net/problem/14467)|소가 길을 건너간 이유 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14467%29%20%EC%86%8C%EA%B0%80%20%EA%B8%B8%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B0%84%20%EC%9D%B4%EC%9C%A0%201)||✔||||||||||
+|[14467](https://www.acmicpc.net/problem/14467)|소가 길을 건너간 이유 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14467%29%20%EC%86%8C%EA%B0%80%20%EA%B8%B8%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B0%84%20%EC%9D%B4%EC%9C%A0%201)||✔||✔||||||||
 |[14719](https://www.acmicpc.net/problem/14719)|빗물|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14719%29%20%EB%B9%97%EB%AC%BC)||||||||||||
 |[15787](https://www.acmicpc.net/problem/15787)|기차가 어둠을 헤치고 은하수를|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/15787%29%20%EA%B8%B0%EC%B0%A8%EA%B0%80%20%EC%96%B4%EB%91%A0%EC%9D%84%20%ED%97%A4%EC%B9%98%EA%B3%A0%20%EC%9D%80%ED%95%98%EC%88%98%EB%A5%BC)||||||||||||
 |[16719](https://www.acmicpc.net/problem/16719)|ZOAC|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/16719%29%20ZOAC)||||||||||||
