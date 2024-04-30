@@ -27,9 +27,8 @@ vector<int> solution(int n, long long k) {
 
         mx /= --n;
     }
-
-    for(int i = 0; i < answer.size(); ++i)
-        vec.push_back(answer[i]);
+    
+    vec.push_back(answer[0]);
 
     return vec;
 }
