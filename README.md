@@ -817,7 +817,7 @@
 |[43162](https://programmers.co.kr/learn/courses/30/lessons/43162)|네트워크|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43162%29%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)||✔|✔||||||||✔|
 |[43163](https://programmers.co.kr/learn/courses/30/lessons/43163)|단어 변환|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43163%29%20%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98)||✔|||||||||✔|
 |[43164](https://programmers.co.kr/learn/courses/30/lessons/43164)|여행경로|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43164%29%20%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C)||||||||||||
-|[43238](https://programmers.co.kr/learn/courses/30/lessons/43238)|입국심사|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43238%29%20%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)||||||||||||
+|[43238](https://programmers.co.kr/learn/courses/30/lessons/43238)|입국심사|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43238%29%20%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)|||✔|||||||||
 |[49189](https://programmers.co.kr/learn/courses/30/lessons/49189)|가장 먼 노드|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/49189%29%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C)|||||||||||✔|
 |[49191](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/49191%29%20%EC%88%9C%EC%9C%84)||||||||||||
 |[60059](https://programmers.co.kr/learn/courses/30/lessons/60059)|자물쇠와 열쇠|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/60059%29%20%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0)||||||||||||
