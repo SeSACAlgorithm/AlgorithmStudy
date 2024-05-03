@@ -395,7 +395,7 @@
 |[21943](https://www.acmicpc.net/problem/21943)|연산 최대로|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21943%29%20%EC%97%B0%EC%82%B0%20%EC%B5%9C%EB%8C%80%EB%A1%9C)||||||||||||
 |[2231](https://www.acmicpc.net/problem/2231)|분해합|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2231%29%20%EB%B6%84%ED%95%B4%ED%95%A9)||✔||||||||||
 |||||||||||
-|[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2309%29%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)|✔||||||✔|||||
+|[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2309%29%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)|✔|✔|||||✔|||||
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)||||||||||||
 |[2503](https://www.acmicpc.net/problem/2503)|숫자 야구|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2503%29%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC)||||||||||||
 |[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)||✔||||||||||
@@ -780,7 +780,7 @@
 |[12949](https://programmers.co.kr/learn/courses/30/lessons/12949)|행렬의 곱셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/12949%29%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)|||✔|||||||||
 |[12951](https://programmers.co.kr/learn/courses/30/lessons/12951)|JadenCase 문자열 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/12951%29%20JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|✔|||||||✔|
 |[12953](https://programmers.co.kr/learn/courses/30/lessons/12953)|N개의 최소공배수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/12953%29%20N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|||✔||||||||✔|
-|[12980](https://programmers.co.kr/learn/courses/30/lessons/12980)|점프와 순간 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/12980%29%20%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99)|✔|✔|✔||||||||✔|
+|[12980](https://programmers.co.kr/learn/courses/30/lessons/12980)|점프와 순간 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/12980%29%20%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99)|✔|✔|✔|✔|||||||✔|
 |[12981](https://programmers.co.kr/learn/courses/30/lessons/12981)|영어 끝말잇기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/12981%29%20%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)|||✔||||||||✔|
 |[17679](https://programmers.co.kr/learn/courses/30/lessons/17679)|[1차] 프렌즈4블|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/17679%29%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94)|||✔||||||||✔|
 |[17680](https://programmers.co.kr/learn/courses/30/lessons/17680)|[1차] 캐시|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/17680%29%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C)|||✔||||||||✔|
