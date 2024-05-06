@@ -1,3 +1,5 @@
+// 피보나치 수열의 규칙을 가지는데 그 이유를 모르겠음
+
 #include <vector>
 
 using namespace std;
