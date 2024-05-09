@@ -86,7 +86,7 @@
 |[20164](https://www.acmicpc.net/problem/20164)|홀수 홀릭 호석|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20164%29%20%ED%99%80%EC%88%98%20%ED%99%80%EB%A6%AD%20%ED%98%B8%EC%84%9D)||||||||||||
 |[20207](https://www.acmicpc.net/problem/20207)|달력|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20207%29%20%EB%8B%AC%EB%A0%A5)||||||||||||
 |[20291](https://www.acmicpc.net/problem/20291)|파일 정리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20291%29%20%ED%8C%8C%EC%9D%BC%20%EC%A0%95%EB%A6%AC)||||||||||||
-|[20436](https://www.acmicpc.net/problem/20436)|ZOAC 3|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20436%29%20ZOAC%203)||||||||||||
+|[20436](https://www.acmicpc.net/problem/20436)|ZOAC 3|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20436%29%20ZOAC%203)|✔|||||||||||
 |[20546](https://www.acmicpc.net/problem/20546)|기적의 매매법|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20546%29%20%EA%B8%B0%EC%A0%81%EC%9D%98%20%EB%A7%A4%EB%A7%A4%EB%B2%95)||||||||||||
 |[21608](https://www.acmicpc.net/problem/21608)|상어초등학교|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21608%29%20%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90)||||||||||||
 |[21611](https://www.acmicpc.net/problem/21611)|마법사 상어와 블리자드|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21611%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B8%94%EB%A6%AC%EC%9E%90%EB%93%9C)||||||||||||
