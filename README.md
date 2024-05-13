@@ -210,6 +210,42 @@
 </details>
 
 <details>
+  <summary><b>🚀 동적 계획법 2</b></summary>
+
+| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
+| ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1005](https://www.acmicpc.net/problem/1005)|ACM Craft|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1005%29%20ACM%20Craft)||||||||||||
+|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/10942%29%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)||||||||||||
+|[11049](https://www.acmicpc.net/problem/11049)|행렬 골렘 순서|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/11049%29%20%ED%96%89%EB%A0%AC%20%EA%B3%A8%EB%A0%98%20%EC%88%9C%EC%84%9C)||||||||||||
+|[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/12865%29%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD)||||||||||||
+|[14567](https://www.acmicpc.net/problem/14567)|선수과목 (Prerequisite)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/14567%29%20%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%20%28Prerequisite%29)||||||||||||
+|[1520](https://www.acmicpc.net/problem/1520)|내리막길|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1520%29%20%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8)||||||||||||
+|[15724](https://www.acmicpc.net/problem/15724)|주지수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/15724%29%20%EC%A3%BC%EC%A7%80%EC%88%98)||||||||||||
+|[1695](https://www.acmicpc.net/problem/1695)|팰린드롬 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1695%29%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||||||
+|[17485](https://www.acmicpc.net/problem/17485)|진우의 달 여행 (Large)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/17485%29%20%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89%20%28Large%29)||||||||||||
+|[1823](https://www.acmicpc.net/problem/1823)|수학|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1823%29%20%EC%88%98%ED%95%99)||||||||||||
+|[18427](https://www.acmicpc.net/problem/18427)|함께 블록 쌓기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/18427%29%20%ED%95%A8%EA%BB%98%20%EB%B8%94%EB%A1%9D%20%EC%8C%93%EA%B8%B0)||||||||||||
+|[1915](https://www.acmicpc.net/problem/1915)|가장 큰 정사각형|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1915%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95)||||||||||||
+|[20181](https://www.acmicpc.net/problem/20181)|꿈틀꿈틀 호석 애벌레 - 효율성|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/20181%29%20%EA%BF%88%ED%8B%80%EA%BF%88%ED%8B%80%20%ED%98%B8%EC%84%9D%20%EC%95%A0%EB%B2%8C%EB%A0%88%20-%20%ED%9A%A8%EC%9C%A8%EC%84%B1)||||||||||||
+|[20542](https://www.acmicpc.net/problem/20542)|받아쓰기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/20542%29%20%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0)||||||||||||
+|[2056](https://www.acmicpc.net/problem/2056)|작업|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2056%29%20%EC%9E%91%EC%97%85)||||||||||||
+|[2073](https://www.acmicpc.net/problem/2073)|수도배관공사|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2073%29%20%EC%88%98%EB%8F%84%EB%B0%B0%EA%B4%80%EA%B3%B5%EC%82%AC)||||||||||||
+|[21923](https://www.acmicpc.net/problem/21923)|곡예 비행|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/21923%29%20%EA%B3%A1%EC%98%88%20%EB%B9%84%ED%96%89)||||||||||||
+|[21941](https://www.acmicpc.net/problem/21941)|문자열 제거|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/21941%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%9C%EA%B1%B0)||||||||||||
+|[2225](https://www.acmicpc.net/problem/2225)|합분해|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2225%29%20%ED%95%A9%EB%B6%84%ED%95%B4)||||||||||||
+|[2228](https://www.acmicpc.net/problem/2228)|구간 나누기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2228%29%20%EA%B5%AC%EA%B0%84%20%EB%82%98%EB%88%84%EA%B8%B0)||||||||||||
+|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2624%29%20%EB%8F%99%EC%A0%84%20%EB%B0%94%EA%BF%94%EC%A3%BC%EA%B8%B0)||||||||||||
+|[2629](https://www.acmicpc.net/problem/2629)|양팔 거울|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2629%29%20%EC%96%91%ED%8C%94%20%EA%B1%B0%EC%9A%B8)||||||||||||
+|[2631](https://www.acmicpc.net/problem/2631)|줄 세우기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2631%29%20%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)||||||||||||
+|[2758](https://www.acmicpc.net/problem/2758)|로또|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2758%29%20%EB%A1%9C%EB%98%90)||||||||||||
+|[3687](https://www.acmicpc.net/problem/3687)|성냥개비|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/3687%29%20%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84)||||||||||||
+|[5557](https://www.acmicpc.net/problem/5557)|1학년|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/5557%29%201%ED%95%99%EB%85%84)||||||||||||
+|[9084](https://www.acmicpc.net/problem/9084)|동전|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/9084%29%20%EB%8F%99%EC%A0%84)||||||||||||
+|[9251](https://www.acmicpc.net/problem/9251)|LCS|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/9251%29%20LCS)||||||||||||
+
+</details>
+
+<details>
   <summary><b>🚀 문자열</b></summary>
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
@@ -412,8 +448,8 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 윤 | 응 | 현 | 재 | 시 | 은 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1005](https://www.acmicpc.net/problem/1005)|ACM Craft|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/1005%29%20ACM%20Craft)||||||||||||
-|[14567](https://www.acmicpc.net/problem/14567)|선수과목 (Prerequisite)|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/14567%29%20%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%20%28Prerequisite%29)||||||||||||
+|||||||||||
+|||||||||||
 |[1766](https://www.acmicpc.net/problem/1766)|문제집|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/1766%29%20%EB%AC%B8%EC%A0%9C%EC%A7%91)||✔||||||||||
 |[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/2252%29%20%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)||||||||||||
 |[2623](https://www.acmicpc.net/problem/2623)|음악 프로그램|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/2623%29%20%EC%9D%8C%EC%95%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)||||||||||||
