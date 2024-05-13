@@ -850,7 +850,7 @@
 |[42861](https://programmers.co.kr/learn/courses/30/lessons/42861)|섬 연결하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42861%29%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)||||||||||||
 |[42884](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42884%29%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)|||||||||||✔|
 |[42895](https://programmers.co.kr/learn/courses/30/lessons/42895)|N으로 표현|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42895%29%20N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)|||✔|||||||||
-|[42898](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42898%29%20%EB%93%B1%EA%B5%A3%EA%B8%B8)||||||||||||
+|[42898](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42898%29%20%EB%93%B1%EA%B5%A3%EA%B8%B8)|||✔|||||||||
 |[43105](https://programmers.co.kr/learn/courses/30/lessons/43105)|정수 삼각형|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43105%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)|||✔||||||||✔|
 |[43162](https://programmers.co.kr/learn/courses/30/lessons/43162)|네트워크|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43162%29%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)||✔|✔||||||||✔|
 |[43163](https://programmers.co.kr/learn/courses/30/lessons/43163)|단어 변환|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43163%29%20%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98)||✔|||||||||✔|
