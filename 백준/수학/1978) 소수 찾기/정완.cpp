@@ -13,13 +13,18 @@ int main()
         cin >> num;
 
         for(int j=1; j<=num; j++)
+        {
+            if(num == 1)
+                continue;
+
             if(num % j == 0)
                 cnt++;
+        }
 
         if(cnt == 2)
             result++;
         cnt = 0;
     }
 
-    cout << result << '\n';
+    cout << result;
 }
