@@ -32,6 +32,7 @@
 |4839|이진탐색|[링크](./SWEA/D2/4839%29%20%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)||||||||||||
 |4861|회문|[링크](./SWEA/D2/4861%29%20%ED%9A%8C%EB%AC%B8)|✔|||||||||||
 |4875|미로|[링크](./SWEA/D2/4875%29%20%EB%AF%B8%EB%A1%9C)|✔|||||||||||
+|4881|배열 최소합|[링크](./SWEA/D2/4881%29%20%EB%B0%B0%EC%97%B4%20%EC%B5%9C%EC%86%8C%ED%95%A9)||||||||||||
 |5174|subtree|[링크](./SWEA/D2/5174%29%20subtree)||||||||||||
 
 </details>
@@ -507,7 +508,7 @@
 |[2493](https://www.acmicpc.net/problem/2493)|탑|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2493%29%20%ED%83%91)||||||||||||
 |[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2504%29%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92)||||||||||||
 |[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2800%29%20%EA%B4%84%ED%98%B8%20%EC%A0%9C%EA%B1%B0)||||||||||||
-|[7785](https://www.acmicpc.net/problem/7785)|회사에 있는 사람|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/7785%29%20%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)||||||||||||
+|[7785](https://www.acmicpc.net/problem/7785)|회사에 있는 사람|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/7785%29%20%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)|✔|||||||||||
 |[9012](https://www.acmicpc.net/problem/9012)|괄호|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/9012%29%20%EA%B4%84%ED%98%B8)|✔|✔|✔|||||||||
 
 </details>
@@ -745,7 +746,7 @@
 |[12940](https://programmers.co.kr/learn/courses/30/lessons/12940)|최대공약수와 최소공배수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12940%29%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|✔|✔|✔|✔|||✔|||||
 |[12943](https://programmers.co.kr/learn/courses/30/lessons/12943)|콜라츠 추측|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12943%29%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1)|✔|✔|✔|✔||||||||
 |[12944](https://programmers.co.kr/learn/courses/30/lessons/12944)|평균 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12944%29%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)|✔|✔|✔|✔|✔||✔|||||
-|[12947](https://programmers.co.kr/learn/courses/30/lessons/12947)|하샤드 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12947%29%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)|✔|✔|✔|✔||✔||||||
+|[12947](https://programmers.co.kr/learn/courses/30/lessons/12947)|하샤드 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12947%29%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)|✔|✔|✔|✔||✔|✔|||||
 |[12948](https://programmers.co.kr/learn/courses/30/lessons/12948)|핸드폰 번호 가리기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12948%29%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0)|✔|✔|✔|✔|✔||✔|||||
 |[12950](https://programmers.co.kr/learn/courses/30/lessons/12950)|행렬의 덧셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12950%29%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88)|✔|✔|✔|✔||||||||
 |[12954](https://programmers.co.kr/learn/courses/30/lessons/12954)|x만큼 간격이 있는 n개의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12954%29%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)|✔|✔|✔|✔|✔||✔|||||
@@ -848,7 +849,7 @@
 |[42627](https://programmers.co.kr/learn/courses/30/lessons/42627)|디스크 컨트롤러|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42627%29%20%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)||||||||||||
 |[42628](https://programmers.co.kr/learn/courses/30/lessons/42628)|이중우선순위큐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42628%29%20%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)|||✔||||||||✔|
 |[42861](https://programmers.co.kr/learn/courses/30/lessons/42861)|섬 연결하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42861%29%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)||||||||||||
-|[42884](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42884%29%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)|||||||||||✔|
+|[42884](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42884%29%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)|||✔||||||||✔|
 |[42895](https://programmers.co.kr/learn/courses/30/lessons/42895)|N으로 표현|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42895%29%20N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)|||✔|||||||||
 |[42898](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42898%29%20%EB%93%B1%EA%B5%A3%EA%B8%B8)|||✔|||||||||
 |[43105](https://programmers.co.kr/learn/courses/30/lessons/43105)|정수 삼각형|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/43105%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)|||✔||||||||✔|
@@ -893,7 +894,7 @@
 |[60062](https://programmers.co.kr/learn/courses/30/lessons/60062)|외벽 점검|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60062%29%20%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80)||||||||||||
 |[60063](https://programmers.co.kr/learn/courses/30/lessons/60063)|블록 이동하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60063%29%20%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||||||||||||
 |[64062](https://programmers.co.kr/learn/courses/30/lessons/64062)|징검다리 건너기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/64062%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)|||✔|||||||||
-|[68646](https://programmers.co.kr/learn/courses/30/lessons/68646)|풍선 터트리기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/68646%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0)||||||||||||
+|[68646](https://programmers.co.kr/learn/courses/30/lessons/68646)|풍선 터트리기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/68646%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0)|||✔|||||||||
 |[70130](https://programmers.co.kr/learn/courses/30/lessons/70130)|스타 수열|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/70130%29%20%EC%8A%A4%ED%83%80%20%EC%88%98%EC%97%B4)||||||||||||
 |[72414](https://programmers.co.kr/learn/courses/30/lessons/72414)|광고 삽입|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/72414%29%20%EA%B4%91%EA%B3%A0%20%EC%82%BD%EC%9E%85)||||||||||||
 |[72415](https://programmers.co.kr/learn/courses/30/lessons/72415)|카드 짝 맞추기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/72415%29%20%EC%B9%B4%EB%93%9C%20%EC%A7%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0)||||||||||||
