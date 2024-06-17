@@ -901,3 +901,32 @@
 
 </details>
 
+<details>
+  <summary><b>🚀 LEVEL 4</b></summary>
+
+| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
+| ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[12902](https://programmers.co.kr/learn/courses/30/lessons/12902)|3 x n 타일링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12902%29%203%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81)||||||||
+|[12920](https://programmers.co.kr/learn/courses/30/lessons/12920)|선입 선출 스케줄링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12920%29%20%EC%84%A0%EC%9E%85%20%EC%84%A0%EC%B6%9C%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)||||||||
+|[12923](https://programmers.co.kr/learn/courses/30/lessons/12923)|숫자 블록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12923%29%20%EC%88%AB%EC%9E%90%20%EB%B8%94%EB%A1%9D)||||||||
+|[12929](https://programmers.co.kr/learn/courses/30/lessons/12929)|올바른 괄호의 갯수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12929%29%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%AF%EC%88%98)||||||||
+|[12942](https://programmers.co.kr/learn/courses/30/lessons/12942)|최적의 행렬 곱셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12942%29%20%EC%B5%9C%EC%A0%81%EC%9D%98%20%ED%96%89%EB%A0%AC%20%EA%B3%B1%EC%85%88)||||||||
+|[12983](https://programmers.co.kr/learn/courses/30/lessons/12983)|단어 퍼즐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12983%29%20%EB%8B%A8%EC%96%B4%20%ED%8D%BC%EC%A6%90)||||||||
+|[12984](https://programmers.co.kr/learn/courses/30/lessons/12984)|지형 편집|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12984%29%20%EC%A7%80%ED%98%95%20%ED%8E%B8%EC%A7%91)||||||||
+|[17685](https://programmers.co.kr/learn/courses/30/lessons/17685)|[3차] 자동완성|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/17685%29%20%5B3%EC%B0%A8%5D%20%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1)||||||||
+|[1843](https://programmers.co.kr/learn/courses/30/lessons/1843)|사칙연산|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/1843%29%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)||||||||
+|[42891](https://programmers.co.kr/learn/courses/30/lessons/42891)|무지의 먹방 라이브|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/42891%29%20%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C)||||||||
+|[42894](https://programmers.co.kr/learn/courses/30/lessons/42894)|블록 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/42894%29%20%EB%B8%94%EB%A1%9D%20%EA%B2%8C%EC%9E%84)||||||||
+|[42897](https://programmers.co.kr/learn/courses/30/lessons/42897)|도둑질|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/42897%29%20%EB%8F%84%EB%91%91%EC%A7%88)||||||||
+|[43236](https://programmers.co.kr/learn/courses/30/lessons/43236)|징검다리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/43236%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC)||||||||
+|[49995](https://programmers.co.kr/learn/courses/30/lessons/49995)|쿠키 구입|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/49995%29%20%EC%BF%A0%ED%82%A4%20%EA%B5%AC%EC%9E%85)||||||||
+|[60060](https://programmers.co.kr/learn/courses/30/lessons/60060)|가사 검색|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/60060%29%20%EA%B0%80%EC%82%AC%20%EA%B2%80%EC%83%89)||||||||
+|[62050](https://programmers.co.kr/learn/courses/30/lessons/62050)|지형 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/62050%29%20%EC%A7%80%ED%98%95%20%EC%9D%B4%EB%8F%99)||||||||
+|[64063](https://programmers.co.kr/learn/courses/30/lessons/64063)|호텔 방 배정|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/64063%29%20%ED%98%B8%ED%85%94%20%EB%B0%A9%20%EB%B0%B0%EC%A0%95)||||||||
+|[67260](https://programmers.co.kr/learn/courses/30/lessons/67260)|[카카오 인턴] 동굴 탐험|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/67260%29%20%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%8F%99%EA%B5%B4%20%ED%83%90%ED%97%98)||||||||
+|[68647](https://programmers.co.kr/learn/courses/30/lessons/68647)|짝수 행 세기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/68647%29%20%EC%A7%9D%EC%88%98%20%ED%96%89%20%EC%84%B8%EA%B8%B0)||||||||
+|[68937](https://programmers.co.kr/learn/courses/30/lessons/68937)|트리 트리오 중간값|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/68937%29%20%ED%8A%B8%EB%A6%AC%20%ED%8A%B8%EB%A6%AC%EC%98%A4%20%EC%A4%91%EA%B0%84%EA%B0%92)||||||||
+|[72416](https://programmers.co.kr/learn/courses/30/lessons/72416)|매출 하락 최소화|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/72416%29%20%EB%A7%A4%EC%B6%9C%20%ED%95%98%EB%9D%BD%20%EC%B5%9C%EC%86%8C%ED%99%94)||||||||
+
+</details>
+
