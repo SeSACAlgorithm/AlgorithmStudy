@@ -100,11 +100,11 @@
 |[2615](https://www.acmicpc.net/problem/2615)|오목|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2615%29%20%EC%98%A4%EB%AA%A9)||||||||
 |[2711](https://www.acmicpc.net/problem/2711)|오타맨 고창영|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2711%29%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81)|✔|||✔|✔|||
 |[2753](https://www.acmicpc.net/problem/2753)|윤년|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2753%29%20%EC%9C%A4%EB%85%84)|✔|✔|✔|✔||||
-|[2846](https://www.acmicpc.net/problem/2846)|오르막길|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2846%29%20%EC%98%A4%EB%A5%B4%EB%A7%89%EA%B8%B8)|✔|||||||
+|[2846](https://www.acmicpc.net/problem/2846)|오르막길|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2846%29%20%EC%98%A4%EB%A5%B4%EB%A7%89%EA%B8%B8)|✔|||✔||||
 |[2947](https://www.acmicpc.net/problem/2947)|나무 조각|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2947%29%20%EB%82%98%EB%AC%B4%20%EC%A1%B0%EA%B0%81)|✔|||✔|✔|||
 |[4396](https://www.acmicpc.net/problem/4396)|지뢰 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/4396%29%20%EC%A7%80%EB%A2%B0%20%EC%B0%BE%EA%B8%B0)|✔|✔||||||
-|[5597](https://www.acmicpc.net/problem/5597)|과제 안내신분|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/5597%29%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%EB%82%B4%EC%8B%A0%EB%B6%84)|✔|✔||✔||||
-|[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/8958%29%20OX%ED%80%B4%EC%A6%88)|✔|||✔|✔|||
+|[5597](https://www.acmicpc.net/problem/5597)|과제 안내신분|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/5597%29%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%EB%82%B4%EC%8B%A0%EB%B6%84)|✔|✔|✔|✔||||
+|[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/8958%29%20OX%ED%80%B4%EC%A6%88)|✔|✔||✔|✔|||
 
 </details>
 
@@ -252,7 +252,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[10798](https://www.acmicpc.net/problem/10798)|세로읽기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/10798%29%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)||||✔||||
-|[11365](https://www.acmicpc.net/problem/11365)|!밀비급일|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365%29%20%21%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC)||||✔||||
+|[11365](https://www.acmicpc.net/problem/11365)|!밀비급일|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365%29%20%21%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC)|✔|||✔||||
 |[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9)|✔|||✔||||
 |[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1181%29%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC)|✔|✔||||||
 |[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 체커|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%29%20%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4)||✔||||||
@@ -491,7 +491,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[10773](https://www.acmicpc.net/problem/10773)|제로|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10773%29%20%EC%A0%9C%EB%A1%9C)|✔|✔||✔||||
-|[10799](https://www.acmicpc.net/problem/10799)|쇠막대기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10799%29%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)||||||||
+|[10799](https://www.acmicpc.net/problem/10799)|쇠막대기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10799%29%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)|||||||✔|
 |[10828](https://www.acmicpc.net/problem/10828)|스택|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10828%29%20%EC%8A%A4%ED%83%9D)|✔|✔|✔|✔||||
 |[10866](https://www.acmicpc.net/problem/10866)|덱|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10866%29%20%EB%8D%B1)|✔|✔|✔|✔||||
 |[1158](https://www.acmicpc.net/problem/1158)|요세푸스 문제|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1158%29%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)|✔|✔|✔|✔||||
@@ -508,6 +508,7 @@
 |[2493](https://www.acmicpc.net/problem/2493)|탑|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2493%29%20%ED%83%91)|||||||✔|
 |[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2504%29%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92)||||||||
 |[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2800%29%20%EA%B4%84%ED%98%B8%20%EC%A0%9C%EA%B1%B0)||||||||
+|[6198](https://www.acmicpc.net/problem/6198)|옥상 정원 꾸미기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/6198%29%20%EC%98%A5%EC%83%81%20%EC%A0%95%EC%9B%90%20%EA%BE%B8%EB%AF%B8%EA%B8%B0)|||||||✔|
 |[7785](https://www.acmicpc.net/problem/7785)|회사에 있는 사람|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/7785%29%20%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)|✔|✔||✔||||
 |[9012](https://www.acmicpc.net/problem/9012)|괄호|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/9012%29%20%EA%B4%84%ED%98%B8)|✔|✔|✔|||||
 
@@ -600,7 +601,7 @@
 |[13305](https://www.acmicpc.net/problem/13305)|주유소|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13305%29%20%EC%A3%BC%EC%9C%A0%EC%86%8C)||||||||
 |[1343](https://www.acmicpc.net/problem/1343)|폴리오미노|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1343%29%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8)||||||||
 |[13975](https://www.acmicpc.net/problem/13975)|파일 합치기 3|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13975%29%20%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203)||||||||
-|[14916](https://www.acmicpc.net/problem/14916)|거스름돈|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/14916%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)||||||||
+|[14916](https://www.acmicpc.net/problem/14916)|거스름돈|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/14916%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)||||✔||||
 |[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1541%29%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8)||||||||
 |[16953](https://www.acmicpc.net/problem/16953)|A→B|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/16953%29%20A%E2%86%92B)||||||||
 |[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1715%29%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)||||||||
@@ -734,7 +735,7 @@
 |[12921](https://programmers.co.kr/learn/courses/30/lessons/12921)|소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12921%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)|✔|✔|✔|✔|✔|||
 |[12922](https://programmers.co.kr/learn/courses/30/lessons/12922)|수박수박수박수박수박수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12922%29%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)|✔|✔|✔|✔|✔|||
 |[12925](https://programmers.co.kr/learn/courses/30/lessons/12925)|문자열을 정수로 바꾸기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12925%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)|✔|✔|✔|✔|✔|||
-|[12926](https://programmers.co.kr/learn/courses/30/lessons/12926)|시저 암호|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12926%29%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)|✔|✔|✔|✔||||
+|[12926](https://programmers.co.kr/learn/courses/30/lessons/12926)|시저 암호|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12926%29%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)|✔|✔|✔|✔|✔|||
 |[12928](https://programmers.co.kr/learn/courses/30/lessons/12928)|약수의 합|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12928%29%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)|✔|✔|✔|✔|✔|||
 |[12930](https://programmers.co.kr/learn/courses/30/lessons/12930)|이상한 문자 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12930%29%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|✔|✔|||
 |[12931](https://programmers.co.kr/learn/courses/30/lessons/12931)|자릿수 더하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%282%29/12931%29%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)|✔|✔|✔|✔|✔|||
