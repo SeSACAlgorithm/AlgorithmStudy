@@ -252,7 +252,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[10798](https://www.acmicpc.net/problem/10798)|세로읽기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/10798%29%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)||||✔||||
-|[11365](https://www.acmicpc.net/problem/11365)|!밀비급일|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365%29%20%21%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC)||||✔||||
+|[11365](https://www.acmicpc.net/problem/11365)|!밀비급일|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365%29%20%21%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC)|✔|||✔||||
 |[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9)|✔|||✔||||
 |[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1181%29%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC)|✔|✔||||||
 |[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 체커|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%29%20%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4)||✔||||||
