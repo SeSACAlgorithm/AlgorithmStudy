@@ -6,7 +6,7 @@ using namespace std;
 int d[1000001];
 int N;
 
-int solve(int N)
+void solve(int N)
 {
     d[1] = 0;
     for(int i =2; i<=N; i++)
