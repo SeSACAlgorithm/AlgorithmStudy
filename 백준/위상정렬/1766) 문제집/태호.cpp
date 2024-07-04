@@ -20,17 +20,17 @@ int main()
 		++depth[b];
 	}
 
-	set<int> Stk;
+	set<int> S;
 
 	for (int i = n; i > 0; --i)
 	{
 		if(depth[i] == 0)
-			Stk.insert(i);
+			S.insert(i);
 	}
 
-	while (!Stk.empty())
+	while (!S.empty())
 	{
-		int cur = *Stk.begin(); Stk.erase(Stk.begin());
+		int cur = *S.begin(); S.erase(S.begin());
 		cout << cur << ' ';
 
 		
@@ -39,7 +39,7 @@ int main()
 			--depth[nxt];
 
 			if (depth[nxt] == 0)
-				Stk.insert(nxt);
+				S.insert(nxt);
 		}
 
 	}
@@ -47,4 +47,3 @@ int main()
 
 	return 0;
 }
-
