@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 #include <queue>
 
@@ -18,20 +18,15 @@ int main()
 
 	ios::sync_with_stdio(0); cin.tie(0);
 
-
 	for (int i = 0; i < t; ++i)
 	{
 		int n, m; cin >> n >> m;
 
-		for (int j = 0; j < n; ++j)
-		{
-			depth[j] = 0;
-			adj[j].clear();
-		}
-
 		for (int j = 1; j <= n; ++j)
 		{
 			cin >> timer[j];
+			depth[j] = 0;
+			adj[j].clear();
 			timestack[j] = 0;
 		}
 
@@ -53,7 +48,7 @@ int main()
 				Q.push({ j, timer[j] });
 				timestack[j] = timer[j];
 			}
-				
+
 		}
 
 		while (!Q.empty())
@@ -69,7 +64,7 @@ int main()
 			for (int nxt : adj[cur.first])
 			{
 				--depth[nxt];
-			
+
 				timestack[nxt] = max(timestack[nxt], cur.second + timer[nxt]);
 
 				if (depth[nxt] == 0)
