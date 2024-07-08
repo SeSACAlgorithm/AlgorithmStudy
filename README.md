@@ -215,11 +215,9 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1005](https://www.acmicpc.net/problem/1005)|ACM Craft|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1005%29%20ACM%20Craft)||||||||
 |[10942](https://www.acmicpc.net/problem/10942)|팰린드롬|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/10942%29%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)||||||||
 |[11049](https://www.acmicpc.net/problem/11049)|행렬 골렘 순서|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/11049%29%20%ED%96%89%EB%A0%AC%20%EA%B3%A8%EB%A0%98%20%EC%88%9C%EC%84%9C)||||||||
 |[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/12865%29%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD)||✔||||||
-|[14567](https://www.acmicpc.net/problem/14567)|선수과목 (Prerequisite)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/14567%29%20%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%20%28Prerequisite%29)||||||||
 |[1520](https://www.acmicpc.net/problem/1520)|내리막길|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1520%29%20%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8)||||||||
 |[15724](https://www.acmicpc.net/problem/15724)|주지수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/15724%29%20%EC%A3%BC%EC%A7%80%EC%88%98)||||||||
 |[1695](https://www.acmicpc.net/problem/1695)|팰린드롬 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/1695%29%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||
@@ -449,8 +447,8 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-||||||✔|
-||||||✔|
+|[1005](https://www.acmicpc.net/problem/1005)|ACM Craft|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/1005%29%20ACM%20Craft)|||||||✔|
+|[14567](https://www.acmicpc.net/problem/14567)|선수과목 (Prerequisite)|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/14567%29%20%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%20%28Prerequisite%29)|||||||✔|
 |[1766](https://www.acmicpc.net/problem/1766)|문제집|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/1766%29%20%EB%AC%B8%EC%A0%9C%EC%A7%91)||✔|||||✔|
 |[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/2252%29%20%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)|||||||✔|
 |[2623](https://www.acmicpc.net/problem/2623)|음악 프로그램|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/2623%29%20%EC%9D%8C%EC%95%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)|||||||✔|
