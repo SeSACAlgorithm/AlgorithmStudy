@@ -575,7 +575,7 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1197](https://www.acmicpc.net/problem/1197)|최소 스패닝 트리|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1197%29%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC)||||||||
+|[1197](https://www.acmicpc.net/problem/1197)|최소 스패닝 트리|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1197%29%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC)|||||||✔|
 |[1368](https://www.acmicpc.net/problem/1368)|물대기|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1368%29%20%EB%AC%BC%EB%8C%80%EA%B8%B0)||||||||
 |[14621](https://www.acmicpc.net/problem/14621)|나만 안되는 연애|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/14621%29%20%EB%82%98%EB%A7%8C%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%97%B0%EC%95%A0)||||||||
 |[16398](https://www.acmicpc.net/problem/16398)|행성 연결|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/16398%29%20%ED%96%89%EC%84%B1%20%EC%97%B0%EA%B2%B0)||||||||
