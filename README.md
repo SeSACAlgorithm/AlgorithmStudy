@@ -581,7 +581,7 @@
 |[16398](https://www.acmicpc.net/problem/16398)|행성 연결|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/16398%29%20%ED%96%89%EC%84%B1%20%EC%97%B0%EA%B2%B0)|||||||✔|
 |[1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1647%29%20%EB%8F%84%EC%8B%9C%20%EB%B6%84%ED%95%A0%20%EA%B3%84%ED%9A%8D)|||||||✔|
 |[1774](https://www.acmicpc.net/problem/1774)|우주신과의 교감|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1774%29%20%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%20%EA%B5%90%EA%B0%90)||||||||
-|[1922](https://www.acmicpc.net/problem/1922)|네트워크 연결|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1922%29%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%97%B0%EA%B2%B0)||✔||||||
+|[1922](https://www.acmicpc.net/problem/1922)|네트워크 연결|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/1922%29%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%97%B0%EA%B2%B0)||✔|||||✔|
 |[21924](https://www.acmicpc.net/problem/21924)|도시 건설|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC/21924%29%20%EB%8F%84%EC%8B%9C%20%EA%B1%B4%EC%84%A4)||||||||
 
 </details>
