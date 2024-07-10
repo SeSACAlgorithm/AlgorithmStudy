@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// 숫자, 알파벳, 특문
 bool check_command(char c)
 {
     if(c >= '0' && c <= '9')
@@ -18,6 +19,7 @@ bool check_command(char c)
     
     return false;
 }
+
 string solution(string new_id) {
     string ans = "";
     string tmp = "";
