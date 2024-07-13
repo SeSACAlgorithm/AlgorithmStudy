@@ -559,7 +559,7 @@
 |[1507](https://www.acmicpc.net/problem/1507)|궁금한 민호|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1507%29%20%EA%B6%81%EA%B8%88%ED%95%9C%20%EB%AF%BC%ED%98%B8)||||||||
 |[1613](https://www.acmicpc.net/problem/1613)|역사|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1613%29%20%EC%97%AD%EC%82%AC)||||||||
 |[1719](https://www.acmicpc.net/problem/1719)|택배|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1719%29%20%ED%83%9D%EB%B0%B0)||||||||
-|[1753](https://www.acmicpc.net/problem/1753)|최단경로|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1753%29%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)||✔||||||
+|[1753](https://www.acmicpc.net/problem/1753)|최단경로|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1753%29%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)||✔|||||✔|
 |[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/18352%29%20%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0)||✔||||||
 |[1865](https://www.acmicpc.net/problem/1865)|웜홀|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1865%29%20%EC%9B%9C%ED%99%80)||||||||
 |[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1916%29%20%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)||✔||||||
