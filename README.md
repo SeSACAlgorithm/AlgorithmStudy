@@ -647,7 +647,7 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[14725](https://www.acmicpc.net/problem/14725)|개미굴|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/14725%29%20%EA%B0%9C%EB%AF%B8%EA%B5%B4)||||||||
+|[14725](https://www.acmicpc.net/problem/14725)|개미굴|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/14725%29%20%EA%B0%9C%EB%AF%B8%EA%B5%B4)|||||||✔|
 |[20166](https://www.acmicpc.net/problem/20166)|문자열 지옥에 빠진 호석|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/20166%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%80%EC%98%A5%EC%97%90%20%EB%B9%A0%EC%A7%84%20%ED%98%B8%EC%84%9D)||||||||
 |[5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%9D%BC%EC%9D%B4/5052%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)|||||||✔|
 
