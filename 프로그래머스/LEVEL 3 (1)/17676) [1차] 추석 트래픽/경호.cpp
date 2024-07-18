@@ -1,7 +1,6 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-#include <iostream>
 
 using namespace std;
 
@@ -53,8 +52,6 @@ int solution(vector<string> lines) {
         times.emplace_back(Task(start_time, end_time));
     }
     sort(times.begin(), times.end(), [](Task a, Task b) { return a.end < b.end; });
-    for(Task t : times)
-        cout << t.start << " " << t.end << endl;
     
     int max = 0, count = 0;
     int limit = 0;
