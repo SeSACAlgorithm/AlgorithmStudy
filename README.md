@@ -206,7 +206,7 @@
 |[9095](https://www.acmicpc.net/problem/9095)|1,2,3 더하기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/9095%29%201%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0)|✔|✔||||||
 |[9461](https://www.acmicpc.net/problem/9461)|파도반 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/9461%29%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4)|✔|✔||||||
 |[9465](https://www.acmicpc.net/problem/9465)|스티커|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/9465%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4)||||||||
-|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/9655%29%20%EB%8F%8C%20%EA%B2%8C%EC%9E%84)|✔|✔||||||
+|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/9655%29%20%EB%8F%8C%20%EA%B2%8C%EC%9E%84)|✔|✔||✔||||
 
 </details>
 
@@ -844,7 +844,7 @@
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[12900](https://programmers.co.kr/learn/courses/30/lessons/12900)|2 x n 타일링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/12900%29%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81)|||✔||||✔|
 |[17676](https://programmers.co.kr/learn/courses/30/lessons/17676)|[1차] 추석 트래픽|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/17676%29%20%5B1%EC%B0%A8%5D%20%EC%B6%94%EC%84%9D%20%ED%8A%B8%EB%9E%98%ED%94%BD)|||✔|||||
-|[17678](https://programmers.co.kr/learn/courses/30/lessons/17678)|[1차] 셔틀버스|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/17678%29%20%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4)||||||||
+|[17678](https://programmers.co.kr/learn/courses/30/lessons/17678)|[1차] 셔틀버스|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/17678%29%20%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4)|||✔|||||
 |[42579](https://programmers.co.kr/learn/courses/30/lessons/42579)|베스트앨범|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42579%29%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)|||✔||||✔|
 |[42627](https://programmers.co.kr/learn/courses/30/lessons/42627)|디스크 컨트롤러|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42627%29%20%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)|||✔|||||
 |[42628](https://programmers.co.kr/learn/courses/30/lessons/42628)|이중우선순위큐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42628%29%20%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)|||✔||||✔|
