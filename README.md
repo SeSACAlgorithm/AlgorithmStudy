@@ -263,7 +263,7 @@
 |[20291](https://www.acmicpc.net/problem/20291)|파일정리|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20291%29%20%ED%8C%8C%EC%9D%BC%EC%A0%95%EB%A6%AC)||||||||
 |[20437](https://www.acmicpc.net/problem/20437)|문자열 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20437%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
 |[3029](https://www.acmicpc.net/problem/3029)|경고|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/3029%29%20%EA%B2%BD%EA%B3%A0)||||||||
-|[4659](https://www.acmicpc.net/problem/4659)|비밀 번호 발음하기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/4659%29%20%EB%B9%84%EB%B0%80%20%EB%B2%88%ED%98%B8%20%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0)||||||||
+|[4659](https://www.acmicpc.net/problem/4659)|비밀 번호 발음하기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/4659%29%20%EB%B9%84%EB%B0%80%20%EB%B2%88%ED%98%B8%20%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0)|||||||✔|
 |[6550](https://www.acmicpc.net/problem/6550)|부분 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/6550%29%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)||||||||
 |[9046](https://www.acmicpc.net/problem/9046)|복호화|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/9046%29%20%EB%B3%B5%ED%98%B8%ED%99%94)||||||||
 |[9342](https://www.acmicpc.net/problem/9342)|염색체|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/9342%29%20%EC%97%BC%EC%83%89%EC%B2%B4)||||||||
