@@ -695,7 +695,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[12901](https://programmers.co.kr/learn/courses/30/lessons/12901)|2016년|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12901%29%202016%EB%85%84)|✔|✔|✔|✔||✔|✔|
-|[12903](https://programmers.co.kr/learn/courses/30/lessons/12903)|가운데 글자 가져오기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12903%29%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)|✔|✔|✔|✔|✔||✔|
+|[12903](https://programmers.co.kr/learn/courses/30/lessons/12903)|가운데 글자 가져오기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12903%29%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)|✔|✔|✔|✔|✔|✔|✔|
 |[12906](https://programmers.co.kr/learn/courses/30/lessons/12906)|같은 숫자는 싫어|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12906%29%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)|✔|✔|✔|✔|✔||✔|
 |[12910](https://programmers.co.kr/learn/courses/30/lessons/12910)|나누어 떨어지는 숫자 배열|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12910%29%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4)|✔|✔|✔|✔|✔||✔|
 |[12912](https://programmers.co.kr/learn/courses/30/lessons/12912)|두 정수 사이의 합|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12912%29%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9)|✔|✔|✔|✔|✔||✔|
