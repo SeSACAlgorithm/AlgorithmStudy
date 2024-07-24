@@ -134,12 +134,12 @@
 |[18513](https://www.acmicpc.net/problem/18513)|샘터|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/18513%29%20%EC%83%98%ED%84%B0)||||||||
 |[1967](https://www.acmicpc.net/problem/1967)|트리의 지름|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1967%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)||||||||
 |[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2178%29%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89)|✔|✔||||||
-|[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2206%29%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||✔||||||
+|[2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2206%29%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||✔|||||✔|
 |[2210](https://www.acmicpc.net/problem/2210)|숫자판 점프|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2210%29%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84)|✔|||||||
 |[22868](https://www.acmicpc.net/problem/22868)|산책 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22868%29%20%EC%82%B0%EC%B1%85%20%28small%29)||||||||
 |[22946](https://www.acmicpc.net/problem/22946)|원 이동하기 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22946%29%20%EC%9B%90%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%201)||||||||
 |[22948](https://www.acmicpc.net/problem/22948)|원 이동하기 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22948%29%20%EC%9B%90%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%202)||||||||
-|[2573](https://www.acmicpc.net/problem/2573)|빙산|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2573%29%20%EB%B9%99%EC%82%B0)||✔||||||
+|[2573](https://www.acmicpc.net/problem/2573)|빙산|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2573%29%20%EB%B9%99%EC%82%B0)||✔|||||✔|
 |[2606](https://www.acmicpc.net/problem/2606)|바이러스|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2606%29%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)|✔|✔|||✔|||
 |[2636](https://www.acmicpc.net/problem/2636)|치즈|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2636%29%20%EC%B9%98%EC%A6%88)||||||||
 |[2667](https://www.acmicpc.net/problem/2667)|단지번호 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2667%29%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||✔||||||
@@ -178,7 +178,7 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1010](https://www.acmicpc.net/problem/1010)|다리 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1010%29%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0)||✔||||||
+|[1010](https://www.acmicpc.net/problem/1010)|다리 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1010%29%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0)|✔|✔||||||
 |[10826](https://www.acmicpc.net/problem/10826)|피보나치 수 4|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/10826%29%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%204)|✔|||||||
 |[10844](https://www.acmicpc.net/problem/10844)|쉬운 계단 수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/10844%29%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98)||||||||
 |[10870](https://www.acmicpc.net/problem/10870)|피보나치 수 5|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/10870%29%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%205)|✔|✔||✔|✔|||
@@ -192,7 +192,7 @@
 |[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/15486%29%20%ED%87%B4%EC%82%AC%202)||||||||
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)||||||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||||||||
-|[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)||||||||
+|[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)||||✔||||
 |[21317](https://www.acmicpc.net/problem/21317)|징검다리 건너기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/21317%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)||||||||
 |[2156](https://www.acmicpc.net/problem/2156)|포도주 시식|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2156%29%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)||||||||
 |[22857](https://www.acmicpc.net/problem/22857)|가장 긴 짝수 연속한 부분 수열 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22857%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28small%29)||||||||
@@ -488,7 +488,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[10773](https://www.acmicpc.net/problem/10773)|제로|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10773%29%20%EC%A0%9C%EB%A1%9C)|✔|✔||✔||||
-|[10799](https://www.acmicpc.net/problem/10799)|쇠막대기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10799%29%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)||✔|||||✔|
+|[10799](https://www.acmicpc.net/problem/10799)|쇠막대기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10799%29%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)||✔|✔||||✔|
 |[10828](https://www.acmicpc.net/problem/10828)|스택|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10828%29%20%EC%8A%A4%ED%83%9D)|✔|✔|✔|✔||||
 |[10866](https://www.acmicpc.net/problem/10866)|덱|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/10866%29%20%EB%8D%B1)|✔|✔|✔|✔||||
 |[1158](https://www.acmicpc.net/problem/1158)|요세푸스 문제|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1158%29%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C)|✔|✔|✔|✔||||
