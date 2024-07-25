@@ -139,7 +139,7 @@
 |[22868](https://www.acmicpc.net/problem/22868)|산책 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22868%29%20%EC%82%B0%EC%B1%85%20%28small%29)||||||||
 |[22946](https://www.acmicpc.net/problem/22946)|원 이동하기 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22946%29%20%EC%9B%90%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%201)||||||||
 |[22948](https://www.acmicpc.net/problem/22948)|원 이동하기 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/22948%29%20%EC%9B%90%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%202)||||||||
-|[2573](https://www.acmicpc.net/problem/2573)|빙산|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2573%29%20%EB%B9%99%EC%82%B0)||✔||||||
+|[2573](https://www.acmicpc.net/problem/2573)|빙산|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2573%29%20%EB%B9%99%EC%82%B0)||✔|||||✔|
 |[2606](https://www.acmicpc.net/problem/2606)|바이러스|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2606%29%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)|✔|✔|||✔|||
 |[2636](https://www.acmicpc.net/problem/2636)|치즈|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2636%29%20%EC%B9%98%EC%A6%88)||||||||
 |[2667](https://www.acmicpc.net/problem/2667)|단지번호 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2667%29%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||✔||||||
@@ -192,7 +192,7 @@
 |[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/15486%29%20%ED%87%B4%EC%82%AC%202)||||||||
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)||||||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||||||||
-|[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)||||||||
+|[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)||||✔||||
 |[21317](https://www.acmicpc.net/problem/21317)|징검다리 건너기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/21317%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)||||||||
 |[2156](https://www.acmicpc.net/problem/2156)|포도주 시식|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2156%29%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)||||||||
 |[22857](https://www.acmicpc.net/problem/22857)|가장 긴 짝수 연속한 부분 수열 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22857%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28small%29)||||||||
@@ -343,7 +343,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[1110](https://www.acmicpc.net/problem/1110)|더하기 사이클|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1110%29%20%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4)|✔|✔|✔|✔|✔|||
-|[11653](https://www.acmicpc.net/problem/11653)|소인수분해|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/11653%29%20%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)||||||||
+|[11653](https://www.acmicpc.net/problem/11653)|소인수분해|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/11653%29%20%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)|||||✔|||
 |[1271](https://www.acmicpc.net/problem/1271)|엄청난 부자2|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1271%29%20%EC%97%84%EC%B2%AD%EB%82%9C%20%EB%B6%80%EC%9E%902)|✔|✔|||✔|||
 |[1747](https://www.acmicpc.net/problem/1747)|수소&팰린드롬|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1747%29%20%EC%88%98%EC%86%8C%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)||||||||
 |[1934](https://www.acmicpc.net/problem/1934)|최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1934%29%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|||✔|✔|✔|||
@@ -355,7 +355,7 @@
 |[22943](https://www.acmicpc.net/problem/22943)|수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/22943%29%20%EC%88%98)||||||||
 |[2581](https://www.acmicpc.net/problem/2581)|소수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2581%29%20%EC%86%8C%EC%88%98)|||✔|✔|✔|||
 |[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2609%29%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)||✔|✔|✔|✔|||
-|[2745](https://www.acmicpc.net/problem/2745)|진법 변환|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2745%29%20%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98)|||✔|||||
+|[2745](https://www.acmicpc.net/problem/2745)|진법 변환|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2745%29%20%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98)|||✔||✔|||
 |[2960](https://www.acmicpc.net/problem/2960)|에라토스테네스의 체|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2960%29%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)|||✔|✔||||
 |[3052](https://www.acmicpc.net/problem/3052)|나머지|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/3052%29%20%EB%82%98%EB%A8%B8%EC%A7%80)|✔|✔|✔|✔|✔|||
 |[4134](https://www.acmicpc.net/problem/4134)|다음 소수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/4134%29%20%EB%8B%A4%EC%9D%8C%20%EC%86%8C%EC%88%98)|||✔|✔||||
@@ -424,7 +424,7 @@
 |[18312](https://www.acmicpc.net/problem/18312)|시각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18312%29%20%EC%8B%9C%EA%B0%81)||||||||
 |[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18511%29%20%ED%81%B0%20%EC%88%98%20%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)||||||||
 |[18808](https://www.acmicpc.net/problem/18808)|스티커 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18808%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||||||||
-|[19532](https://www.acmicpc.net/problem/19532)|수학은 비대면강의입니다|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/19532%29%20%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4)||||||||
+|[19532](https://www.acmicpc.net/problem/19532)|수학은 비대면강의입니다|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/19532%29%20%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4)|✔|||||||
 |[1969](https://www.acmicpc.net/problem/1969)|DNA|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1969%29%20DNA)||||||||
 |[21278](https://www.acmicpc.net/problem/21278)|호석이 두 마리 치킨|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21278%29%20%ED%98%B8%EC%84%9D%EC%9D%B4%20%EB%91%90%20%EB%A7%88%EB%A6%AC%20%EC%B9%98%ED%82%A8)||||||||
 |[21315](https://www.acmicpc.net/problem/21315)|카드 섞기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/21315%29%20%EC%B9%B4%EB%93%9C%20%EC%84%9E%EA%B8%B0)||||||||
@@ -433,7 +433,7 @@
 |[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2309%29%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)|✔|✔|||✔|||
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)||||||||
 |[2503](https://www.acmicpc.net/problem/2503)|숫자 야구|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2503%29%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC)||||||||
-|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)||✔||||||
+|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)|✔|✔||||||
 |[2961](https://www.acmicpc.net/problem/2961)|도영이가 만든 맛있는 음식|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2961%29%20%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%20%EB%A7%8C%EB%93%A0%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EC%9D%8C%EC%8B%9D)||||||||
 |[5568](https://www.acmicpc.net/problem/5568)|카드 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/5568%29%20%EC%B9%B4%EB%93%9C%20%EB%86%93%EA%B8%B0)||||||||
 |[8892](https://www.acmicpc.net/problem/8892)|팰린드롬|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/8892%29%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)|✔|✔|✔|||||
@@ -628,9 +628,11 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[11728](https://www.acmicpc.net/problem/11728)|배열 합치기|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/11728%29%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0)||✔||||||
+|[1253](https://www.acmicpc.net/problem/1253)|좋다|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/1253%29%20%EC%A2%8B%EB%8B%A4)||||||||
 |[15691](https://www.acmicpc.net/problem/15691)|회전 초밥|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/15691%29%20%ED%9A%8C%EC%A0%84%20%EC%B4%88%EB%B0%A5)||✔||||||
 |[1806](https://www.acmicpc.net/problem/1806)|부분합|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/1806%29%20%EB%B6%80%EB%B6%84%ED%95%A9)||||||||
 |[2003](https://www.acmicpc.net/problem/2003)|수들의 합 2|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2003%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%202)|||||✔|||
+|[2018](https://www.acmicpc.net/problem/2018)|수들의 합 5|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2018%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%205)||||||||
 |[20366](https://www.acmicpc.net/problem/20366)|같이 눈사람 만들래|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20366%29%20%EA%B0%99%EC%9D%B4%20%EB%88%88%EC%82%AC%EB%9E%8C%20%EB%A7%8C%EB%93%A4%EB%9E%98)||||||||
 |[20442](https://www.acmicpc.net/problem/20442)|ㅋㅋ루ㅋㅋ|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20442%29%20%E3%85%8B%E3%85%8B%EB%A3%A8%E3%85%8B%E3%85%8B)||||||||
 |[20922](https://www.acmicpc.net/problem/20922)|겹치는 건 싫어|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20922%29%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4)||||||||
@@ -780,7 +782,7 @@
 |[42583](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42583%29%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)||||||||
 |[42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|기능개발|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42586%29%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)||✔|✔||||✔|
 |[42587](https://programmers.co.kr/learn/courses/30/lessons/42587)|프로세스|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42587%29%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)|||✔||||✔|
-|[42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42626%29%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C)|||✔||||✔|
+|[42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42626%29%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C)||✔|✔||||✔|
 |[42746](https://programmers.co.kr/learn/courses/30/lessons/42746)|가장 큰 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42746%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)||✔|✔||||✔|
 |[42747](https://programmers.co.kr/learn/courses/30/lessons/42747)|H-Index|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42747%29%20H-Index)|||✔|||||
 |[42839](https://programmers.co.kr/learn/courses/30/lessons/42839)|소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42839%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)|||✔||||✔|
@@ -798,7 +800,7 @@
 |[72411](https://programmers.co.kr/learn/courses/30/lessons/72411)|메뉴 리뉴얼|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/72411%29%20%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)|||✔|||||
 |[72412](https://programmers.co.kr/learn/courses/30/lessons/72412)|순위 검색|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/72412%29%20%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89)|||✔|||||
 |[77485](https://programmers.co.kr/learn/courses/30/lessons/77485)|행렬 테두리 회전하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/77485%29%20%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)|||✔||||✔|
-|[84512](https://programmers.co.kr/learn/courses/30/lessons/84512)|모음사전|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/84512%29%20%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)|||✔|||||
+|[84512](https://programmers.co.kr/learn/courses/30/lessons/84512)|모음사전|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/84512%29%20%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)||✔|✔|||||
 |[86971](https://programmers.co.kr/learn/courses/30/lessons/86971)|전력망을 둘로 나누기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/86971%29%20%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0)|||✔||||✔|
 |[87946](https://programmers.co.kr/learn/courses/30/lessons/87946)|피로도|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/87946%29%20%ED%94%BC%EB%A1%9C%EB%8F%84)|||✔||||✔|
 
@@ -849,7 +851,7 @@
 |[42579](https://programmers.co.kr/learn/courses/30/lessons/42579)|베스트앨범|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42579%29%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)|||✔||||✔|
 |[42627](https://programmers.co.kr/learn/courses/30/lessons/42627)|디스크 컨트롤러|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42627%29%20%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)|||✔|||||
 |[42628](https://programmers.co.kr/learn/courses/30/lessons/42628)|이중우선순위큐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42628%29%20%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)|||✔||||✔|
-|[42861](https://programmers.co.kr/learn/courses/30/lessons/42861)|섬 연결하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42861%29%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)||||||||
+|[42861](https://programmers.co.kr/learn/courses/30/lessons/42861)|섬 연결하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42861%29%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)|||✔|||||
 |[42884](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42884%29%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)|||✔||||✔|
 |[42895](https://programmers.co.kr/learn/courses/30/lessons/42895)|N으로 표현|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42895%29%20N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)|||✔|||||
 |[42898](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42898%29%20%EB%93%B1%EA%B5%A3%EA%B8%B8)|||✔|||||
