@@ -14,7 +14,7 @@ int main() {
   
     for(int i = 2; i <= n; i++)
     {
-        int cnt = 300;
+        int cnt = 500;
 
         for(int j = 1; j*j <= i; j++)
         {
