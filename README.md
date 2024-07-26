@@ -86,7 +86,7 @@
 |[20053](https://www.acmicpc.net/problem/20053)|최소, 최대 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20053%29%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80%202)|✔|✔||✔||||
 |[20164](https://www.acmicpc.net/problem/20164)|홀수 홀릭 호석|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20164%29%20%ED%99%80%EC%88%98%20%ED%99%80%EB%A6%AD%20%ED%98%B8%EC%84%9D)||||||||
 |[20207](https://www.acmicpc.net/problem/20207)|달력|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20207%29%20%EB%8B%AC%EB%A0%A5)||||||||
-|[20291](https://www.acmicpc.net/problem/20291)|파일 정리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20291%29%20%ED%8C%8C%EC%9D%BC%20%EC%A0%95%EB%A6%AC)|✔|||||||
+|[20291](https://www.acmicpc.net/problem/20291)|파일 정리|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20291%29%20%ED%8C%8C%EC%9D%BC%20%EC%A0%95%EB%A6%AC)|✔|✔||||||
 |[20436](https://www.acmicpc.net/problem/20436)|ZOAC 3|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20436%29%20ZOAC%203)|✔|||||||
 |[20546](https://www.acmicpc.net/problem/20546)|기적의 매매법|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20546%29%20%EA%B8%B0%EC%A0%81%EC%9D%98%20%EB%A7%A4%EB%A7%A4%EB%B2%95)||||||||
 |[21608](https://www.acmicpc.net/problem/21608)|상어초등학교|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/21608%29%20%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90)||||||||
@@ -356,7 +356,7 @@
 |[2581](https://www.acmicpc.net/problem/2581)|소수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2581%29%20%EC%86%8C%EC%88%98)|||✔|✔|✔|||
 |[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2609%29%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)||✔|✔|✔|✔|||
 |[2745](https://www.acmicpc.net/problem/2745)|진법 변환|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2745%29%20%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98)|||✔||✔|||
-|[2960](https://www.acmicpc.net/problem/2960)|에라토스테네스의 체|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2960%29%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)|||✔|✔||||
+|[2960](https://www.acmicpc.net/problem/2960)|에라토스테네스의 체|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2960%29%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)|||✔|✔|✔|||
 |[3052](https://www.acmicpc.net/problem/3052)|나머지|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/3052%29%20%EB%82%98%EB%A8%B8%EC%A7%80)|✔|✔|✔|✔|✔|||
 |[4134](https://www.acmicpc.net/problem/4134)|다음 소수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/4134%29%20%EB%8B%A4%EC%9D%8C%20%EC%86%8C%EC%88%98)|||✔|✔||||
 |[5347](https://www.acmicpc.net/problem/5347)|LCM|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/5347%29%20LCM)||||||||
@@ -421,7 +421,7 @@
 |[16508](https://www.acmicpc.net/problem/16508)|전공책|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16508%29%20%EC%A0%84%EA%B3%B5%EC%B1%85)||||||||
 |[16637](https://www.acmicpc.net/problem/16637)|괄호 추가하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16637%29%20%EA%B4%84%ED%98%B8%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)||||||||
 |[16937](https://www.acmicpc.net/problem/16937)|두 스티커|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/16937%29%20%EB%91%90%20%EC%8A%A4%ED%8B%B0%EC%BB%A4)||||||||
-|[18312](https://www.acmicpc.net/problem/18312)|시각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18312%29%20%EC%8B%9C%EA%B0%81)||||||||
+|[18312](https://www.acmicpc.net/problem/18312)|시각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18312%29%20%EC%8B%9C%EA%B0%81)|✔|||||||
 |[18511](https://www.acmicpc.net/problem/18511)|큰 수 구성하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18511%29%20%ED%81%B0%20%EC%88%98%20%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)||||||||
 |[18808](https://www.acmicpc.net/problem/18808)|스티커 붙이기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18808%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%B6%99%EC%9D%B4%EA%B8%B0)||||||||
 |[19532](https://www.acmicpc.net/problem/19532)|수학은 비대면강의입니다|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/19532%29%20%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4)|✔|||||||
@@ -505,7 +505,7 @@
 |[22942](https://www.acmicpc.net/problem/22942)|데이터 체커|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/22942%29%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%B4%EC%BB%A4)||||||||
 |[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2346%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0)|✔|✔|✔|||||
 |[2493](https://www.acmicpc.net/problem/2493)|탑|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2493%29%20%ED%83%91)|||||||✔|
-|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2504%29%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92)||||||||
+|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2504%29%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92)|||✔|||||
 |[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2800%29%20%EA%B4%84%ED%98%B8%20%EC%A0%9C%EA%B1%B0)||||||||
 |[6198](https://www.acmicpc.net/problem/6198)|옥상 정원 꾸미기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/6198%29%20%EC%98%A5%EC%83%81%20%EC%A0%95%EC%9B%90%20%EA%BE%B8%EB%AF%B8%EA%B8%B0)|||||||✔|
 |[7785](https://www.acmicpc.net/problem/7785)|회사에 있는 사람|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/7785%29%20%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C)|✔|✔||✔||||
