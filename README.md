@@ -870,7 +870,7 @@
 |[76503](https://programmers.co.kr/learn/courses/30/lessons/76503)|모두 0으로 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/76503%29%20%EB%AA%A8%EB%91%90%200%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||
 |[77486](https://programmers.co.kr/learn/courses/30/lessons/77486)|다단계 칫솔 판매|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/77486%29%20%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4)|||✔|||||
 |[84021](https://programmers.co.kr/learn/courses/30/lessons/84021)|퍼즐 조각 채우기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/84021%29%20%ED%8D%BC%EC%A6%90%20%EC%A1%B0%EA%B0%81%20%EC%B1%84%EC%9A%B0%EA%B8%B0)||||||||
-|[87694](https://programmers.co.kr/learn/courses/30/lessons/87694)|아이템 줍기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/87694%29%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0)||||||||
+|[87694](https://programmers.co.kr/learn/courses/30/lessons/87694)|아이템 줍기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/87694%29%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0)|||✔|||||
 
 </details>
 
