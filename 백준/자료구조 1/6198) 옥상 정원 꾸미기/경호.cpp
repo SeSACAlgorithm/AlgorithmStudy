@@ -15,14 +15,14 @@ int main()
 
     stack<int> taller;
     long long answer = 0;
-	for(int i = 0; i < N; ++i)
+    for(int i = 0; i < N; ++i)
     {
         // 스택이 비어있다면 추가 후 스킵
-		if(taller.empty())
-		{
-			taller.push(buildings[i]);
+	if(taller.empty())
+	{
+	    taller.push(buildings[i]);
             continue;
-	    }
+	}
         // 스택에서 현재 만난 건물 높이 이하의 빌딩은 모두 제거
         while(false == taller.empty() && taller.top() <= buildings[i])
             taller.pop();
