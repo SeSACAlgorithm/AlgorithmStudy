@@ -16,7 +16,7 @@ int main()
     nums.emplace(-1, 1000001);
     vector<int> answer(N, -1);
     int temp;
-	for(int i = 0; i < N; ++i)
+    for(int i = 0; i < N; ++i)
     {
         cin >> temp;
 
@@ -32,5 +32,5 @@ int main()
     }
 
     for(const int& ans : answer)
-		cout << ans << " ";
+	cout << ans << " ";
 }
