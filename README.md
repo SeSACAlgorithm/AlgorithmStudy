@@ -601,7 +601,7 @@
 |[11508](https://www.acmicpc.net/problem/11508)|2 + 1 세일|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11508%29%202%20%2B%201%20%EC%84%B8%EC%9D%BC)||||||||
 |[13164](https://www.acmicpc.net/problem/13164)|행복 유치원|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13164%29%20%ED%96%89%EB%B3%B5%20%EC%9C%A0%EC%B9%98%EC%9B%90)||||||||
 |[13305](https://www.acmicpc.net/problem/13305)|주유소|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13305%29%20%EC%A3%BC%EC%9C%A0%EC%86%8C)||||||||
-|[1343](https://www.acmicpc.net/problem/1343)|폴리오미노|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1343%29%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8)||||||||
+|[1343](https://www.acmicpc.net/problem/1343)|폴리오미노|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1343%29%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8)|✔|||||||
 |[13975](https://www.acmicpc.net/problem/13975)|파일 합치기 3|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13975%29%20%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203)|||||||✔|
 |[14916](https://www.acmicpc.net/problem/14916)|거스름돈|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/14916%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)|✔|✔||✔||||
 |[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1541%29%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8)||||||||
