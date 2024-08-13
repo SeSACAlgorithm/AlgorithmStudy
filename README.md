@@ -532,7 +532,7 @@
 |[23326](https://www.acmicpc.net/problem/23326)|홍익 투어리스트|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/23326%29%20%ED%99%8D%EC%9D%B5%20%ED%88%AC%EC%96%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8)|||||||✔|
 |[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/2696%29%20%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)||||||||
 |[4358](https://www.acmicpc.net/problem/4358)|생태학|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/4358%29%20%EC%83%9D%ED%83%9C%ED%95%99)||✔||||||
-|[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/7662%29%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90)|||||||✔|
+|[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/7662%29%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90)|||✔||||✔|
 
 </details>
 
