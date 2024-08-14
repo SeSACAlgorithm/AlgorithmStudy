@@ -8,7 +8,7 @@ class priority_queue
 public:
     priority_queue()
     {
-        _data = new uint32_t[1];
+        _data = new int[1];
         _count = 0;
         _capacity = 1;
     }
@@ -19,14 +19,14 @@ public:
     }
 
 private:
-    uint32_t* _data;
+    int* _data;
     int _count;
     int _capacity;
 
     void expand()
     {
         _capacity *= 2;
-        uint32_t* new_data = new uint32_t[_capacity];
+        int* new_data = new int[_capacity];
         for (int i = 0; i < _count; ++i)
             new_data[i] = _data[i];
 
@@ -34,7 +34,7 @@ private:
         delete[] new_data;
     }
 
-    void add(uint32_t value)
+    void add(int value)
     {
         _data[_count] = value;
         _count++;
@@ -74,7 +74,7 @@ private:
     }
 
 public:
-    void push(uint32_t value)
+    void push(int value)
     {
         if (_count == _capacity)
             expand();
@@ -88,7 +88,7 @@ public:
         remove();
     }
 
-    uint32_t front() const { return _data[0]; }
+    int front() const { return _data[0]; }
     bool empty() const { return _count == 0; }
 };
 
@@ -100,9 +100,9 @@ int main()
     int N;
     cin >> N;
 
-    uint32_t input;
+    int input;
     priority_queue pq;
-    vector<uint32_t> answer;
+    vector<int> answer;
     for(int i = 0; i < N; ++i)
     {
         cin >> input;
@@ -121,6 +121,6 @@ int main()
             pq.push(input);
     }
 
-    for (const uint32_t& ans : answer)
+    for (const int& ans : answer)
         cout << ans << "\n";
 }
