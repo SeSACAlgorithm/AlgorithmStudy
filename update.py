@@ -9,7 +9,7 @@ HEADER="""#
 # 백준 & 프로그래머스 & SWEA
 
 ## 목차
-### [Standing](#-Standing) <br>
+### [Ranking](#-Ranking) <br>
 ### [SWEA](#-SWEA) <br>
 ### [백준](#-백준) <br>
 ### [프로그래머스](#-프로그래머스) <br>
@@ -96,7 +96,7 @@ def main():
 
     # 순위표 추가
     most_common_names = name_count.most_common(5)  # 5등까지
-    standings = "# 🏆 Standing\n"
+    standings = "# 🏆 Ranking\n"
     standings += "| 🥇 순위 | 👤 이름 | ✔ 횟수 |\n"
     standings += "| --- | --- | --- |\n"
     
