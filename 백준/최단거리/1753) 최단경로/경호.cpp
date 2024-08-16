@@ -40,6 +40,8 @@ int main()
         int cur_cost = que.top().first;
         int cur_node = que.top().second;
         que.pop();
+        // 이미 더 짧은 거리로 갱신했다면 스킵
+        if (cur_cost > node[cur_node]) continue;
 
         for(auto it = distance[cur_node].begin(); it != distance[cur_node].end(); ++it)
         {
