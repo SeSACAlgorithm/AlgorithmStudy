@@ -855,6 +855,15 @@
 </details>
 
 <details>
+  <summary><b>🚀 LEVEL 2 (3)</b></summary>
+
+| 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
+| ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1835](https://programmers.co.kr/learn/courses/30/lessons/1835)|단체사진 찍기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%283%29/1835%29%20%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84%20%EC%B0%8D%EA%B8%B0)||||||||
+
+</details>
+
+<details>
   <summary><b>🚀 LEVEL 3 (1)</b></summary>
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
