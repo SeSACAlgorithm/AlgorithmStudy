@@ -17,7 +17,7 @@ HEADER="""#
 """
 
 def main():
-    content = ""  # content 변수 초기화
+    content = ""  # content 변수를 초기화
     directories = []
     solveds = []
     names = ['윤지', '석희', '경호', '정완', '정현', '재원', '태호']
@@ -95,14 +95,28 @@ def main():
         content += "\n</details>\n\n"  # Close the last details tag
 
     # 순위표 추가
-    most_common_names = name_count.most_common(3)
+    most_common_names = name_count.most_common(5)  # 5등까지
     standings = "# 🏆 Standing\n"
-    standings += "| 순위 | 이름 | 횟수 |\n"
+    standings += "| 🥇 순위 | 👤 이름 | ✔ 횟수 |\n"
     standings += "| --- | --- | --- |\n"
-    for i, (name, count) in enumerate(most_common_names, 1):
-        standings += f"| {i} | {name} | {count} |\n"
     
-    content = standings + "\n" + HEADER + "\n" + content  # 순위표를 가장 위에 추가
+    for i, (name, count) in enumerate(most_common_names, 1):
+        if i == 1:
+            medal = "🥇"
+        elif i == 2:
+            medal = "🥈"
+        elif i == 3:
+            medal = "🥉"
+        elif i == 4:
+            medal = "🏅"
+        else:
+            medal = "🎖️"
+        
+        standings += f"| {medal} | {name} | {count} |\n"
+    
+    content = HEADER + "\n" + standings + "\n" + content  # 목차 다음에 순위표 추가
+
+
 
     with open("README.md", "w") as fd:
         fd.write(content)
