@@ -17,6 +17,7 @@ HEADER="""#
 """
 
 def main():
+    content = ""  # content 변수 초기화
     directories = []
     solveds = []
     names = ['윤지', '석희', '경호', '정완', '정현', '재원', '태호']
