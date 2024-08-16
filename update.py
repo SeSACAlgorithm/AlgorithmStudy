@@ -102,15 +102,15 @@ def main():
     
     for i, (name, count) in enumerate(most_common_names, 1):
         if i == 1:
-            medal = "🥇"
+            medal = "🥇 1위"
         elif i == 2:
-            medal = "🥈"
+            medal = "🥈 2위"
         elif i == 3:
-            medal = "🥉"
+            medal = "🥉 3위"
         elif i == 4:
-            medal = "🏅"
+            medal = "🏅 4위"
         else:
-            medal = "🎖️"
+            medal = "🎖️ 5위"
         
         standings += f"| {medal} | {name} | {count} |\n"
     
