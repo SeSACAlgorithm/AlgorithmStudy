@@ -6,7 +6,7 @@ using namespace std;
 
 struct cmp
 {
-	bool operator()(pair<int, int> a, pair<int, int> b) const
+    bool operator()(pair<int, int> a, pair<int, int> b) const
     {
         return a.first == b.first ? a.second > b.second : a.first > b.first;
     }
