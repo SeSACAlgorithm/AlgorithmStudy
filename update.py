@@ -3,24 +3,24 @@
 import os
 import re
 from urllib import parse
+from collections import Counter
 
 HEADER="""# 
 # 백준 & 프로그래머스 & SWEA
 
 ## 목차
-### [SWEA](#-SWEA)
+### [Standing](#-Standing) <br>
+### [SWEA](#-SWEA) <br>
 ### [백준](#-백준) <br>
 ### [프로그래머스](#-프로그래머스) <br>
 
 """
 
 def main():
-    content = ""
-    content += HEADER
-    
     directories = []
     solveds = []
     names = ['윤지', '석희', '경호', '정완', '정현', '재원', '태호']
+    name_count = Counter()  # 파일 이름 빈도수를 계산할 Counter 추가
     site_link = ""
 
     for root, dirs, files in os.walk("."):
@@ -77,9 +77,13 @@ def main():
                     solveds.append(category)
 
             for name in names:
+                count_flag = False  # 카운트 중복 방지를 위한 플래그
                 for file in files:
                     if name in file:
                         content += "✔"
+                        if not count_flag:
+                            name_count[name] += 1  # 해당 이름이 파일에 있으면 카운트 증가
+                            count_flag = True  # 한 파일당 한 번만 카운트되도록 설정
                     else:
                         continue
                 content += "|"
@@ -88,6 +92,16 @@ def main():
                 
     if directories:  # Check if there are any directories
         content += "\n</details>\n\n"  # Close the last details tag
+
+    # 순위표 추가
+    most_common_names = name_count.most_common(3)
+    standings = "# 🏆 Standing\n"
+    standings += "| 순위 | 이름 | 횟수 |\n"
+    standings += "| --- | --- | --- |\n"
+    for i, (name, count) in enumerate(most_common_names, 1):
+        standings += f"| {i} | {name} | {count} |\n"
+    
+    content = standings + "\n" + HEADER + "\n" + content  # 순위표를 가장 위에 추가
 
     with open("README.md", "w") as fd:
         fd.write(content)
