@@ -396,12 +396,20 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[11559](https://www.acmicpc.net/problem/11559)|Puyo Puyo|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/11559%29%20Puyo%20Puyo)||||||||
+|[13335](https://www.acmicpc.net/problem/13335)|트럭|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13335%29%20%ED%8A%B8%EB%9F%AD)||||||||
 |[13460](https://www.acmicpc.net/problem/13460)|구슬 탈출 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13460%29%20%EA%B5%AC%EC%8A%AC%20%ED%83%88%EC%B6%9C%202)||✔||||||
+|[14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14499%29%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0)||||||||
+|[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)||||||||
+|[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14889%29%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC)||||||||
+|[14890](https://www.acmicpc.net/problem/14890)|경사로|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14890%29%20%EA%B2%BD%EC%82%AC%EB%A1%9C)||||||||
 |[14891](https://www.acmicpc.net/problem/14891)|톱니바퀴|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14891%29%20%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)||✔||||||
 |[15683](https://www.acmicpc.net/problem/15683)|감시|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15683%29%20%EA%B0%90%EC%8B%9C)||||||||
+|[15684](https://www.acmicpc.net/problem/15684)|사다리 조작|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15684%29%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EC%A1%B0%EC%9E%91)||||||||
 |[15685](https://www.acmicpc.net/problem/15685)|드래곤 커브|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15685%29%20%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C)||||||||
 |[16235](https://www.acmicpc.net/problem/16235)|나무 재테크|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16235%29%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC)||||||||
 |[16236](https://www.acmicpc.net/problem/16236)|아기 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16236%29%20%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4)||✔||||||
+|[16985](https://www.acmicpc.net/problem/16985)|Maaaaaaaaaze|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16985%29%20Maaaaaaaaaze)||||||||
 |[1713](https://www.acmicpc.net/problem/1713)|후보 추천하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/1713%29%20%ED%9B%84%EB%B3%B4%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0)||||||||
 |[17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17135%29%20%EC%BA%90%EC%8A%AC%20%EB%94%94%ED%8E%9C%EC%8A%A4)||✔||||||
 |[17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17140%29%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EC%82%B0)||||||||
@@ -423,6 +431,7 @@
 |[21610](https://www.acmicpc.net/problem/21610)|마법사 상어와 비바라기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21610%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0)||||||||
 |[21922](https://www.acmicpc.net/problem/21922)|학부 연구생 민상|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21922%29%20%ED%95%99%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%83%9D%20%EB%AF%BC%EC%83%81)||||||||
 |[22861](https://www.acmicpc.net/problem/22861)|폴더 정리 (large)|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/22861%29%20%ED%8F%B4%EB%8D%94%20%EC%A0%95%EB%A6%AC%20%28large%29)||||||||
+|[3190](https://www.acmicpc.net/problem/3190)|뱀|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/3190%29%20%EB%B1%80)||||||||
 |[5212](https://www.acmicpc.net/problem/5212)|지구 온난화|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/5212%29%20%EC%A7%80%EA%B5%AC%20%EC%98%A8%EB%82%9C%ED%99%94)||||||||
 
 </details>
@@ -436,7 +445,7 @@
 |[1107](https://www.acmicpc.net/problem/1107)|리모컨|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1107%29%20%EB%A6%AC%EB%AA%A8%EC%BB%A8)||✔||||||
 |[12919](https://www.acmicpc.net/problem/12919)|A와 B 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/12919%29%20A%EC%99%80%20B%202)||||||||
 |[14391](https://www.acmicpc.net/problem/14391)|종이 조각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14391%29%20%EC%A2%85%EC%9D%B4%20%EC%A1%B0%EA%B0%81)||||||||
-|[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)||||||||
+|||||||
 |[14501](https://www.acmicpc.net/problem/14501)|퇴사|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14501%29%20%ED%87%B4%EC%82%AC)||||||||
 |[14620](https://www.acmicpc.net/problem/14620)|꽃길|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14620%29%20%EA%BD%83%EA%B8%B8)||||||||
 |[1548](https://www.acmicpc.net/problem/1548)|부분 삼각 수열|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1548%29%20%EB%B6%80%EB%B6%84%20%EC%82%BC%EA%B0%81%20%EC%88%98%EC%97%B4)||||||||
