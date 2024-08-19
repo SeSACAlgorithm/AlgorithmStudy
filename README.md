@@ -642,6 +642,7 @@
 |[11000](https://www.acmicpc.net/problem/11000)|강의실 배정|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11000%29%20%EA%B0%95%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)||||||||
 |[11047](https://www.acmicpc.net/problem/11047)|동전0|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11047%29%20%EB%8F%99%EC%A0%840)||||✔||||
 |[11399](https://www.acmicpc.net/problem/11399)|ATM|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11399%29%20ATM)||||||||
+|[11501](https://www.acmicpc.net/problem/11501)|주식|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11501%29%20%EC%A3%BC%EC%8B%9D)||||||||
 |[11508](https://www.acmicpc.net/problem/11508)|2 + 1 세일|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11508%29%202%20%2B%201%20%EC%84%B8%EC%9D%BC)|✔|||||||
 |[13164](https://www.acmicpc.net/problem/13164)|행복 유치원|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13164%29%20%ED%96%89%EB%B3%B5%20%EC%9C%A0%EC%B9%98%EC%9B%90)||||||||
 |[13305](https://www.acmicpc.net/problem/13305)|주유소|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13305%29%20%EC%A3%BC%EC%9C%A0%EC%86%8C)||||||||
@@ -650,7 +651,9 @@
 |[14916](https://www.acmicpc.net/problem/14916)|거스름돈|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/14916%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)|✔|✔|✔|✔||||
 |[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1541%29%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8)||||||||
 |[16953](https://www.acmicpc.net/problem/16953)|A→B|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/16953%29%20A%E2%86%92B)||||||||
+|[1700](https://www.acmicpc.net/problem/1700)|멀티탭 스케줄링|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1700%29%20%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)||||||||
 |[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1715%29%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)|||||||✔|
+|[1744](https://www.acmicpc.net/problem/1744)|수 묶기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1744%29%20%EC%88%98%20%EB%AC%B6%EA%B8%B0)||||||||
 |[1758](https://www.acmicpc.net/problem/1758)|알바생 강호|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1758%29%20%EC%95%8C%EB%B0%94%EC%83%9D%20%EA%B0%95%ED%98%B8)||||||||
 |[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1931%29%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)||✔||||||
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/19598%29%20%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98)||||||||
@@ -659,10 +662,12 @@
 |[20365](https://www.acmicpc.net/problem/20365)|블로그2|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/20365%29%20%EB%B8%94%EB%A1%9C%EA%B7%B82)||||||||
 |[21314](https://www.acmicpc.net/problem/21314)|민겸 수|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/21314%29%20%EB%AF%BC%EA%B2%B8%20%EC%88%98)||||||||
 |[2141](https://www.acmicpc.net/problem/2141)|2141 우체국|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2141%20%EC%9A%B0%EC%B2%B4%EA%B5%AD)||||||||
+|[2170](https://www.acmicpc.net/problem/2170)|선 긋기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2170%29%20%EC%84%A0%20%EA%B8%8B%EA%B8%B0)||||||||
 |[21758](https://www.acmicpc.net/problem/21758)|꿀 따기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/21758%29%20%EA%BF%80%20%EB%94%B0%EA%B8%B0)||||||||
 |[2212](https://www.acmicpc.net/problem/2212)|센서|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2212%29%20%EC%84%BC%EC%84%9C)||||||||
 |[2217](https://www.acmicpc.net/problem/2217)|로프|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2217%29%20%EB%A1%9C%ED%94%84)|✔|||||||
 |[2285](https://www.acmicpc.net/problem/2285)|우체국|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2285%29%20%EC%9A%B0%EC%B2%B4%EA%B5%AD)||||||||
+|[2457](https://www.acmicpc.net/problem/2457)|공주님의 정원|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2457%29%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%20%EC%A0%95%EC%9B%90)||||||||
 |[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2812%29%20%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||
 |[8980](https://www.acmicpc.net/problem/8980)|택배|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/8980%29%20%ED%83%9D%EB%B0%B0)||||||||
 
