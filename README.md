@@ -196,6 +196,7 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1003](https://www.acmicpc.net/problem/1003)|피보나치 함수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1003%29%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98)||||||||
 |[1010](https://www.acmicpc.net/problem/1010)|다리 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1010%29%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0)|✔|✔|✔|✔||||
 |[10826](https://www.acmicpc.net/problem/10826)|피보나치 수 4|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/10826%29%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%204)|✔|||||||
 |[10844](https://www.acmicpc.net/problem/10844)|쉬운 계단 수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/10844%29%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98)||||||||
@@ -206,13 +207,18 @@
 |[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기 5|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11660%29%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205)||✔||✔||||
 |[11726](https://www.acmicpc.net/problem/11726)|2xn 타일링|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11726%29%202xn%20%ED%83%80%EC%9D%BC%EB%A7%81)|✔|✔||✔||||
 |[11727](https://www.acmicpc.net/problem/11727)|2 x n 타일링 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/11727%29%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81%202)|✔|✔||✔||||
+|[14501](https://www.acmicpc.net/problem/14501)|퇴사|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/14501%29%20%ED%87%B4%EC%82%AC)||||||||
 |[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1463%29%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔||✔||||
 |[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/15486%29%20%ED%87%B4%EC%82%AC%202)||||||||
+|[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1699%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9)||||||||
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)||||✔||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||||||||
 |[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)||||✔||||
+|[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1932%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)||||||||
+|[2011](https://www.acmicpc.net/problem/2011)|암호코드|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2011%29%20%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C)||||||||
 |[21317](https://www.acmicpc.net/problem/21317)|징검다리 건너기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/21317%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)||||||||
 |[2156](https://www.acmicpc.net/problem/2156)|포도주 시식|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2156%29%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)||||||||
+|[2193](https://www.acmicpc.net/problem/2193)|이친수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2193%29%20%EC%9D%B4%EC%B9%9C%EC%88%98)||||||||
 |[22857](https://www.acmicpc.net/problem/22857)|가장 긴 짝수 연속한 부분 수열 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22857%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28small%29)||||||||
 |[22869](https://www.acmicpc.net/problem/22869)|징검다리 건너기 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22869%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0%20%28small%29)||||||||
 |[2293](https://www.acmicpc.net/problem/2293)|동전 1|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2293%29%20%EB%8F%99%EC%A0%84%201)||✔||||||
@@ -446,7 +452,7 @@
 |[12919](https://www.acmicpc.net/problem/12919)|A와 B 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/12919%29%20A%EC%99%80%20B%202)||||||||
 |[14391](https://www.acmicpc.net/problem/14391)|종이 조각|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14391%29%20%EC%A2%85%EC%9D%B4%20%EC%A1%B0%EA%B0%81)||||||||
 |||||||
-|[14501](https://www.acmicpc.net/problem/14501)|퇴사|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14501%29%20%ED%87%B4%EC%82%AC)||||||||
+|||||||
 |[14620](https://www.acmicpc.net/problem/14620)|꽃길|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/14620%29%20%EA%BD%83%EA%B8%B8)||||||||
 |[1548](https://www.acmicpc.net/problem/1548)|부분 삼각 수열|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1548%29%20%EB%B6%80%EB%B6%84%20%EC%82%BC%EA%B0%81%20%EC%88%98%EC%97%B4)||||||||
 |[15661](https://www.acmicpc.net/problem/15661)|링크와 스타트|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/15661%29%20%EB%A7%81%ED%81%AC%EC%99%80%20%EC%8A%A4%ED%83%80%ED%8A%B8)||||||||
