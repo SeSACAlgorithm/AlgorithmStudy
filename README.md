@@ -96,6 +96,7 @@
 |[16926](https://www.acmicpc.net/problem/16926)|배열 돌리기 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/16926%29%20%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201)||||||||
 |[17276](https://www.acmicpc.net/problem/17276)|배열 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17276%29%20%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)||||||||
 |[17413](https://www.acmicpc.net/problem/17413)|단어 뒤집기 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17413%29%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202)|✔|✔||||||
+|[17478](https://www.acmicpc.net/problem/17478)|재귀함수가 뭔가요|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17478%29%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%20%EB%AD%94%EA%B0%80%EC%9A%94)||||||||
 |[1913](https://www.acmicpc.net/problem/1913)|달팽이|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1913%29%20%EB%8B%AC%ED%8C%BD%EC%9D%B4)|✔||✔|||||
 |[20053](https://www.acmicpc.net/problem/20053)|최소, 최대 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20053%29%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80%202)|✔|✔||✔|✔|||
 |[20164](https://www.acmicpc.net/problem/20164)|홀수 홀릭 호석|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20164%29%20%ED%99%80%EC%88%98%20%ED%99%80%EB%A6%AD%20%ED%98%B8%EC%84%9D)||||||||
@@ -346,6 +347,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[1074](https://www.acmicpc.net/problem/1074)|Z|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/1074%29%20Z)||||||||
+|[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/1780%29%20%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)||||||||
 |[17829](https://www.acmicpc.net/problem/17829)|222-풀링|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/17829%29%20222-%ED%92%80%EB%A7%81)||||||||
 |[18222](https://www.acmicpc.net/problem/18222)|투에-모스 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/18222%29%20%ED%88%AC%EC%97%90-%EB%AA%A8%EC%8A%A4%20%EB%AC%B8%EC%9E%90%EC%97%B4)||||||||
 |[1992](https://www.acmicpc.net/problem/1992)|쿼드트리|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/1992%29%20%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)||||||||
