@@ -318,11 +318,13 @@
 |[1759](https://www.acmicpc.net/problem/1759)|암호 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1759%29%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||✔||||||
 |[1799](https://www.acmicpc.net/problem/1799)|비숍|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1799%29%20%EB%B9%84%EC%88%8D)||||||||
 |[18430](https://www.acmicpc.net/problem/18430)|무기 공학|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/18430%29%20%EB%AC%B4%EA%B8%B0%20%EA%B3%B5%ED%95%99)||||||||
+|[1941](https://www.acmicpc.net/problem/1941)|소문난 칠공주|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1941%29%20%EC%86%8C%EB%AC%B8%EB%82%9C%20%EC%B9%A0%EA%B3%B5%EC%A3%BC)||||||||
 |[22944](https://www.acmicpc.net/problem/22944)|죽음의 비|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/22944%29%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EB%B9%84)||||||||
 |[2580](https://www.acmicpc.net/problem/2580)|스도쿠|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2580%29%20%EC%8A%A4%EB%8F%84%EC%BF%A0)||||||||
 |[2661](https://www.acmicpc.net/problem/2661)|좋은 수열|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2661%29%20%EC%A2%8B%EC%9D%80%20%EC%88%98%EC%97%B4)||||||||
 |[3980](https://www.acmicpc.net/problem/3980)|선발 명단|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/3980%29%20%EC%84%A0%EB%B0%9C%20%EB%AA%85%EB%8B%A8)||||||||
 |[6443](https://www.acmicpc.net/problem/6443)|애너그램|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/6443%29%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8)||||||||
+|[6603](https://www.acmicpc.net/problem/6603)|로또|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/6603%29%20%EB%A1%9C%EB%98%90)||||||||
 |[9663](https://www.acmicpc.net/problem/9663)|N-Queen|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/9663%29%20N-Queen)|✔|||||||
 
 </details>
