@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 214 |
+| 🥇 1위 | 석희 | 215 |
 | 🥈 2위 | 경호 | 192 |
 | 🥉 3위 | 윤지 | 158 |
 | 🏅 4위 | 태호 | 135 |
@@ -575,7 +575,7 @@
 |[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/2696%29%20%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)||||||||
 |[4358](https://www.acmicpc.net/problem/4358)|생태학|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/4358%29%20%EC%83%9D%ED%83%9C%ED%95%99)||✔|✔|||||
 |[5397](https://www.acmicpc.net/problem/5397)|키로거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5397%29%20%ED%82%A4%EB%A1%9C%EA%B1%B0)||||||||
-|[5430](https://www.acmicpc.net/problem/5430)|AC|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5430%29%20AC)||||||||
+|[5430](https://www.acmicpc.net/problem/5430)|AC|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5430%29%20AC)||✔||||||
 |[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/7662%29%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90)|||✔||||✔|
 
 </details>
