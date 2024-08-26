@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 215 |
 | 🥈 2위 | 경호 | 193 |
 | 🥉 3위 | 윤지 | 158 |
-| 🏅 4위 | 태호 | 135 |
+| 🏅 4위 | 태호 | 136 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 72 |
 | 🎗 7위 | 재원 | 26 |
@@ -491,7 +491,7 @@
 |[1005](https://www.acmicpc.net/problem/1005)|ACM Craft|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/1005%29%20ACM%20Craft)|||||||✔|
 |[14567](https://www.acmicpc.net/problem/14567)|선수과목 (Prerequisite)|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/14567%29%20%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%20%28Prerequisite%29)|||||||✔|
 |[1766](https://www.acmicpc.net/problem/1766)|문제집|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/1766%29%20%EB%AC%B8%EC%A0%9C%EC%A7%91)||✔|||||✔|
-|[21276](https://www.acmicpc.net/problem/21276)|계보 복원가 호석|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/21276%29%20%EA%B3%84%EB%B3%B4%20%EB%B3%B5%EC%9B%90%EA%B0%80%20%ED%98%B8%EC%84%9D)||||||||
+|[21276](https://www.acmicpc.net/problem/21276)|계보 복원가 호석|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/21276%29%20%EA%B3%84%EB%B3%B4%20%EB%B3%B5%EC%9B%90%EA%B0%80%20%ED%98%B8%EC%84%9D)|||||||✔|
 |[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/2252%29%20%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)|||||||✔|
 |[2623](https://www.acmicpc.net/problem/2623)|음악 프로그램|[링크](./%EB%B0%B1%EC%A4%80/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/2623%29%20%EC%9D%8C%EC%95%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)|||||||✔|
 
