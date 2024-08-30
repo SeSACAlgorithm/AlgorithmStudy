@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 217 |
 | 🥈 2위 | 경호 | 197 |
-| 🥉 3위 | 윤지 | 162 |
+| 🥉 3위 | 윤지 | 163 |
 | 🏅 4위 | 태호 | 136 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 76 |
@@ -657,7 +657,7 @@
 |[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1715%29%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)|||||||✔|
 |[1744](https://www.acmicpc.net/problem/1744)|수 묶기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1744%29%20%EC%88%98%20%EB%AC%B6%EA%B8%B0)||||||||
 |[1758](https://www.acmicpc.net/problem/1758)|알바생 강호|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1758%29%20%EC%95%8C%EB%B0%94%EC%83%9D%20%EA%B0%95%ED%98%B8)||||||||
-|[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1931%29%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)||✔||||||
+|[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1931%29%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)|✔|✔||||||
 |[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/19598%29%20%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98)||||||||
 |[20115](https://www.acmicpc.net/problem/20115)|에너지 드링크|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/20115%29%20%EC%97%90%EB%84%88%EC%A7%80%20%EB%93%9C%EB%A7%81%ED%81%AC)||||||||
 |[20300](https://www.acmicpc.net/problem/20300)|서강근육맨|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/20300%29%20%EC%84%9C%EA%B0%95%EA%B7%BC%EC%9C%A1%EB%A7%A8)||||||||
