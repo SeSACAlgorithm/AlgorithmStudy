@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 218 |
 | 🥈 2위 | 경호 | 200 |
-| 🥉 3위 | 윤지 | 164 |
+| 🥉 3위 | 윤지 | 165 |
 | 🏅 4위 | 태호 | 138 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 79 |
@@ -544,7 +544,7 @@
 |[1874](https://www.acmicpc.net/problem/1874)|스택 수열|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1874%29%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4)|✔|✔|✔||||✔|
 |[1918](https://www.acmicpc.net/problem/1918)|후위 표기식|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1918%29%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D)||||||||
 |[1935](https://www.acmicpc.net/problem/1935)|후위 표기식2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1935%29%20%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D2)||✔|✔|||||
-|[1966](https://www.acmicpc.net/problem/1966)|프린터 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1966%29%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90)||✔|✔|||||
+|[1966](https://www.acmicpc.net/problem/1966)|프린터 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1966%29%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90)|✔|✔|✔|||||
 |[2164](https://www.acmicpc.net/problem/2164)|카드 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2164%29%20%EC%B9%B4%EB%93%9C%202)|✔|✔|✔|✔||||
 |[22942](https://www.acmicpc.net/problem/22942)|데이터 체커|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/22942%29%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%B4%EC%BB%A4)||||||||
 |[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2346%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0)|✔|✔|✔|||||
