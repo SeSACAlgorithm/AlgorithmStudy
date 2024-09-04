@@ -564,6 +564,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/1021%29%20%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%ED%81%90)||||||||
+|[11003](https://www.acmicpc.net/problem/11003)|최솟값 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/11003%29%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%B0%BE%EA%B8%B0)||||||||
 |[11279](https://www.acmicpc.net/problem/11279)|최대 힙|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/11279%29%20%EC%B5%9C%EB%8C%80%20%ED%9E%99)|✔|✔|✔|✔|||✔|
 |[11286](https://www.acmicpc.net/problem/11286)|절댓값 힙|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/11286%29%20%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99)||✔|✔||||✔|
 |[14425](https://www.acmicpc.net/problem/14425)|문자열 집합|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/14425%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%91%ED%95%A9)|✔|✔|✔|✔||||
