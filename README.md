@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 219 |
+| 🥇 1위 | 석희 | 221 |
 | 🥈 2위 | 경호 | 201 |
 | 🥉 3위 | 윤지 | 165 |
 | 🏅 4위 | 태호 | 139 |
@@ -288,7 +288,7 @@
 |[20210](https://www.acmicpc.net/problem/20210)|파일 탐색기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20210%29%20%ED%8C%8C%EC%9D%BC%20%ED%83%90%EC%83%89%EA%B8%B0)||||||||
 |[20291](https://www.acmicpc.net/problem/20291)|파일정리|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20291%29%20%ED%8C%8C%EC%9D%BC%EC%A0%95%EB%A6%AC)||||||||
 |[20437](https://www.acmicpc.net/problem/20437)|문자열 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20437%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
-|[25501](https://www.acmicpc.net/problem/25501)|재귀의 귀재|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/25501%29%20%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC)||||||||
+|[25501](https://www.acmicpc.net/problem/25501)|재귀의 귀재|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/25501%29%20%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC)||✔||||||
 |[3029](https://www.acmicpc.net/problem/3029)|경고|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/3029%29%20%EA%B2%BD%EA%B3%A0)|✔|||||||
 |[4659](https://www.acmicpc.net/problem/4659)|비밀 번호 발음하기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/4659%29%20%EB%B9%84%EB%B0%80%20%EB%B2%88%ED%98%B8%20%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0)||✔|||||✔|
 |[6550](https://www.acmicpc.net/problem/6550)|부분 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/6550%29%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)||||||||
@@ -389,7 +389,7 @@
 |[2577](https://www.acmicpc.net/problem/2577)|숫자의 개수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2577%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B0%9C%EC%88%98)|✔|✔||||||
 |[2581](https://www.acmicpc.net/problem/2581)|소수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2581%29%20%EC%86%8C%EC%88%98)||✔|✔|✔|✔|||
 |[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2609%29%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)||✔|✔|✔|✔|||
-|[27433](https://www.acmicpc.net/problem/27433)|팩토리얼 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/27433%29%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202)||||||||
+|[27433](https://www.acmicpc.net/problem/27433)|팩토리얼 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/27433%29%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202)||✔||||||
 |[2745](https://www.acmicpc.net/problem/2745)|진법 변환|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2745%29%20%EC%A7%84%EB%B2%95%20%EB%B3%80%ED%99%98)|||✔||✔|||
 |[2960](https://www.acmicpc.net/problem/2960)|에라토스테네스의 체|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/2960%29%20%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)|||✔|✔|✔|||
 |[3052](https://www.acmicpc.net/problem/3052)|나머지|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/3052%29%20%EB%82%98%EB%A8%B8%EC%A7%80)|✔|✔|✔|✔|✔|||
