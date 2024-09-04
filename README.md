@@ -365,6 +365,7 @@
 |[2448](https://www.acmicpc.net/problem/2448)|별 찍기 - 11|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/2448%29%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011)||✔||||||
 |[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/2630%29%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|||✔|||||
 |[4256](https://www.acmicpc.net/problem/4256)|트리|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/4256%29%20%ED%8A%B8%EB%A6%AC)||||||||
+|[4779](https://www.acmicpc.net/problem/4779)|칸토어 집합|[링크](./%EB%B0%B1%EC%A4%80/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5/4779%29%20%EC%B9%B8%ED%86%A0%EC%96%B4%20%EC%A7%91%ED%95%A9)||||||||
 
 </details>
 
