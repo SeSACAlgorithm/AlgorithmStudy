@@ -1,73 +1,107 @@
 #include <iostream>
 #include <queue>
 #include <vector>
+#include <string>
 #include <algorithm>
-#include <tuple>
 
 using namespace std;
 
-char board[1001][1001];
-int dist[1001][1001][2];
-
 int n, m;
 
-int dx[4] = { -1, 1, 0, 0};
-int dy[4] = { 0, 0, -1, 1};
+int dx[4] = { -1, 1, 0, 0 };
+int dy[4] = { 0, 0, -1, 1 };
 
-const int INF = 0x7f7f7f7f;
+string board[1002];
 
-int main(void) {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+/* 
+	앞에 배열[2]에 대한 설명
+	[0] -> 벽을 깨지 않은 상태의 bfs 활용
+	[1] -> 벽을 한 번 깼을 때 상태의 bfs 활용 
+*/
+int dist[2][1002][1002];
 
-    cin >> n >> m;
+struct coord
+{
+	int x, y;
+	int dist;
+};
 
-    for (int i = 0; i < n; ++i)
-        for(int j = 0; j < m; ++j)
-            cin >> board[i][j];
+queue<coord> que;
 
-    queue<tuple<int, int, bool>> Q;
-    Q.push({0, 0, 0});
+void Setting()
+{
+	cin >> n >> m;
+	
+	for (int i = 0; i < n; ++i)
+	{
+		cin >> board[i];
+		fill(dist[0][i], dist[0][i] + m, -1);
+		fill(dist[1][i], dist[1][i] + m, -1);
+	}
 
-    dist[0][0][0] = 1;
+	que.push({ 0, 0, 0 });
+	dist[0][0][0] = 0;
+	board[0][0] = '2';
+}
 
-    while (!Q.empty())
-    {
-        int x, y;
-        bool d;
-        tie(x, y, d) = Q.front(); Q.pop();
+void Answer()
+{
+	if (n == 1 && m == 1)
+	{
+		cout << 1;
+		return;
+	}
 
-        for (int dir = 0; dir < 4; ++dir)
-        {
-            int nx = x + dx[dir];
-            int ny = y + dy[dir];
+	while (!que.empty())
+	{
+		auto cur = que.front();
+		que.pop();
 
-            if(nx >= n || nx < 0 || ny >= m || ny < 0) continue;
+		for (int dir = 0; dir < 4; ++dir)
+		{
+			int nx = dx[dir] + cur.x;
+			int ny = dy[dir] + cur.y;
 
-            if (board[nx][ny] == '1' && !d)
-            {
-                if (dist[nx][ny][1] == 0)
-                {
-                    dist[nx][ny][1] = dist[x][y][0] + 1;
-                    Q.push({ nx, ny, true });
-                }
-            }
+			if(nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
 
-            else if (board[nx][ny] == '0')
-            {
-                if (dist[nx][ny][d] == 0)
-                {
-                    dist[nx][ny][d] = dist[x][y][d] + 1;
-                    Q.push({ nx, ny, d });
-                }
-            }
-        }
-        
-    }
+			if (nx == m - 1 && ny == n - 1)
+			{
+				cout << dist[cur.dist][cur.y][cur.x] + 2;
+				return;
+			}
 
-    int ans = min(dist[n - 1][m - 1][0], dist[n - 1][m - 1][1]);
-    if (ans == 0) ans = max(dist[n - 1][m - 1][0], dist[n - 1][m - 1][1]);
-    if (ans == 0) ans = -1;
+			// 앞에 가로막고 있는 것이 벽이라면?
+			if (board[ny][nx] == '1')
+			{
+				// 현재 queue에서 벽을 뚫은 적이 없다면?
+				// 이미 지나간 흔적이 없다면?
+				if (!cur.dist && dist[1][ny][nx] == -1)
+				{
+					que.push({ nx, ny, 1 });
+					dist[1][ny][nx] = dist[cur.dist][cur.y][cur.x] + 1;
+				}
+			}
 
-    cout << ans << "\n";
+			// 앞에 가로막고 있는 것이 없다면?
+			// 지나간 흔적이 없다면?
+			else if (board[ny][nx] == '0' && dist[cur.dist][ny][nx] == -1)
+			{
+				dist[cur.dist][ny][nx] = dist[cur.dist][cur.y][cur.x] + 1;
+				que.push({ nx, ny, cur.dist });
+			}
+
+		}
+	}
+
+	cout << -1;
+}
+
+int main(void)
+{
+	ios::sync_with_stdio(0); cin.tie(0);
+	
+	Setting();
+	Answer();
+
+	return 0;
 }
