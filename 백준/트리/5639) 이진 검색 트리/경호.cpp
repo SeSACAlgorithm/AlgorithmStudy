@@ -28,11 +28,13 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
+    // 루트 노드 생성
     int root_val;
     cin >> root_val;
     node* root = new node();
     root->value = root_val;
 
+    // 전위 순회 결과를 이용하여 이진 검색 트리 구성
     int value;
     node* cur = root;
     while (cin >> value)
@@ -40,20 +42,19 @@ int main()
         // 새 노드 생성
         node* new_node = new node();
         new_node->value = value;
-        // 전위 순회 결과를 이용하여 이진 검색 트리 구성
         // 루트부터 내려가며 현재 노드의 값보다 작다면 왼쪽, 크다면 오른쪽으로 이동
         // 이동할 방향이 nullptr이라면 해당 방향에 할당
         while(nullptr != cur)
         {
-	        if(cur->value > value)
-	        {
+	    if(cur->value > value)
+	    {
                 if (nullptr == cur->left)
                 {
                     cur->left = new_node;
                     break;
                 }
                 cur = cur->left;
-	        }
+	    }
             else
             {
                 if (nullptr == cur->right)
