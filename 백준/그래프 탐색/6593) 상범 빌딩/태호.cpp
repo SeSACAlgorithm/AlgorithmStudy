@@ -1,99 +1,97 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <queue>
+#include <vector>
+#include <string>
 
 using namespace std;
 
-char board[32][32][32];
+int n, m, l;
+
+int dx[6] = { -1, 1, 0, 0, 0, 0 };
+int dy[6] = { 0, 0, -1, 1, 0, 0 };
+int dz[6] = { 0, 0, 0, 0, -1, 1 };
+
+string board[32][32];
 int dist[32][32][32];
+struct coord { int x, y, z; };
 
-int dx[6] = { 1, -1, 0, 0, 0, 0 };
-int dy[6] = { 0, 0, 1, -1, 0, 0 };
-int dz[6] = { 0, 0, 0, 0, 1, -1 };
+queue<coord> que;
 
-
-int main()
+void Setting()
 {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+	for (int k = 0; k < l; ++k)
+	{
+		for (int i = 0; i < n; ++i)
+		{
+			cin >> board[k][i];
+			fill(dist[k][i], dist[k][i] + m, -1);
 
-    vector<string> vec;
+			for (int j = 0; j < m; ++j)
+			{
+				if (board[k][i][j] == 'S')
+				{
+					dist[k][i][j] = 0;
+					que.push({j , i, k});
+				}
+			}
+			
+		}
+	}
 
-    while (true)
-    {
+}
 
-        int x, y, z; cin >> z >> x >> y;
+void Answer()
+{
+	while (!que.empty())
+	{
+		auto cur = que.front();
+		que.pop();
 
-        if (x == 0 && y == 0 && z == 0)
-            break;
-            
+		for (int dir = 0; dir < 6; ++dir)
+		{
+			int nx = dx[dir] + cur.x;
+			int ny = dy[dir] + cur.y;
+			int nz = dz[dir] + cur.z;
 
-        queue<tuple<int, int, int>> Q;
-        int endX = 0, endY = 0, endZ = 0;
+			if(nx < 0 || ny < 0 || nz < 0) continue;
+			if(nx >= m || ny >= n || nz >= l) continue;
+			if (board[nz][ny][nx] == 'E')
+			{
+				cout << "Escaped in " << dist[cur.z][cur.y][cur.x] + 1 << " minute(s).\n";
+				return;
+			}
+			
+			if(board[nz][ny][nx] == '#' || dist[nz][ny][nx] != -1) continue;
 
+			dist[nz][ny][nx] = dist[cur.z][cur.y][cur.x] + 1;
+			que.push({nx, ny, nz});
+		}
+	}
 
-        for (int h = 0; h < z; ++h)
-        {
-            for (int n = 0; n < x; ++n)
-            {
-                for (int m = 0; m < y; ++m)
-                {
-                    cin >> board[n][m][h];
+	cout << "Trapped!\n";
+}
 
-                    if (board[n][m][h] == 'S')
-                    {
-                        dist[n][m][h] = 0;
-                        Q.push({ n, m, h });
-                    }
-                    else if (board[n][m][h] == 'E')
-                    {
-                        endX = n;
-                        endY = m;
-                        endZ = h;
-                        dist[n][m][h] = -1;
-                    }
-                    else if(board[n][m][h] == '#')
-                        dist[n][m][h] = 0;
-                    else
-                        dist[n][m][h] = -1;
-                }
-            }
-        }
+void Clear()
+{
+	while (!que.empty())
+		que.pop();
+}
 
-        while (!Q.empty() && dist[endX][endY][endZ] == -1)
-        {
-            auto cur = Q.front(); Q.pop();
-            int CurX, CurY, CurZ;
-            tie(CurX, CurY, CurZ) = cur;
+int main(void)
+{
+	ios::sync_with_stdio(0); cin.tie(0);
+	
+	while (true)
+	{
+		cin >> l >> n >> m;
 
+		if(!l && !n && !m)
+			break;
 
-            for (int dir = 0; dir < 6; ++dir)
-            {
-                int nx = dx[dir] + CurX;
-                int ny = dy[dir] + CurY;
-                int nz = dz[dir] + CurZ;
+		Setting();
+		Answer();
+		Clear();
+	}
 
-                if(nx < 0 || nx >= x || ny < 0 || ny >= y || nz < 0 || nz >= z) continue;
-                if(board[nx][ny][nz] == '#' || dist[nx][ny][nz] >= 0) continue;
-                dist[nx][ny][nz] = dist[CurX][CurY][CurZ] + 1;
-                Q.push({nx, ny, nz});
-            }
-        }
-        //Escaped in 11 minute(s).
-        //Escaped in 11 minute(s).
-        if (dist[endX][endY][endZ] != -1)
-        {
-            string str = "Escaped in " + to_string(dist[endX][endY][endZ]) + " minute(s).";
-            vec.push_back(str);
-        }
-        else
-            vec.push_back("Trapped!");
-
-    }
-
-
-    for (int i = 0; i < vec.size(); ++i)
-        cout << vec[i] << '\n';
-   
-
-
-    return 0;
+	return 0;
 }
