@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// 소수 판별 함수(에라토스테네스의 체)
+// 소수 판별 함수
 bool is_prime(const int num)
 {
     const int limit = static_cast<int>(sqrt(num));
