@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 227 |
 | 🥈 2위 | 경호 | 208 |
 | 🥉 3위 | 윤지 | 171 |
-| 🏅 4위 | 태호 | 146 |
+| 🏅 4위 | 태호 | 147 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 85 |
 | 🎗 7위 | 재원 | 47 |
@@ -414,7 +414,7 @@
 |[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14889%29%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC)||✔||||||
 |[14890](https://www.acmicpc.net/problem/14890)|경사로|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14890%29%20%EA%B2%BD%EC%82%AC%EB%A1%9C)||||||||
 |[14891](https://www.acmicpc.net/problem/14891)|톱니바퀴|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14891%29%20%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)||✔||||||
-|[15683](https://www.acmicpc.net/problem/15683)|감시|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15683%29%20%EA%B0%90%EC%8B%9C)||||||||
+|[15683](https://www.acmicpc.net/problem/15683)|감시|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15683%29%20%EA%B0%90%EC%8B%9C)|||||||✔|
 |[15684](https://www.acmicpc.net/problem/15684)|사다리 조작|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15684%29%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EC%A1%B0%EC%9E%91)||||||||
 |[15685](https://www.acmicpc.net/problem/15685)|드래곤 커브|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/15685%29%20%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C)||||||||
 |[16235](https://www.acmicpc.net/problem/16235)|나무 재테크|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16235%29%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC)||||||||
