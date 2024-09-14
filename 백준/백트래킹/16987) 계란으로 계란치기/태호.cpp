@@ -20,7 +20,7 @@ void Answer()
     result = max(result, k);
 }
 
-void Solve(int cur, int index)
+void Solve(int cur)
 {
     if (cur == n)
     {
@@ -30,7 +30,7 @@ void Solve(int cur, int index)
 
     if (board[cur].first <= 0)
     {
-        Solve(cur + 1, index);
+        Solve(cur + 1);
         return;
     }
 
@@ -45,7 +45,7 @@ void Solve(int cur, int index)
         board[i].first -= board[cur].second;
         board[cur].first -= board[i].second;
         
-        Solve(cur + 1, i);
+        Solve(cur + 1);
 
         board[i].first += board[cur].second;
         board[cur].first += board[i].second;
@@ -67,7 +67,7 @@ int main() {
         cin >> board[i].second;
     }
 
-    Solve(0, 0);
+    Solve(0);
 
     cout << result;
 
