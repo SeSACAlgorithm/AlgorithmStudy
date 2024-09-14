@@ -17,7 +17,7 @@
 | 🏅 4위 | 태호 | 146 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 85 |
-| 🎗 7위 | 재원 | 44 |
+| 🎗 7위 | 재원 | 45 |
 
 # 📚 SWEA
 
@@ -768,7 +768,7 @@
 |[12977](https://programmers.co.kr/learn/courses/30/lessons/12977)|소수 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12977%29%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|✔|✔|✔|✔|
 |[12982](https://programmers.co.kr/learn/courses/30/lessons/12982)|예산|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/12982%29%20%EC%98%88%EC%82%B0)|✔|✔|✔|✔||✔|✔|
 |[17681](https://programmers.co.kr/learn/courses/30/lessons/17681)|[1차] 비밀지도|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/17681%29%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)|✔|✔|✔|✔||✔|✔|
-|[17682](https://programmers.co.kr/learn/courses/30/lessons/17682)|[1차]  다트 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/17682%29%20%5B1%EC%B0%A8%5D%20%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)|✔|✔|✔|✔|||✔|
+|[17682](https://programmers.co.kr/learn/courses/30/lessons/17682)|[1차]  다트 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/17682%29%20%5B1%EC%B0%A8%5D%20%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)|✔|✔|✔|✔||✔|✔|
 |[1845](https://programmers.co.kr/learn/courses/30/lessons/1845)|폰켓몬|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/1845%29%20%ED%8F%B0%EC%BC%93%EB%AA%AC)|✔|✔|✔|✔|✔|✔|✔|
 |[42576](https://programmers.co.kr/learn/courses/30/lessons/42576)|완주하지 못한 선수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/42576%29%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)|✔|✔|✔|✔|✔|✔|✔|
 |[42748](https://programmers.co.kr/learn/courses/30/lessons/42748)|K번째 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%201%20%281%29/42748%29%20K%EB%B2%88%EC%A7%B8%20%EC%88%98)|✔|✔|✔|✔|✔|✔|✔|
