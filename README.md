@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 227 |
 | 🥈 2위 | 경호 | 208 |
 | 🥉 3위 | 윤지 | 171 |
-| 🏅 4위 | 태호 | 152 |
+| 🏅 4위 | 태호 | 153 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 85 |
 | 🎗 7위 | 재원 | 47 |
@@ -410,7 +410,7 @@
 |[13335](https://www.acmicpc.net/problem/13335)|트럭|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13335%29%20%ED%8A%B8%EB%9F%AD)||||||||
 |[13460](https://www.acmicpc.net/problem/13460)|구슬 탈출 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13460%29%20%EA%B5%AC%EC%8A%AC%20%ED%83%88%EC%B6%9C%202)||✔||||||
 |[14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14499%29%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0)|||||||✔|
-|[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)||||||||
+|[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)|||||||✔|
 |[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14889%29%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC)||✔||||||
 |[14890](https://www.acmicpc.net/problem/14890)|경사로|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14890%29%20%EA%B2%BD%EC%82%AC%EB%A1%9C)||||||||
 |[14891](https://www.acmicpc.net/problem/14891)|톱니바퀴|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14891%29%20%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)||✔|||||✔|
