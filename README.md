@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 228 |
 | 🥈 2위 | 경호 | 210 |
 | 🥉 3위 | 윤지 | 172 |
-| 🏅 4위 | 태호 | 164 |
+| 🏅 4위 | 태호 | 165 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 49 |
@@ -424,7 +424,7 @@
 |[17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17135%29%20%EC%BA%90%EC%8A%AC%20%EB%94%94%ED%8E%9C%EC%8A%A4)||✔||||||
 |[17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17140%29%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EC%82%B0)|||||||✔|
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17143%29%20%EB%82%9A%EC%8B%9C%EC%99%95)|||||||✔|
-|[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17144%29%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95%21)||||||||
+|[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17144%29%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95%21)|||||||✔|
 |[17779](https://www.acmicpc.net/problem/17779)|게리맨더링 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17779%29%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%202)||||||||
 |[17822](https://www.acmicpc.net/problem/17822)|원판 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17822%29%20%EC%9B%90%ED%8C%90%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)||||||||
 |[178337](https://www.acmicpc.net/problem/178337)|새로운 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/178337%29%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
