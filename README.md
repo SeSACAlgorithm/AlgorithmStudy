@@ -14,10 +14,10 @@
 | 🥇 1위 | 석희 | 228 |
 | 🥈 2위 | 경호 | 210 |
 | 🥉 3위 | 윤지 | 172 |
-| 🏅 4위 | 태호 | 165 |
+| 🏅 4위 | 태호 | 166 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
-| 🎗 7위 | 재원 | 50 |
+| 🎗 7위 | 재원 | 51 |
 
 # 📚 SWEA
 
@@ -438,7 +438,7 @@
 |[20061](https://www.acmicpc.net/problem/20061)|모노미노도미노 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20061%29%20%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%202)||||||||
 |[20165](https://www.acmicpc.net/problem/20165)|인내의 도미노 장인 호석|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20165%29%20%EC%9D%B8%EB%82%B4%EC%9D%98%20%EB%8F%84%EB%AF%B8%EB%85%B8%20%EC%9E%A5%EC%9D%B8%20%ED%98%B8%EC%84%9D)||||||||
 |[21609](https://www.acmicpc.net/problem/21609)|상어 중학교|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21609%29%20%EC%83%81%EC%96%B4%20%EC%A4%91%ED%95%99%EA%B5%90)||||||||
-|[21610](https://www.acmicpc.net/problem/21610)|마법사 상어와 비바라기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21610%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0)||||||||
+|[21610](https://www.acmicpc.net/problem/21610)|마법사 상어와 비바라기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21610%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0)|||||||✔|
 |[21922](https://www.acmicpc.net/problem/21922)|학부 연구생 민상|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21922%29%20%ED%95%99%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%83%9D%20%EB%AF%BC%EC%83%81)||||||||
 |[22861](https://www.acmicpc.net/problem/22861)|폴더 정리 (large)|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/22861%29%20%ED%8F%B4%EB%8D%94%20%EC%A0%95%EB%A6%AC%20%28large%29)||||||||
 |[3190](https://www.acmicpc.net/problem/3190)|뱀|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/3190%29%20%EB%B1%80)||✔|||||✔|
@@ -836,7 +836,7 @@
 |[12985](https://programmers.co.kr/learn/courses/30/lessons/12985)|예상 대진표|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12985%29%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)|||✔||||✔|
 |[17677](https://programmers.co.kr/learn/courses/30/lessons/17677)|[1차] 뉴스 클러스터링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/17677%29%20%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)|||||||✔|
 |[1844](https://programmers.co.kr/learn/courses/30/lessons/1844)|게임 맵 최단거리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/1844%29%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)|✔|✔|✔||||✔|
-|[42577](https://programmers.co.kr/learn/courses/30/lessons/42577)|전화번호 목록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42577%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)||✔|✔||||✔|
+|[42577](https://programmers.co.kr/learn/courses/30/lessons/42577)|전화번호 목록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42577%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)||✔|✔|||✔|✔|
 |[42578](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42578%29%20%EC%9C%84%EC%9E%A5)||✔|✔|||||
 |[42583](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42583%29%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)||✔||||||
 |[42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|기능개발|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42586%29%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)||✔|✔||||✔|
