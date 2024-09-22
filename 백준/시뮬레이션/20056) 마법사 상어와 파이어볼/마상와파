@@ -1,0 +1,203 @@
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <algorithm>
+
+
+using namespace std;
+
+enum EDirection
+{
+    EUp,
+    ERightUp,
+    ERight,
+    ERightDown,
+    EDown,
+    ELeftDown,
+    ELeft,
+    ELeftUp, 
+};
+
+struct FStat
+{
+    int mass, direction, speed;
+};
+
+
+int n, m, k, result = 0;
+vector<FStat> board[51][51];
+pair<int, int> fireballPos;
+bool sub[51][51];
+
+
+void Diffusion(int x, int y, int mass, int speed, bool cond)
+{
+    for (int dir = cond; dir < 8; dir += 2)
+    {
+        board[x][y].push_back({mass, dir, speed});
+    }
+}
+
+void Up(int index) 
+{ 
+    --fireballPos.first; 
+    
+    if(fireballPos.first == -1) 
+        fireballPos.first = n - 1; 
+}
+
+void Down(int index) 
+{ 
+    ++fireballPos.first; 
+
+    if(fireballPos.first == n) 
+        fireballPos.first = 0; 
+}
+void Left(int index) 
+{
+
+    --fireballPos.second; 
+    
+    if(fireballPos.second == -1) 
+        fireballPos.second = n - 1; 
+}
+
+void Right(int index) 
+{ 
+    ++fireballPos.second; 
+    
+    if(fireballPos.second == n) 
+        fireballPos.second = 0;
+}
+
+
+void Move()
+{
+    vector<pair<pair<int, int>, FStat>> vec;
+
+    for (int i = 0; i < n; ++i)
+    {
+        for (int j = 0; j < n; ++j)
+        {
+            int k = board[i][j].size();
+
+            while(k--)
+            {
+                fireballPos = {i, j};
+                FStat stat = board[i][j][k];
+
+                for (int j = 0; j < stat.speed % n; ++j)
+                {
+                    if (stat.direction == ELeft)
+                    {
+                        Left(i);
+                    }
+                    else if (stat.direction == ELeftUp)
+                    {
+                        Left(i);
+                        Up(i);
+                    }
+                    else if (stat.direction == EUp)
+                    {
+                        Up(i);
+                    }
+                    else if (stat.direction == ERightUp)
+                    {
+                        Right(i);
+                        Up(i);
+                    }
+                    else if (stat.direction == ERight)
+                    {
+                        Right(i);
+                    }
+                    else if (stat.direction == ERightDown)
+                    {
+                        Right(i);
+                        Down(i);
+                    }
+                    else if (stat.direction == EDown)
+                    {
+                        Down(i);
+                    }
+                    else if (stat.direction == ELeftDown)
+                    {
+                        Left(i);
+                        Down(i);
+                    }
+                }
+
+                vec.push_back({ fireballPos, stat});
+                board[i][j].pop_back();
+            }
+        }
+    }
+
+    for (int i = 0; i < vec.size(); ++i)
+        board[vec[i].first.first][vec[i].first.second].push_back(vec[i].second);
+
+}
+
+int main(void)
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+
+    cin >> n >> m >> k;
+
+    for (int i = 0; i < m; ++i)
+    {
+        int r, c, m, d, s;
+        cin >> r >> c >> m >> s >> d;
+        --r; --c;
+        board[r][c].push_back({m, d, s});
+    }
+
+    while (k--)
+    {
+        Move();
+        
+        for (int i = 0; i < n; ++i)
+        {
+            for (int j = 0; j < n; ++j)
+            {
+                if (board[i][j].size() >= 2)
+                {
+                    int mass = board[i][j][0].mass;
+                    int speed = board[i][j][0].speed;
+                    int dir = board[i][j][0].direction % 2;
+
+                    bool cond = false;
+
+                    for (int k = 1; k < board[i][j].size(); ++k)
+                    {
+                        mass += board[i][j][k].mass;
+                        speed += board[i][j][k].speed;
+
+                        if (dir != board[i][j][k].direction % 2)
+                            cond = true;
+                    }
+
+                    mass /= 5;
+                    speed /= (int)board[i][j].size();
+
+                    board[i][j].clear();
+
+                    if (mass != 0)
+                        Diffusion(i, j, mass, speed, cond);
+
+                }
+
+            }
+        }
+
+    }
+
+    for (int i = 0; i < n; ++i)
+        for (int j = 0; j < n; ++j)
+            for(int k = 0; k < board[i][j].size(); ++k)
+                result += board[i][j][k].mass;
+
+    cout << result;
+
+    return 0;
+}
