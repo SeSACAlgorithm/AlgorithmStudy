@@ -12,7 +12,7 @@
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 228 |
-| 🥈 2위 | 경호 | 210 |
+| 🥈 2위 | 경호 | 211 |
 | 🥉 3위 | 윤지 | 172 |
 | 🏅 4위 | 태호 | 167 |
 | 🎖️ 5위 | 정완 | 117 |
@@ -933,7 +933,7 @@
 |[60059](https://programmers.co.kr/learn/courses/30/lessons/60059)|자물쇠와 열쇠|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/60059%29%20%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0)|||✔|||||
 |[64064](https://programmers.co.kr/learn/courses/30/lessons/64064)|불량 사용자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/64064%29%20%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90)|||✔||||✔|
 |[67258](https://programmers.co.kr/learn/courses/30/lessons/67258)|보석 쇼핑|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/67258%29%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91)|||✔|||||
-|[67259](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/67259%29%20%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4)||||||||
+|[67259](https://programmers.co.kr/learn/courses/30/lessons/67259)|경주로 건설|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/67259%29%20%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4)|||✔|||||
 |[72413](https://programmers.co.kr/learn/courses/30/lessons/72413)|합승 택시 요금|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/72413%29%20%ED%95%A9%EC%8A%B9%20%ED%83%9D%EC%8B%9C%20%EC%9A%94%EA%B8%88)||||||||
 |[76503](https://programmers.co.kr/learn/courses/30/lessons/76503)|모두 0으로 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/76503%29%20%EB%AA%A8%EB%91%90%200%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|||✔|||||
 |[77486](https://programmers.co.kr/learn/courses/30/lessons/77486)|다단계 칫솔 판매|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/77486%29%20%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4)|||✔|||||
