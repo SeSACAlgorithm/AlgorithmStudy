@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 231 |
+| 🥇 1위 | 석희 | 232 |
 | 🥈 2위 | 경호 | 213 |
 | 🥉 3위 | 윤지 | 175 |
 | 🏅 4위 | 태호 | 172 |
@@ -286,7 +286,7 @@
 |[1764](https://www.acmicpc.net/problem/1764)|듣보잡|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1764%29%20%EB%93%A3%EB%B3%B4%EC%9E%A1)||||||||
 |[20154](https://www.acmicpc.net/problem/20154)|이 구역의 승자는 누구야|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20154%29%20%EC%9D%B4%20%EA%B5%AC%EC%97%AD%EC%9D%98%20%EC%8A%B9%EC%9E%90%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%95%BC)|✔|||||||
 |[20210](https://www.acmicpc.net/problem/20210)|파일 탐색기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20210%29%20%ED%8C%8C%EC%9D%BC%20%ED%83%90%EC%83%89%EA%B8%B0)||||||||
-|[20291](https://www.acmicpc.net/problem/20291)|파일정리|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20291%29%20%ED%8C%8C%EC%9D%BC%EC%A0%95%EB%A6%AC)||||||||
+|[20291](https://www.acmicpc.net/problem/20291)|파일정리|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20291%29%20%ED%8C%8C%EC%9D%BC%EC%A0%95%EB%A6%AC)||✔||||||
 |[20437](https://www.acmicpc.net/problem/20437)|문자열 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20437%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
 |[25501](https://www.acmicpc.net/problem/25501)|재귀의 귀재|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/25501%29%20%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC)|✔|✔||||||
 |[3029](https://www.acmicpc.net/problem/3029)|경고|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/3029%29%20%EA%B2%BD%EA%B3%A0)|✔|✔||||||
