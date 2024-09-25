@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 231 |
 | 🥈 2위 | 경호 | 213 |
 | 🥉 3위 | 윤지 | 174 |
-| 🏅 4위 | 태호 | 171 |
+| 🏅 4위 | 태호 | 172 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 56 |
@@ -426,7 +426,7 @@
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17143%29%20%EB%82%9A%EC%8B%9C%EC%99%95)|||||||✔|
 |[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17144%29%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95%21)|||||||✔|
 |[17779](https://www.acmicpc.net/problem/17779)|게리맨더링 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17779%29%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%202)|||||||✔|
-|[17822](https://www.acmicpc.net/problem/17822)|원판 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17822%29%20%EC%9B%90%ED%8C%90%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)||||||||
+|[17822](https://www.acmicpc.net/problem/17822)|원판 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17822%29%20%EC%9B%90%ED%8C%90%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)|||||||✔|
 |[178337](https://www.acmicpc.net/problem/178337)|새로운 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/178337%29%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
 |[19236](https://www.acmicpc.net/problem/19236)|청소년 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19236%29%20%EC%B2%AD%EC%86%8C%EB%85%84%20%EC%83%81%EC%96%B4)||||||||
 |[19237](https://www.acmicpc.net/problem/19237)|어른 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19237%29%20%EC%96%B4%EB%A5%B8%20%EC%83%81%EC%96%B4)||||||||
