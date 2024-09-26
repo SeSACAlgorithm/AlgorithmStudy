@@ -12,12 +12,12 @@
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 232 |
-| 🥈 2위 | 경호 | 213 |
+| 🥈 2위 | 경호 | 215 |
 | 🥉 3위 | 윤지 | 175 |
-| 🏅 4위 | 태호 | 172 |
+| 🏅 4위 | 태호 | 173 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
-| 🎗 7위 | 재원 | 57 |
+| 🎗 7위 | 재원 | 58 |
 
 # 📚 SWEA
 
@@ -427,7 +427,7 @@
 |[17779](https://www.acmicpc.net/problem/17779)|게리맨더링 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17779%29%20%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%202)|||||||✔|
 |[17822](https://www.acmicpc.net/problem/17822)|원판 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17822%29%20%EC%9B%90%ED%8C%90%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)|||||||✔|
 |[178337](https://www.acmicpc.net/problem/178337)|새로운 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/178337%29%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
-|[19236](https://www.acmicpc.net/problem/19236)|청소년 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19236%29%20%EC%B2%AD%EC%86%8C%EB%85%84%20%EC%83%81%EC%96%B4)||||||||
+|[19236](https://www.acmicpc.net/problem/19236)|청소년 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19236%29%20%EC%B2%AD%EC%86%8C%EB%85%84%20%EC%83%81%EC%96%B4)|||||||✔|
 |[19237](https://www.acmicpc.net/problem/19237)|어른 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19237%29%20%EC%96%B4%EB%A5%B8%20%EC%83%81%EC%96%B4)||||||||
 |[19238](https://www.acmicpc.net/problem/19238)|스타트 택시|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19238%29%20%EC%8A%A4%ED%83%80%ED%8A%B8%20%ED%83%9D%EC%8B%9C)|||||||✔|
 |[20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20055%29%20%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%20%EB%B2%A8%ED%8A%B8%20%EC%9C%84%EC%9D%98%20%EB%A1%9C%EB%B4%87)||||||||
@@ -829,7 +829,7 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[12899](https://programmers.co.kr/learn/courses/30/lessons/12899)|124 나라의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12899%29%20124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)||✔|✔|✔|||✔|
+|[12899](https://programmers.co.kr/learn/courses/30/lessons/12899)|124 나라의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12899%29%20124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)||✔|✔|✔||✔|✔|
 |[12973](https://programmers.co.kr/learn/courses/30/lessons/12973)|짝지어 제거하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12973%29%20%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)||✔|✔|||✔|✔|
 |[12978](https://programmers.co.kr/learn/courses/30/lessons/12978)|배달|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12978%29%20%EB%B0%B0%EB%8B%AC)||✔|✔||||✔|
 |[12985](https://programmers.co.kr/learn/courses/30/lessons/12985)|예상 대진표|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12985%29%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)|||✔||||✔|
@@ -947,13 +947,13 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[12904](https://programmers.co.kr/learn/courses/30/lessons/12904)|가장 긴 팰린드롬|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12904%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)|||✔|||||
-|[12907](https://programmers.co.kr/learn/courses/30/lessons/12907)|거스름돈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12907%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)||||||||
+|[12907](https://programmers.co.kr/learn/courses/30/lessons/12907)|거스름돈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12907%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)|||✔|||||
 |[12914](https://programmers.co.kr/learn/courses/30/lessons/12914)|멀리 뛰기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12914%29%20%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0)|||✔||||✔|
 |[12927](https://programmers.co.kr/learn/courses/30/lessons/12927)|야근 지수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12927%29%20%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98)|||✔||||✔|
 |[12936](https://programmers.co.kr/learn/courses/30/lessons/12936)|줄 서는 방법|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12936%29%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95)|||✔||||✔|
 |[12938](https://programmers.co.kr/learn/courses/30/lessons/12938)|최고의 집합|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12938%29%20%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9)|||✔|✔|||✔|
 |[12946](https://programmers.co.kr/learn/courses/30/lessons/12946)|하노이의 탑|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12946%29%20%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91)|||✔||||✔|
-|[12952](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12952%29%20N-Queen)||||||||
+|[12952](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12952%29%20N-Queen)|||✔|||||
 |[12971](https://programmers.co.kr/learn/courses/30/lessons/12971)|스티커 모으기(2)|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12971%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%AA%A8%EC%9C%BC%EA%B8%B0%282%29)|||✔|||||
 |[12979](https://programmers.co.kr/learn/courses/30/lessons/12979)|기지국 설치|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12979%29%20%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98)|||✔|||||
 |[12987](https://programmers.co.kr/learn/courses/30/lessons/12987)|숫자 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12987%29%20%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84)|||✔||||✔|
