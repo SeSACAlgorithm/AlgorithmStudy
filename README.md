@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 233 |
 | 🥈 2위 | 경호 | 216 |
 | 🥉 3위 | 윤지 | 176 |
-| 🏅 4위 | 태호 | 174 |
+| 🏅 4위 | 태호 | 175 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 60 |
@@ -428,7 +428,7 @@
 |[17822](https://www.acmicpc.net/problem/17822)|원판 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17822%29%20%EC%9B%90%ED%8C%90%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)|||||||✔|
 |[178337](https://www.acmicpc.net/problem/178337)|새로운 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/178337%29%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
 |[19236](https://www.acmicpc.net/problem/19236)|청소년 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19236%29%20%EC%B2%AD%EC%86%8C%EB%85%84%20%EC%83%81%EC%96%B4)|||||||✔|
-|[19237](https://www.acmicpc.net/problem/19237)|어른 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19237%29%20%EC%96%B4%EB%A5%B8%20%EC%83%81%EC%96%B4)||||||||
+|[19237](https://www.acmicpc.net/problem/19237)|어른 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19237%29%20%EC%96%B4%EB%A5%B8%20%EC%83%81%EC%96%B4)|||||||✔|
 |[19238](https://www.acmicpc.net/problem/19238)|스타트 택시|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/19238%29%20%EC%8A%A4%ED%83%80%ED%8A%B8%20%ED%83%9D%EC%8B%9C)|||||||✔|
 |[20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20055%29%20%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%20%EB%B2%A8%ED%8A%B8%20%EC%9C%84%EC%9D%98%20%EB%A1%9C%EB%B4%87)||||||||
 |[20056](https://www.acmicpc.net/problem/20056)|마법사 상어와 파이어볼|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20056%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC)||||||||
