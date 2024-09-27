@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 233 |
 | 🥈 2위 | 경호 | 216 |
 | 🥉 3위 | 윤지 | 176 |
-| 🏅 4위 | 태호 | 175 |
+| 🏅 4위 | 태호 | 176 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 61 |
@@ -434,7 +434,7 @@
 |[20056](https://www.acmicpc.net/problem/20056)|마법사 상어와 파이어볼|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20056%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC)||||||||
 |[20057](https://www.acmicpc.net/problem/20057)|마법사 상어와 토네이도|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20057%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84)|||||||✔|
 |[20058](https://www.acmicpc.net/problem/20058)|마법사 상어와 파이어스톰|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20058%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%8A%A4%ED%86%B0)|||||||✔|
-|[20061](https://www.acmicpc.net/problem/20061)|모노미노도미노 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20061%29%20%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%202)||||||||
+|[20061](https://www.acmicpc.net/problem/20061)|모노미노도미노 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20061%29%20%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%202)|||||||✔|
 |[20165](https://www.acmicpc.net/problem/20165)|인내의 도미노 장인 호석|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/20165%29%20%EC%9D%B8%EB%82%B4%EC%9D%98%20%EB%8F%84%EB%AF%B8%EB%85%B8%20%EC%9E%A5%EC%9D%B8%20%ED%98%B8%EC%84%9D)||||||||
 |[21609](https://www.acmicpc.net/problem/21609)|상어 중학교|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21609%29%20%EC%83%81%EC%96%B4%20%EC%A4%91%ED%95%99%EA%B5%90)||||||||
 |[21610](https://www.acmicpc.net/problem/21610)|마법사 상어와 비바라기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21610%29%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0)|||||||✔|
