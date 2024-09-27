@@ -12,7 +12,7 @@
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 233 |
-| 🥈 2위 | 경호 | 215 |
+| 🥈 2위 | 경호 | 216 |
 | 🥉 3위 | 윤지 | 176 |
 | 🏅 4위 | 태호 | 173 |
 | 🎖️ 5위 | 정완 | 117 |
@@ -965,7 +965,7 @@
 |[60063](https://programmers.co.kr/learn/courses/30/lessons/60063)|블록 이동하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60063%29%20%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||||||||
 |[64062](https://programmers.co.kr/learn/courses/30/lessons/64062)|징검다리 건너기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/64062%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)|||✔|||||
 |[68646](https://programmers.co.kr/learn/courses/30/lessons/68646)|풍선 터트리기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/68646%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0)|||✔|||||
-|[70130](https://programmers.co.kr/learn/courses/30/lessons/70130)|스타 수열|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/70130%29%20%EC%8A%A4%ED%83%80%20%EC%88%98%EC%97%B4)||||||||
+|[70130](https://programmers.co.kr/learn/courses/30/lessons/70130)|스타 수열|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/70130%29%20%EC%8A%A4%ED%83%80%20%EC%88%98%EC%97%B4)|||✔|||||
 |[72414](https://programmers.co.kr/learn/courses/30/lessons/72414)|광고 삽입|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/72414%29%20%EA%B4%91%EA%B3%A0%20%EC%82%BD%EC%9E%85)||||||||
 |[72415](https://programmers.co.kr/learn/courses/30/lessons/72415)|카드 짝 맞추기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/72415%29%20%EC%B9%B4%EB%93%9C%20%EC%A7%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0)||||||||
 
