@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 234 |
 | 🥈 2위 | 경호 | 216 |
-| 🥉 3위 | 태호 | 177 |
+| 🥉 3위 | 태호 | 178 |
 | 🏅 4위 | 윤지 | 176 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
@@ -419,7 +419,7 @@
 |[16235](https://www.acmicpc.net/problem/16235)|나무 재테크|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16235%29%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC)|||||||✔|
 |[16236](https://www.acmicpc.net/problem/16236)|아기 상어|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16236%29%20%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4)||✔|||||✔|
 |[16985](https://www.acmicpc.net/problem/16985)|Maaaaaaaaaze|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/16985%29%20Maaaaaaaaaze)|||||||✔|
-|[1713](https://www.acmicpc.net/problem/1713)|후보 추천하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/1713%29%20%ED%9B%84%EB%B3%B4%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0)||||||||
+|[1713](https://www.acmicpc.net/problem/1713)|후보 추천하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/1713%29%20%ED%9B%84%EB%B3%B4%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0)|||||||✔|
 |[17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17135%29%20%EC%BA%90%EC%8A%AC%20%EB%94%94%ED%8E%9C%EC%8A%A4)||✔|||||✔|
 |[17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17140%29%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EC%82%B0)|||||||✔|
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/17143%29%20%EB%82%9A%EC%8B%9C%EC%99%95)|||||||✔|
