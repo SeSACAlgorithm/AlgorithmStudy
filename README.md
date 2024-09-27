@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 233 |
 | 🥈 2위 | 경호 | 216 |
 | 🥉 3위 | 윤지 | 176 |
-| 🏅 4위 | 태호 | 173 |
+| 🏅 4위 | 태호 | 174 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 59 |
@@ -441,7 +441,7 @@
 |[21922](https://www.acmicpc.net/problem/21922)|학부 연구생 민상|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/21922%29%20%ED%95%99%EB%B6%80%20%EC%97%B0%EA%B5%AC%EC%83%9D%20%EB%AF%BC%EC%83%81)||||||||
 |[22861](https://www.acmicpc.net/problem/22861)|폴더 정리 (large)|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/22861%29%20%ED%8F%B4%EB%8D%94%20%EC%A0%95%EB%A6%AC%20%28large%29)||||||||
 |[3190](https://www.acmicpc.net/problem/3190)|뱀|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/3190%29%20%EB%B1%80)||✔|||||✔|
-|[5212](https://www.acmicpc.net/problem/5212)|지구 온난화|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/5212%29%20%EC%A7%80%EA%B5%AC%20%EC%98%A8%EB%82%9C%ED%99%94)||||||||
+|[5212](https://www.acmicpc.net/problem/5212)|지구 온난화|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/5212%29%20%EC%A7%80%EA%B5%AC%20%EC%98%A8%EB%82%9C%ED%99%94)|||||||✔|
 
 </details>
 
