@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 240 |
+| 🥇 1위 | 석희 | 241 |
 | 🥈 2위 | 경호 | 227 |
 | 🥉 3위 | 태호 | 190 |
 | 🏅 4위 | 윤지 | 185 |
@@ -408,7 +408,7 @@
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[11559](https://www.acmicpc.net/problem/11559)|Puyo Puyo|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/11559%29%20Puyo%20Puyo)|||||||✔|
-|[13335](https://www.acmicpc.net/problem/13335)|트럭|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13335%29%20%ED%8A%B8%EB%9F%AD)||||||||
+|[13335](https://www.acmicpc.net/problem/13335)|트럭|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13335%29%20%ED%8A%B8%EB%9F%AD)||✔||||||
 |[13460](https://www.acmicpc.net/problem/13460)|구슬 탈출 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/13460%29%20%EA%B5%AC%EC%8A%AC%20%ED%83%88%EC%B6%9C%202)||✔||||||
 |[14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14499%29%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0)|||||||✔|
 |[14500](https://www.acmicpc.net/problem/14500)|테트로미노|[링크](./%EB%B0%B1%EC%A4%80/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14500%29%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)|||||||✔|
