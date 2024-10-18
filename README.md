@@ -12,7 +12,7 @@
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 244 |
-| 🥈 2위 | 경호 | 230 |
+| 🥈 2위 | 경호 | 231 |
 | 🥉 3위 | 태호 | 196 |
 | 🏅 4위 | 윤지 | 188 |
 | 🎖️ 5위 | 정완 | 117 |
@@ -580,7 +580,7 @@
 |[21942](https://www.acmicpc.net/problem/21942)|부품 대여장|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/21942%29%20%EB%B6%80%ED%92%88%20%EB%8C%80%EC%97%AC%EC%9E%A5)||||||||
 |[21944](https://www.acmicpc.net/problem/21944)|문제 추천 시스템 Version2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/21944%29%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20Version2)||||||||
 |[23326](https://www.acmicpc.net/problem/23326)|홍익 투어리스트|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/23326%29%20%ED%99%8D%EC%9D%B5%20%ED%88%AC%EC%96%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8)|||||||✔|
-|[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/2696%29%20%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)||||||||
+|[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/2696%29%20%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|||✔|||||
 |[4358](https://www.acmicpc.net/problem/4358)|생태학|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/4358%29%20%EC%83%9D%ED%83%9C%ED%95%99)||✔|✔|||||
 |[5397](https://www.acmicpc.net/problem/5397)|키로거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5397%29%20%ED%82%A4%EB%A1%9C%EA%B1%B0)||||||||
 |[5430](https://www.acmicpc.net/problem/5430)|AC|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5430%29%20AC)||✔|||||✔|
