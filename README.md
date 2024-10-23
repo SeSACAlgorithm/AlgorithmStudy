@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 247 |
+| 🥇 1위 | 석희 | 248 |
 | 🥈 2위 | 경호 | 234 |
 | 🥉 3위 | 태호 | 198 |
 | 🏅 4위 | 윤지 | 190 |
@@ -309,7 +309,7 @@
 |[1174](https://www.acmicpc.net/problem/1174)|줄어드는 수|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1174%29%20%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%20%EC%88%98)||||||||
 |[1182](https://www.acmicpc.net/problem/1182)|부분수열의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1182%29%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9)||✔|||||✔|
 |[14712](https://www.acmicpc.net/problem/14712)|넴모넴모 (Easy)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14712%29%20%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%20%28Easy%29)||||||||
-|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14888%29%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)|||||||✔✔|
+|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14888%29%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)||✔|||||✔✔|
 |[15649](https://www.acmicpc.net/problem/15649)|N과 M (1)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15649%29%20N%EA%B3%BC%20M%20%281%29)||✔|✔|||||
 |[15650](https://www.acmicpc.net/problem/15650)|N과 M (2)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15650%29%20N%EA%B3%BC%20M%20%282%29)||✔|✔||||✔|
 |[15651](https://www.acmicpc.net/problem/15651)|N과 M (3)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15651%29%20N%EA%B3%BC%20M%20%283%29)||✔|✔||||✔|
