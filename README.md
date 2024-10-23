@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 247 |
 | 🥈 2위 | 경호 | 233 |
-| 🥉 3위 | 태호 | 196 |
+| 🥉 3위 | 태호 | 197 |
 | 🏅 4위 | 윤지 | 190 |
 | 🎖️ 5위 | 정완 | 117 |
 | 🎀 6위 | 정현 | 86 |
@@ -741,7 +741,7 @@
 
 | 번호 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 윥 | 석 | 경 | 완 | 현 | 재 | 태 |
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[15681](https://www.acmicpc.net/problem/15681)|트리와 쿼리|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC%EB%94%94%ED%94%BC/15681%29%20%ED%8A%B8%EB%A6%AC%EC%99%80%20%EC%BF%BC%EB%A6%AC)||||||||
+|[15681](https://www.acmicpc.net/problem/15681)|트리와 쿼리|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC%EB%94%94%ED%94%BC/15681%29%20%ED%8A%B8%EB%A6%AC%EC%99%80%20%EC%BF%BC%EB%A6%AC)|||||||✔|
 |[1949](https://www.acmicpc.net/problem/1949)|우수 마을|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC%EB%94%94%ED%94%BC/1949%29%20%EC%9A%B0%EC%88%98%20%EB%A7%88%EC%9D%84)||||||||
 |[2213](https://www.acmicpc.net/problem/2213)|트리의 독립집합|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC%EB%94%94%ED%94%BC/2213%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%8F%85%EB%A6%BD%EC%A7%91%ED%95%A9)||||||||
 |[2533](https://www.acmicpc.net/problem/2533)|사회망 서비스(SNS)|[링크](./%EB%B0%B1%EC%A4%80/%ED%8A%B8%EB%A6%AC%EB%94%94%ED%94%BC/2533%29%20%EC%82%AC%ED%9A%8C%EB%A7%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4%28SNS%29)||||||||
