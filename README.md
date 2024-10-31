@@ -17,7 +17,7 @@
 | 🏅 4위 | 윤지 | 195 |
 | 🎖️ 5위 | 정완 | 119 |
 | 🎀 6위 | 정현 | 86 |
-| 🎗 7위 | 재원 | 79 |
+| 🎗 7위 | 재원 | 80 |
 
 # 📚 SWEA
 
@@ -553,7 +553,7 @@
 |[1966](https://www.acmicpc.net/problem/1966)|프린터 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/1966%29%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90)|✔|✔|✔|||||
 |[2164](https://www.acmicpc.net/problem/2164)|카드 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2164%29%20%EC%B9%B4%EB%93%9C%202)|✔|✔|✔|✔||✔||
 |[22942](https://www.acmicpc.net/problem/22942)|데이터 체커|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/22942%29%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%B4%EC%BB%A4)||||||||
-|[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2346%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0)|✔|✔|✔|||||
+|[2346](https://www.acmicpc.net/problem/2346)|풍선 터뜨리기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2346%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0)|✔|✔|✔|||✔||
 |[2493](https://www.acmicpc.net/problem/2493)|탑|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2493%29%20%ED%83%91)|||✔||||✔|
 |[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2504%29%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92)|||✔|||||
 |[2800](https://www.acmicpc.net/problem/2800)|괄호 제거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%201/2800%29%20%EA%B4%84%ED%98%B8%20%EC%A0%9C%EA%B1%B0)||||||||
