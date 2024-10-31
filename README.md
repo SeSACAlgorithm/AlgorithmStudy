@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 253 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 200 |
+| 🥉 3위 | 태호 | 201 |
 | 🏅 4위 | 윤지 | 196 |
 | 🎖️ 5위 | 정완 | 119 |
 | 🎀 6위 | 정현 | 86 |
@@ -991,7 +991,7 @@
 |[42891](https://programmers.co.kr/learn/courses/30/lessons/42891)|무지의 먹방 라이브|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/42891%29%20%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C)||||||||
 |[42894](https://programmers.co.kr/learn/courses/30/lessons/42894)|블록 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/42894%29%20%EB%B8%94%EB%A1%9D%20%EA%B2%8C%EC%9E%84)||||||||
 |[42897](https://programmers.co.kr/learn/courses/30/lessons/42897)|도둑질|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/42897%29%20%EB%8F%84%EB%91%91%EC%A7%88)||||||||
-|[43236](https://programmers.co.kr/learn/courses/30/lessons/43236)|징검다리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/43236%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC)|||✔|||||
+|[43236](https://programmers.co.kr/learn/courses/30/lessons/43236)|징검다리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/43236%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC)|||✔||||✔|
 |[49995](https://programmers.co.kr/learn/courses/30/lessons/49995)|쿠키 구입|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/49995%29%20%EC%BF%A0%ED%82%A4%20%EA%B5%AC%EC%9E%85)||||||||
 |[60060](https://programmers.co.kr/learn/courses/30/lessons/60060)|가사 검색|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/60060%29%20%EA%B0%80%EC%82%AC%20%EA%B2%80%EC%83%89)||||||||
 |[62050](https://programmers.co.kr/learn/courses/30/lessons/62050)|지형 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/62050%29%20%EC%A7%80%ED%98%95%20%EC%9D%B4%EB%8F%99)||||||||
