@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 254 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 201 |
+| 🥉 3위 | 태호 | 202 |
 | 🏅 4위 | 윤지 | 196 |
 | 🎖️ 5위 | 정완 | 120 |
 | 🎀 6위 | 정현 | 86 |
@@ -921,7 +921,7 @@
 |[42579](https://programmers.co.kr/learn/courses/30/lessons/42579)|베스트앨범|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42579%29%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)|||✔||||✔|
 |[42627](https://programmers.co.kr/learn/courses/30/lessons/42627)|디스크 컨트롤러|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42627%29%20%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)|||✔|||||
 |[42628](https://programmers.co.kr/learn/courses/30/lessons/42628)|이중우선순위큐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42628%29%20%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)|||✔||||✔|
-|[42861](https://programmers.co.kr/learn/courses/30/lessons/42861)|섬 연결하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42861%29%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)|||✔|||||
+|[42861](https://programmers.co.kr/learn/courses/30/lessons/42861)|섬 연결하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42861%29%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)|||✔||||✔|
 |[42884](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42884%29%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)|||✔||||✔|
 |[42895](https://programmers.co.kr/learn/courses/30/lessons/42895)|N으로 표현|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42895%29%20N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)|||✔|||||
 |[42898](https://programmers.co.kr/learn/courses/30/lessons/42898)|등굣길|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%281%29/42898%29%20%EB%93%B1%EA%B5%A3%EA%B8%B8)|||✔|||||
