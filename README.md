@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 256 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 203 |
+| 🥉 3위 | 태호 | 204 |
 | 🏅 4위 | 윤지 | 197 |
 | 🎖️ 5위 | 정완 | 120 |
 | 🎀 6위 | 정현 | 86 |
@@ -956,7 +956,7 @@
 |[12936](https://programmers.co.kr/learn/courses/30/lessons/12936)|줄 서는 방법|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12936%29%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95)|||✔||||✔|
 |[12938](https://programmers.co.kr/learn/courses/30/lessons/12938)|최고의 집합|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12938%29%20%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9)|||✔|✔|||✔|
 |[12946](https://programmers.co.kr/learn/courses/30/lessons/12946)|하노이의 탑|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12946%29%20%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91)|||✔||||✔|
-|[12952](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12952%29%20N-Queen)|||✔|||||
+|[12952](https://programmers.co.kr/learn/courses/30/lessons/12952)|N-Queen|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12952%29%20N-Queen)|||✔||||✔|
 |[12971](https://programmers.co.kr/learn/courses/30/lessons/12971)|스티커 모으기(2)|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12971%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%AA%A8%EC%9C%BC%EA%B8%B0%282%29)|||✔|||||
 |[12979](https://programmers.co.kr/learn/courses/30/lessons/12979)|기지국 설치|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12979%29%20%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98)|||✔|||||
 |[12987](https://programmers.co.kr/learn/courses/30/lessons/12987)|숫자 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12987%29%20%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84)|||✔||||✔|
