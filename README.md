@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 257 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 208 |
+| 🥉 3위 | 태호 | 209 |
 | 🏅 4위 | 윤지 | 198 |
 | 🎖️ 5위 | 정완 | 120 |
 | 🎀 6위 | 정현 | 86 |
@@ -994,7 +994,7 @@
 |[43236](https://programmers.co.kr/learn/courses/30/lessons/43236)|징검다리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/43236%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC)|||✔||||✔|
 |[49995](https://programmers.co.kr/learn/courses/30/lessons/49995)|쿠키 구입|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/49995%29%20%EC%BF%A0%ED%82%A4%20%EA%B5%AC%EC%9E%85)||||||||
 |[60060](https://programmers.co.kr/learn/courses/30/lessons/60060)|가사 검색|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/60060%29%20%EA%B0%80%EC%82%AC%20%EA%B2%80%EC%83%89)||||||||
-|[62050](https://programmers.co.kr/learn/courses/30/lessons/62050)|지형 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/62050%29%20%EC%A7%80%ED%98%95%20%EC%9D%B4%EB%8F%99)||||||||
+|[62050](https://programmers.co.kr/learn/courses/30/lessons/62050)|지형 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/62050%29%20%EC%A7%80%ED%98%95%20%EC%9D%B4%EB%8F%99)|||||||✔|
 |[64063](https://programmers.co.kr/learn/courses/30/lessons/64063)|호텔 방 배정|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/64063%29%20%ED%98%B8%ED%85%94%20%EB%B0%A9%20%EB%B0%B0%EC%A0%95)||||||||
 |[67260](https://programmers.co.kr/learn/courses/30/lessons/67260)|[카카오 인턴] 동굴 탐험|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/67260%29%20%5B%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%5D%20%EB%8F%99%EA%B5%B4%20%ED%83%90%ED%97%98)||||||||
 |[68647](https://programmers.co.kr/learn/courses/30/lessons/68647)|짝수 행 세기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/68647%29%20%EC%A7%9D%EC%88%98%20%ED%96%89%20%EC%84%B8%EA%B8%B0)||||||||
