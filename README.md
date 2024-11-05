@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 257 |
+| 🥇 1위 | 석희 | 258 |
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 209 |
 | 🏅 4위 | 윤지 | 198 |
@@ -618,7 +618,7 @@
 |[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/18352%29%20%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0)||✔||||||
 |[1865](https://www.acmicpc.net/problem/1865)|웜홀|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1865%29%20%EC%9B%9C%ED%99%80)||||||||
 |[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1916%29%20%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0)||✔|||||✔|
-|[1956](https://www.acmicpc.net/problem/1956)|운동|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1956%29%20%EC%9A%B4%EB%8F%99)||||||||
+|[1956](https://www.acmicpc.net/problem/1956)|운동|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1956%29%20%EC%9A%B4%EB%8F%99)||✔||||||
 |[2224](https://www.acmicpc.net/problem/2224)|명제 증명|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/2224%29%20%EB%AA%85%EC%A0%9C%20%EC%A6%9D%EB%AA%85)||✔||||||
 |[22865](https://www.acmicpc.net/problem/22865)|가장 먼 곳|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/22865%29%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EA%B3%B3)||✔||||||
 |[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/4485%29%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80)|||✔|||||
