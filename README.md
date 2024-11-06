@@ -15,7 +15,7 @@
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 211 |
 | 🏅 4위 | 윤지 | 199 |
-| 🎖️ 5위 | 정완 | 120 |
+| 🎖️ 5위 | 정완 | 121 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 80 |
 
@@ -852,7 +852,7 @@
 |[42883](https://programmers.co.kr/learn/courses/30/lessons/42883)|큰 수 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42883%29%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|||✔||
 |[42888](https://programmers.co.kr/learn/courses/30/lessons/42888)|오픈채팅방|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42888%29%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)||✔|✔|✔||✔|✔|
 |[42890](https://programmers.co.kr/learn/courses/30/lessons/42890)|후보키|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42890%29%20%ED%9B%84%EB%B3%B4%ED%82%A4)||||||||
-|[43165](https://programmers.co.kr/learn/courses/30/lessons/43165)|타겟 넘버|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/43165%29%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)||✔|✔|||✔|✔|
+|[43165](https://programmers.co.kr/learn/courses/30/lessons/43165)|타겟 넘버|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/43165%29%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)||✔|✔|✔||✔|✔|
 |[60057](https://programmers.co.kr/learn/courses/30/lessons/60057)|문자열 압축|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/60057%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)||✔|✔|✔||✔|✔|
 |[60058](https://programmers.co.kr/learn/courses/30/lessons/60058)|괄호 변환|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/60058%29%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98)|||✔|||||
 |[62048](https://programmers.co.kr/learn/courses/30/lessons/62048)|멀쩡한 사각형|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/62048%29%20%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)||✔|✔|||||
