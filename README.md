@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 259 |
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 214 |
-| 🏅 4위 | 윤지 | 200 |
+| 🏅 4위 | 윤지 | 201 |
 | 🎖️ 5위 | 정완 | 121 |
 | 🎀 6위 | 정현 | 86 |
 | 🎗 7위 | 재원 | 80 |
@@ -697,7 +697,7 @@
 |[20442](https://www.acmicpc.net/problem/20442)|ㅋㅋ루ㅋㅋ|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20442%29%20%E3%85%8B%E3%85%8B%EB%A3%A8%E3%85%8B%E3%85%8B)||||||||
 |[20922](https://www.acmicpc.net/problem/20922)|겹치는 건 싫어|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20922%29%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4)||||||||
 |[21279](https://www.acmicpc.net/problem/21279)|광부 호석|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/21279%29%20%EA%B4%91%EB%B6%80%20%ED%98%B8%EC%84%9D)||||||||
-|[21921](https://www.acmicpc.net/problem/21921)|블로그|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/21921%29%20%EB%B8%94%EB%A1%9C%EA%B7%B8)|||✔|||||
+|[21921](https://www.acmicpc.net/problem/21921)|블로그|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/21921%29%20%EB%B8%94%EB%A1%9C%EA%B7%B8)|✔||✔|||||
 |[22862](https://www.acmicpc.net/problem/22862)|가장 긴 짝수 연속한 부분 수열 (large)|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/22862%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28large%29)||||||||
 |[22945](https://www.acmicpc.net/problem/22945)|팀 빌딩|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/22945%29%20%ED%8C%80%20%EB%B9%8C%EB%94%A9)||||||||
 |[2559](https://www.acmicpc.net/problem/2559)|수열|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2559%29%20%EC%88%98%EC%97%B4)|✔|||||||
