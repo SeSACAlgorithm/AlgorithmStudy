@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 259 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 213 |
+| 🥉 3위 | 태호 | 214 |
 | 🏅 4위 | 윤지 | 200 |
 | 🎖️ 5위 | 정완 | 121 |
 | 🎀 6위 | 정현 | 86 |
@@ -984,7 +984,7 @@
 |[12923](https://programmers.co.kr/learn/courses/30/lessons/12923)|숫자 블록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12923%29%20%EC%88%AB%EC%9E%90%20%EB%B8%94%EB%A1%9D)||||||||
 |[12929](https://programmers.co.kr/learn/courses/30/lessons/12929)|올바른 괄호의 갯수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12929%29%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%AF%EC%88%98)||||||||
 |[12942](https://programmers.co.kr/learn/courses/30/lessons/12942)|최적의 행렬 곱셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12942%29%20%EC%B5%9C%EC%A0%81%EC%9D%98%20%ED%96%89%EB%A0%AC%20%EA%B3%B1%EC%85%88)||||||||
-|[12983](https://programmers.co.kr/learn/courses/30/lessons/12983)|단어 퍼즐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12983%29%20%EB%8B%A8%EC%96%B4%20%ED%8D%BC%EC%A6%90)||||||||
+|[12983](https://programmers.co.kr/learn/courses/30/lessons/12983)|단어 퍼즐|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12983%29%20%EB%8B%A8%EC%96%B4%20%ED%8D%BC%EC%A6%90)|||||||✔|
 |[12984](https://programmers.co.kr/learn/courses/30/lessons/12984)|지형 편집|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/12984%29%20%EC%A7%80%ED%98%95%20%ED%8E%B8%EC%A7%91)||||||||
 |[17685](https://programmers.co.kr/learn/courses/30/lessons/17685)|[3차] 자동완성|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/17685%29%20%5B3%EC%B0%A8%5D%20%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1)||||||||
 |[1843](https://programmers.co.kr/learn/courses/30/lessons/1843)|사칙연산|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%204/1843%29%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)||||||||
