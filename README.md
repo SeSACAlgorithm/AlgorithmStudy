@@ -14,7 +14,7 @@
 | 🥇 1위 | 석희 | 262 |
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 220 |
-| 🏅 4위 | 윤지 | 203 |
+| 🏅 4위 | 윤지 | 204 |
 | 🎖️ 5위 | 정완 | 121 |
 | 🎀 6위 | 재원 | 87 |
 | 🎗 7위 | 정현 | 86 |
@@ -850,7 +850,7 @@
 |[42842](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42842%29%20%EC%B9%B4%ED%8E%AB)|✔|✔|✔|||✔|✔|
 |[42860](https://programmers.co.kr/learn/courses/30/lessons/42860)|조이스틱|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42860%29%20%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)|||||||✔|
 |[42883](https://programmers.co.kr/learn/courses/30/lessons/42883)|큰 수 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42883%29%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|||✔||
-|[42888](https://programmers.co.kr/learn/courses/30/lessons/42888)|오픈채팅방|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42888%29%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)||✔|✔|✔||✔|✔|
+|[42888](https://programmers.co.kr/learn/courses/30/lessons/42888)|오픈채팅방|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42888%29%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)|✔|✔|✔|✔||✔|✔|
 |[42890](https://programmers.co.kr/learn/courses/30/lessons/42890)|후보키|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42890%29%20%ED%9B%84%EB%B3%B4%ED%82%A4)||||||||
 |[43165](https://programmers.co.kr/learn/courses/30/lessons/43165)|타겟 넘버|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/43165%29%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84)||✔|✔|✔||✔|✔|
 |[60057](https://programmers.co.kr/learn/courses/30/lessons/60057)|문자열 압축|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/60057%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)||✔|✔|✔||✔|✔|
