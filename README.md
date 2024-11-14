@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 264 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 220 |
+| 🥉 3위 | 태호 | 221 |
 | 🏅 4위 | 윤지 | 206 |
 | 🎖️ 5위 | 정완 | 121 |
 | 🎀 6위 | 재원 | 88 |
@@ -964,7 +964,7 @@
 |[42892](https://programmers.co.kr/learn/courses/30/lessons/42892)|길 찾기 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/42892%29%20%EA%B8%B8%20%EC%B0%BE%EA%B8%B0%20%EA%B2%8C%EC%9E%84)|||✔||||✔|
 |[42893](https://programmers.co.kr/learn/courses/30/lessons/42893)|매칭 점수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/42893%29%20%EB%A7%A4%EC%B9%AD%20%EC%A0%90%EC%88%98)||||||||
 |[60061](https://programmers.co.kr/learn/courses/30/lessons/60061)|기둥과 보 설치|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60061%29%20%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98)||||||||
-|[60062](https://programmers.co.kr/learn/courses/30/lessons/60062)|외벽 점검|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60062%29%20%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80)||||||||
+|[60062](https://programmers.co.kr/learn/courses/30/lessons/60062)|외벽 점검|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60062%29%20%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80)|||||||✔|
 |[60063](https://programmers.co.kr/learn/courses/30/lessons/60063)|블록 이동하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60063%29%20%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)|||✔|||||
 |[64062](https://programmers.co.kr/learn/courses/30/lessons/64062)|징검다리 건너기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/64062%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)|||✔||||✔|
 |[68646](https://programmers.co.kr/learn/courses/30/lessons/68646)|풍선 터트리기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/68646%29%20%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0)|||✔|||||
