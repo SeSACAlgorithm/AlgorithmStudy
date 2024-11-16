@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 266 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 221 |
+| 🥉 3위 | 태호 | 222 |
 | 🏅 4위 | 윤지 | 207 |
 | 🎖️ 5위 | 정완 | 121 |
 | 🎀 6위 | 재원 | 91 |
@@ -961,7 +961,7 @@
 |[12971](https://programmers.co.kr/learn/courses/30/lessons/12971)|스티커 모으기(2)|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12971%29%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%AA%A8%EC%9C%BC%EA%B8%B0%282%29)|||✔|||||
 |[12979](https://programmers.co.kr/learn/courses/30/lessons/12979)|기지국 설치|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12979%29%20%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98)|||✔|||||
 |[12987](https://programmers.co.kr/learn/courses/30/lessons/12987)|숫자 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/12987%29%20%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84)|||✔||||✔|
-|[132266](https://programmers.co.kr/learn/courses/30/lessons/132266)|부대복귀|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/132266%29%20%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80)||✔|✔|||||
+|[132266](https://programmers.co.kr/learn/courses/30/lessons/132266)|부대복귀|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/132266%29%20%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80)||✔|✔||||✔|
 |[42892](https://programmers.co.kr/learn/courses/30/lessons/42892)|길 찾기 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/42892%29%20%EA%B8%B8%20%EC%B0%BE%EA%B8%B0%20%EA%B2%8C%EC%9E%84)|||✔||||✔|
 |[42893](https://programmers.co.kr/learn/courses/30/lessons/42893)|매칭 점수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/42893%29%20%EB%A7%A4%EC%B9%AD%20%EC%A0%90%EC%88%98)||||||||
 |[60061](https://programmers.co.kr/learn/courses/30/lessons/60061)|기둥과 보 설치|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%203%20%282%29/60061%29%20%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98)||||||||
