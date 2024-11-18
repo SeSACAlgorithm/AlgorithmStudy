@@ -15,7 +15,7 @@
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 222 |
 | 🏅 4위 | 윤지 | 207 |
-| 🎖️ 5위 | 정완 | 122 |
+| 🎖️ 5위 | 정완 | 125 |
 | 🎀 6위 | 재원 | 92 |
 | 🎗 7위 | 정현 | 86 |
 
@@ -651,9 +651,9 @@
 |[1092](https://www.acmicpc.net/problem/1092)|배|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1092%29%20%EB%B0%B0)||||||||
 |[11000](https://www.acmicpc.net/problem/11000)|강의실 배정|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11000%29%20%EA%B0%95%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95)|||✔|||||
 |[11047](https://www.acmicpc.net/problem/11047)|동전0|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11047%29%20%EB%8F%99%EC%A0%840)|✔|||✔||||
-|[11399](https://www.acmicpc.net/problem/11399)|ATM|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11399%29%20ATM)|✔|✔||||||
+|[11399](https://www.acmicpc.net/problem/11399)|ATM|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11399%29%20ATM)|✔|✔||✔||||
 |[11501](https://www.acmicpc.net/problem/11501)|주식|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11501%29%20%EC%A3%BC%EC%8B%9D)||||||||
-|[11508](https://www.acmicpc.net/problem/11508)|2 + 1 세일|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11508%29%202%20%2B%201%20%EC%84%B8%EC%9D%BC)|✔|||||||
+|[11508](https://www.acmicpc.net/problem/11508)|2 + 1 세일|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/11508%29%202%20%2B%201%20%EC%84%B8%EC%9D%BC)|✔|||✔||||
 |[13164](https://www.acmicpc.net/problem/13164)|행복 유치원|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13164%29%20%ED%96%89%EB%B3%B5%20%EC%9C%A0%EC%B9%98%EC%9B%90)||||||||
 |[13305](https://www.acmicpc.net/problem/13305)|주유소|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13305%29%20%EC%A3%BC%EC%9C%A0%EC%86%8C)||||||||
 |[1343](https://www.acmicpc.net/problem/1343)|폴리오미노|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1343%29%20%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8)|✔||✔|✔||||
@@ -675,7 +675,7 @@
 |[2170](https://www.acmicpc.net/problem/2170)|선 긋기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2170%29%20%EC%84%A0%20%EA%B8%8B%EA%B8%B0)||||||||
 |[21758](https://www.acmicpc.net/problem/21758)|꿀 따기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/21758%29%20%EA%BF%80%20%EB%94%B0%EA%B8%B0)||||||||
 |[2212](https://www.acmicpc.net/problem/2212)|센서|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2212%29%20%EC%84%BC%EC%84%9C)||||||||
-|[2217](https://www.acmicpc.net/problem/2217)|로프|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2217%29%20%EB%A1%9C%ED%94%84)|✔|||||||
+|[2217](https://www.acmicpc.net/problem/2217)|로프|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2217%29%20%EB%A1%9C%ED%94%84)|✔|||✔||||
 |[2285](https://www.acmicpc.net/problem/2285)|우체국|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2285%29%20%EC%9A%B0%EC%B2%B4%EA%B5%AD)||||||||
 |[2457](https://www.acmicpc.net/problem/2457)|공주님의 정원|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2457%29%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%20%EC%A0%95%EC%9B%90)||||||||
 |[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/2812%29%20%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)||||||||
