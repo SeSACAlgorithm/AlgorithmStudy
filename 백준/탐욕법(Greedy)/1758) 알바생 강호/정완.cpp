@@ -2,6 +2,8 @@
 #include <algorithm>
 #include <vector>
 
+typedef long long ll;
+
 using namespace std;
 
 int N;
@@ -20,7 +22,7 @@ int main()
 
     sort(v.rbegin(), v.rend());
 
-    long ans = 0;
+    ll ans = 0;
 
     for(int i=0; i<N; i++)
         if(v[i] - i > 0)        // 팁이 음수가 아닌 경우 
