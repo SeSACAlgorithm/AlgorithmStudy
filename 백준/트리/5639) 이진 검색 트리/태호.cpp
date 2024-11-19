@@ -18,32 +18,32 @@ struct BinaryTree
 private:
     Node* root = nullptr;
 
-	Node* Insert(Node* current, Node* newNode)
-	{
-		if (current == nullptr)
-			return newNode;
+    Node* Insert(Node* current, Node* newNode)
+    {
+	  if (current == nullptr)
+		return newNode;
 
-		if (current->node > newNode->node)
-			current->left = Insert(current->left, newNode);
+	  if (current->node > newNode->node)
+		current->left = Insert(current->left, newNode);
 		else
-			current->right = Insert(current->right, newNode);
+		current->right = Insert(current->right, newNode);
 
-        return current;
-	}
+	   return current;
+     }
 
-	void PostOrder(Node* current)
-	{
-        if(current == nullptr)
-            return;
+     void PostOrder(Node* current)
+     {
+          if(current == nullptr)
+              return;
 
-        if(current->left)
-		    PostOrder(current->left);
+          if(current->left)
+	      PostOrder(current->left);
 		
-        if(current->right)
-            PostOrder(current->right);
+          if(current->right)
+               PostOrder(current->right);
 
-		cout << current->node << '\n';
-	}
+	   cout << current->node << '\n';
+      }
 
 public:
     void MakeNode(int value)
