@@ -16,7 +16,7 @@
 | 🥉 3위 | 태호 | 223 |
 | 🏅 4위 | 윤지 | 208 |
 | 🎖️ 5위 | 정완 | 127 |
-| 🎀 6위 | 재원 | 95 |
+| 🎀 6위 | 재원 | 96 |
 | 🎗 7위 | 정현 | 86 |
 
 # 📚 SWEA
@@ -280,7 +280,7 @@
 |[10798](https://www.acmicpc.net/problem/10798)|세로읽기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/10798%29%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)|✔|✔||✔|✔|||
 |[10808](https://www.acmicpc.net/problem/10808)|알파벳 개수|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/10808%29%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98)|✔|✔|||✔|||
 |[11365](https://www.acmicpc.net/problem/11365)|!밀비급일|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11365%29%20%21%EB%B0%80%EB%B9%84%EA%B8%89%EC%9D%BC)|✔|✔||✔|✔|||
-|[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9)|✔|✔||✔|✔|||
+|[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%29%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9)|✔|✔||✔|✔|✔||
 |[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1181%29%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC)|✔|✔||||||
 |[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 체커|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%29%20%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4)|✔|✔|✔||✔|||
 |[16171](https://www.acmicpc.net/problem/16171)|나는 친구가 적다(Small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/16171%29%20%EB%82%98%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%EC%A0%81%EB%8B%A4%28Small%29)|✔|✔||||||
