@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 273 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 225 |
+| 🥉 3위 | 태호 | 226 |
 | 🏅 4위 | 윤지 | 215 |
 | 🎖️ 5위 | 정완 | 131 |
 | 🎀 6위 | 재원 | 106 |
@@ -622,7 +622,7 @@
 |[1956](https://www.acmicpc.net/problem/1956)|운동|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1956%29%20%EC%9A%B4%EB%8F%99)||✔||||||
 |[2224](https://www.acmicpc.net/problem/2224)|명제 증명|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/2224%29%20%EB%AA%85%EC%A0%9C%20%EC%A6%9D%EB%AA%85)||✔||||||
 |[22865](https://www.acmicpc.net/problem/22865)|가장 먼 곳|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/22865%29%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EA%B3%B3)||✔||||||
-|[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/4485%29%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80)|||✔|||||
+|[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/4485%29%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80)|||✔||||✔|
 
 </details>
 
