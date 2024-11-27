@@ -11,10 +11,10 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 273 |
+| 🥇 1위 | 석희 | 274 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 태호 | 225 |
-| 🏅 4위 | 윤지 | 214 |
+| 🥉 3위 | 태호 | 226 |
+| 🏅 4위 | 윤지 | 215 |
 | 🎖️ 5위 | 정완 | 131 |
 | 🎀 6위 | 재원 | 106 |
 | 🎗 7위 | 정현 | 86 |
@@ -308,7 +308,7 @@
 |[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10819%29%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C)||✔||||||
 |[10971](https://www.acmicpc.net/problem/10971)|외판원 순회2|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10971%29%20%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C2)||✔||||||
 |[10974](https://www.acmicpc.net/problem/10974)|모든 순열|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10974%29%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4)||✔||||||
-|[1174](https://www.acmicpc.net/problem/1174)|줄어드는 수|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1174%29%20%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%20%EC%88%98)||||||||
+|[1174](https://www.acmicpc.net/problem/1174)|줄어드는 수|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1174%29%20%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%20%EC%88%98)||✔||||||
 |[1182](https://www.acmicpc.net/problem/1182)|부분수열의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1182%29%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9)||✔|||||✔|
 |[14712](https://www.acmicpc.net/problem/14712)|넴모넴모 (Easy)|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14712%29%20%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%20%28Easy%29)||||||||
 |[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[링크](./%EB%B0%B1%EC%A4%80/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14888%29%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)||✔|||||✔✔|
@@ -622,7 +622,7 @@
 |[1956](https://www.acmicpc.net/problem/1956)|운동|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/1956%29%20%EC%9A%B4%EB%8F%99)||✔||||||
 |[2224](https://www.acmicpc.net/problem/2224)|명제 증명|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/2224%29%20%EB%AA%85%EC%A0%9C%20%EC%A6%9D%EB%AA%85)||✔||||||
 |[22865](https://www.acmicpc.net/problem/22865)|가장 먼 곳|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/22865%29%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EA%B3%B3)||✔||||||
-|[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/4485%29%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80)|||✔|||||
+|[4485](https://www.acmicpc.net/problem/4485)|녹색 옷 입은 애가 젤다지|[링크](./%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/4485%29%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80)|||✔||||✔|
 
 </details>
 
@@ -835,7 +835,7 @@
 | ----- | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[12899](https://programmers.co.kr/learn/courses/30/lessons/12899)|124 나라의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12899%29%20124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)|✔|✔|✔|✔||✔|✔|
 |[12973](https://programmers.co.kr/learn/courses/30/lessons/12973)|짝지어 제거하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12973%29%20%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|✔|✔|✔|✔||✔|✔|
-|[12978](https://programmers.co.kr/learn/courses/30/lessons/12978)|배달|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12978%29%20%EB%B0%B0%EB%8B%AC)||✔|✔||||✔|
+|[12978](https://programmers.co.kr/learn/courses/30/lessons/12978)|배달|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12978%29%20%EB%B0%B0%EB%8B%AC)|✔|✔|✔||||✔|
 |[12985](https://programmers.co.kr/learn/courses/30/lessons/12985)|예상 대진표|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12985%29%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)|||✔||||✔|
 |[17677](https://programmers.co.kr/learn/courses/30/lessons/17677)|[1차] 뉴스 클러스터링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/17677%29%20%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)|||||||✔|
 |[1844](https://programmers.co.kr/learn/courses/30/lessons/1844)|게임 맵 최단거리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/1844%29%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)|✔|✔|✔||||✔|
