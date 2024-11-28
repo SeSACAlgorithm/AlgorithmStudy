@@ -267,6 +267,7 @@
 |[2758](https://www.acmicpc.net/problem/2758)|로또|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/2758%29%20%EB%A1%9C%EB%98%90)||||||||
 |[3687](https://www.acmicpc.net/problem/3687)|성냥개비|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/3687%29%20%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84)||||||||
 |[5557](https://www.acmicpc.net/problem/5557)|1학년|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/5557%29%201%ED%95%99%EB%85%84)||||||||
+|[5582](https://www.acmicpc.net/problem/5582)|공통 부분 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/5582%29%20%EA%B3%B5%ED%86%B5%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)||||||||
 |[9084](https://www.acmicpc.net/problem/9084)|동전|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/9084%29%20%EB%8F%99%EC%A0%84)||||||||
 |[9251](https://www.acmicpc.net/problem/9251)|LCS|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%202/9251%29%20LCS)||||||||
 
