@@ -14,8 +14,8 @@
 | 🥇 1위 | 석희 | 274 |
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 226 |
-| 🏅 4위 | 윤지 | 215 |
-| 🎖️ 5위 | 정완 | 131 |
+| 🏅 4위 | 윤지 | 216 |
+| 🎖️ 5위 | 정완 | 132 |
 | 🎀 6위 | 재원 | 106 |
 | 🎗 7위 | 정현 | 86 |
 
@@ -583,7 +583,7 @@
 |[21944](https://www.acmicpc.net/problem/21944)|문제 추천 시스템 Version2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/21944%29%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20Version2)||||||||
 |[23326](https://www.acmicpc.net/problem/23326)|홍익 투어리스트|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/23326%29%20%ED%99%8D%EC%9D%B5%20%ED%88%AC%EC%96%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8)|||||||✔|
 |[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/2696%29%20%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|||✔|||✔||
-|[4358](https://www.acmicpc.net/problem/4358)|생태학|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/4358%29%20%EC%83%9D%ED%83%9C%ED%95%99)||✔|✔|||||
+|[4358](https://www.acmicpc.net/problem/4358)|생태학|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/4358%29%20%EC%83%9D%ED%83%9C%ED%95%99)|✔|✔|✔|||||
 |[5397](https://www.acmicpc.net/problem/5397)|키로거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5397%29%20%ED%82%A4%EB%A1%9C%EA%B1%B0)||||||||
 |[5430](https://www.acmicpc.net/problem/5430)|AC|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5430%29%20AC)||✔|||||✔|
 |[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/7662%29%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90)|||✔||||✔|
@@ -660,7 +660,7 @@
 |[13975](https://www.acmicpc.net/problem/13975)|파일 합치기 3|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/13975%29%20%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203)|||||||✔|
 |[14916](https://www.acmicpc.net/problem/14916)|거스름돈|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/14916%29%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)|✔|✔|✔|✔|✔|||
 |[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1541%29%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8)|✔|||✔||||
-|[16953](https://www.acmicpc.net/problem/16953)|A→B|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/16953%29%20A%E2%86%92B)|✔|✔||||||
+|[16953](https://www.acmicpc.net/problem/16953)|A→B|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/16953%29%20A%E2%86%92B)|✔|✔||✔||||
 |[1700](https://www.acmicpc.net/problem/1700)|멀티탭 스케줄링|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1700%29%20%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)||||||||
 |[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1715%29%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)|||||||✔|
 |[1744](https://www.acmicpc.net/problem/1744)|수 묶기|[링크](./%EB%B0%B1%EC%A4%80/%ED%83%90%EC%9A%95%EB%B2%95%28Greedy%29/1744%29%20%EC%88%98%20%EB%AC%B6%EA%B8%B0)||||||||
