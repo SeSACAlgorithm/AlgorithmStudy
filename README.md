@@ -15,7 +15,7 @@
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 226 |
 | 🏅 4위 | 윤지 | 218 |
-| 🎖️ 5위 | 정완 | 133 |
+| 🎖️ 5위 | 정완 | 134 |
 | 🎀 6위 | 재원 | 107 |
 | 🎗 7위 | 정현 | 86 |
 
@@ -227,7 +227,7 @@
 |[22869](https://www.acmicpc.net/problem/22869)|징검다리 건너기 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22869%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0%20%28small%29)||||||||
 |[2293](https://www.acmicpc.net/problem/2293)|동전 1|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2293%29%20%EB%8F%99%EC%A0%84%201)||✔||✔||||
 |[2294](https://www.acmicpc.net/problem/2294)|동전 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2294%29%20%EB%8F%99%EC%A0%84%202)||||||||
-|[2407](https://www.acmicpc.net/problem/2407)|조합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2407%29%20%EC%A1%B0%ED%95%A9)|✔|||||||
+|[2407](https://www.acmicpc.net/problem/2407)|조합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2407%29%20%EC%A1%B0%ED%95%A9)|✔|||✔||||
 |[2579](https://www.acmicpc.net/problem/2579)|계단 오르기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2579%29%20%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0)|✔|✔||✔|||✔|
 |[2748](https://www.acmicpc.net/problem/2748)|피보나치 수 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2748%29%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%202)|✔|✔||✔|✔|||
 |[2839](https://www.acmicpc.net/problem/2839)|설탕 배달|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2839%29%20%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC)|✔|✔|✔|✔|||✔|
