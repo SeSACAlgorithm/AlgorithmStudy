@@ -14,8 +14,8 @@
 | 🥇 1위 | 석희 | 282 |
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 태호 | 226 |
-| 🏅 4위 | 윤지 | 222 |
-| 🎖️ 5위 | 정완 | 138 |
+| 🏅 4위 | 윤지 | 223 |
+| 🎖️ 5위 | 정완 | 139 |
 | 🎀 6위 | 재원 | 107 |
 | 🎗 7위 | 정현 | 86 |
 
@@ -215,7 +215,7 @@
 |[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1463%29%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔||✔|||✔|
 |[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/15486%29%20%ED%87%B4%EC%82%AC%202)|||✔||||✔|
 |[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1699%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9)||||||||
-|[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)||||✔||||
+|[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)|✔|||✔||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||||||||
 |[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)|✔|✔||✔|||✔|
 |[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1932%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)||✔||||||
@@ -840,7 +840,7 @@
 |[12985](https://programmers.co.kr/learn/courses/30/lessons/12985)|예상 대진표|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/12985%29%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C)|||✔||||✔|
 |[17677](https://programmers.co.kr/learn/courses/30/lessons/17677)|[1차] 뉴스 클러스터링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/17677%29%20%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)|||||||✔|
 |[1844](https://programmers.co.kr/learn/courses/30/lessons/1844)|게임 맵 최단거리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/1844%29%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)|✔|✔|✔||||✔|
-|[42577](https://programmers.co.kr/learn/courses/30/lessons/42577)|전화번호 목록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42577%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)|✔|✔|✔|||✔|✔|
+|[42577](https://programmers.co.kr/learn/courses/30/lessons/42577)|전화번호 목록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42577%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)|✔|✔|✔|✔||✔|✔|
 |[42578](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42578%29%20%EC%9C%84%EC%9E%A5)|✔|✔|✔|||✔|✔|
 |[42583](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42583%29%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)||✔||||||
 |[42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|기능개발|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42586%29%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|✔|✔|✔|✔||✔|✔|
