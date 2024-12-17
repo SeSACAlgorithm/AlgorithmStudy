@@ -11,12 +11,12 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 286 |
+| 🥇 1위 | 석희 | 287 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 윤지 | 228 |
+| 🥉 3위 | 윤지 | 229 |
 | 🏅 4위 | 태호 | 226 |
 | 🎖️ 5위 | 정완 | 143 |
-| 🎀 6위 | 재원 | 108 |
+| 🎀 6위 | 재원 | 110 |
 | 🎗 7위 | 정현 | 86 |
 
 # 📚 SWEA
@@ -215,7 +215,7 @@
 |[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1463%29%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔||✔|||✔|
 |[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/15486%29%20%ED%87%B4%EC%82%AC%202)|||✔||||✔|
 |[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1699%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9)||||||||
-|[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)|✔|||✔||||
+|[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)|✔|✔||✔||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||||||||
 |[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)|✔|✔||✔|||✔|
 |[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1932%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)||✔||||||
@@ -293,7 +293,7 @@
 |[20437](https://www.acmicpc.net/problem/20437)|문자열 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20437%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
 |[25501](https://www.acmicpc.net/problem/25501)|재귀의 귀재|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/25501%29%20%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC)|✔|✔||||||
 |[3029](https://www.acmicpc.net/problem/3029)|경고|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/3029%29%20%EA%B2%BD%EA%B3%A0)|✔|✔||||||
-|[4659](https://www.acmicpc.net/problem/4659)|비밀 번호 발음하기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/4659%29%20%EB%B9%84%EB%B0%80%20%EB%B2%88%ED%98%B8%20%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0)||✔||||✔|✔|
+|[4659](https://www.acmicpc.net/problem/4659)|비밀 번호 발음하기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/4659%29%20%EB%B9%84%EB%B0%80%20%EB%B2%88%ED%98%B8%20%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0)|✔|✔||||✔|✔|
 |[6550](https://www.acmicpc.net/problem/6550)|부분 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/6550%29%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)|✔|✔||||✔||
 |[9046](https://www.acmicpc.net/problem/9046)|복호화|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/9046%29%20%EB%B3%B5%ED%98%B8%ED%99%94)|✔|✔||||✔||
 |[9342](https://www.acmicpc.net/problem/9342)|염색체|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/9342%29%20%EC%97%BC%EC%83%89%EC%B2%B4)||✔||||||
@@ -483,7 +483,7 @@
 |[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2309%29%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4)|✔|✔||✔|✔|||
 |[2422](https://www.acmicpc.net/problem/2422)|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2422%29%20%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%20%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%20%EA%B0%80%EC%84%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%20%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0)||||||||
 |[2503](https://www.acmicpc.net/problem/2503)|숫자 야구|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2503%29%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC)||||||||
-|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)|✔|✔||✔||||
+|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2798%29%20%EB%B8%94%EB%9E%99%EC%9E%AD)|✔|✔||✔||✔||
 |[2961](https://www.acmicpc.net/problem/2961)|도영이가 만든 맛있는 음식|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2961%29%20%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%20%EB%A7%8C%EB%93%A0%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EC%9D%8C%EC%8B%9D)||||||||
 |[5568](https://www.acmicpc.net/problem/5568)|카드 놓기|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/5568%29%20%EC%B9%B4%EB%93%9C%20%EB%86%93%EA%B8%B0)||||||||
 |[8892](https://www.acmicpc.net/problem/8892)|팰린드롬|[링크](./%EB%B0%B1%EC%A4%80/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/8892%29%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)|✔|✔|✔|||||
@@ -585,7 +585,7 @@
 |[23326](https://www.acmicpc.net/problem/23326)|홍익 투어리스트|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/23326%29%20%ED%99%8D%EC%9D%B5%20%ED%88%AC%EC%96%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8)|||||||✔|
 |[2696](https://www.acmicpc.net/problem/2696)|중앙값 구하기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/2696%29%20%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|||✔|||✔||
 |[4358](https://www.acmicpc.net/problem/4358)|생태학|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/4358%29%20%EC%83%9D%ED%83%9C%ED%95%99)|✔|✔|✔|||||
-|[5397](https://www.acmicpc.net/problem/5397)|키로거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5397%29%20%ED%82%A4%EB%A1%9C%EA%B1%B0)||||||||
+|[5397](https://www.acmicpc.net/problem/5397)|키로거|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5397%29%20%ED%82%A4%EB%A1%9C%EA%B1%B0)||||||✔||
 |[5430](https://www.acmicpc.net/problem/5430)|AC|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/5430%29%20AC)||✔|||||✔|
 |[7662](https://www.acmicpc.net/problem/7662)|이중 우선순위 큐|[링크](./%EB%B0%B1%EC%A4%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%202/7662%29%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90)|||✔||||✔|
 
