@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 288 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 윤지 | 229 |
+| 🥉 3위 | 윤지 | 230 |
 | 🏅 4위 | 태호 | 226 |
 | 🎖️ 5위 | 정완 | 143 |
 | 🎀 6위 | 재원 | 111 |
@@ -222,7 +222,7 @@
 |[2011](https://www.acmicpc.net/problem/2011)|암호코드|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2011%29%20%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C)||||||||
 |[21317](https://www.acmicpc.net/problem/21317)|징검다리 건너기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/21317%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)||✔||||||
 |[2156](https://www.acmicpc.net/problem/2156)|포도주 시식|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2156%29%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)||✔||||||
-|[2193](https://www.acmicpc.net/problem/2193)|이친수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2193%29%20%EC%9D%B4%EC%B9%9C%EC%88%98)||||||||
+|[2193](https://www.acmicpc.net/problem/2193)|이친수|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2193%29%20%EC%9D%B4%EC%B9%9C%EC%88%98)|✔|||||||
 |[22857](https://www.acmicpc.net/problem/22857)|가장 긴 짝수 연속한 부분 수열 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22857%29%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%28small%29)||||||||
 |[22869](https://www.acmicpc.net/problem/22869)|징검다리 건너기 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/22869%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0%20%28small%29)||||||||
 |[2293](https://www.acmicpc.net/problem/2293)|동전 1|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2293%29%20%EB%8F%99%EC%A0%84%201)||✔||✔||||
