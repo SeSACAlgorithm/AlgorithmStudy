@@ -15,7 +15,7 @@
 | 🥈 2위 | 경호 | 235 |
 | 🥉 3위 | 윤지 | 230 |
 | 🏅 4위 | 태호 | 226 |
-| 🎖️ 5위 | 정완 | 143 |
+| 🎖️ 5위 | 정완 | 144 |
 | 🎀 6위 | 재원 | 117 |
 | 🎗 7위 | 정현 | 86 |
 
@@ -849,7 +849,7 @@
 |[42746](https://programmers.co.kr/learn/courses/30/lessons/42746)|가장 큰 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42746%29%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)|✔|✔|✔|✔||✔|✔|
 |[42747](https://programmers.co.kr/learn/courses/30/lessons/42747)|H-Index|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42747%29%20H-Index)|✔|✔|✔|✔||||
 |[42839](https://programmers.co.kr/learn/courses/30/lessons/42839)|소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42839%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)|✔|✔|✔|✔|||✔|
-|[42842](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42842%29%20%EC%B9%B4%ED%8E%AB)|✔|✔|✔|||✔|✔|
+|[42842](https://programmers.co.kr/learn/courses/30/lessons/42842)|카펫|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42842%29%20%EC%B9%B4%ED%8E%AB)|✔|✔|✔|✔||✔|✔|
 |[42860](https://programmers.co.kr/learn/courses/30/lessons/42860)|조이스틱|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42860%29%20%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)|||||||✔|
 |[42883](https://programmers.co.kr/learn/courses/30/lessons/42883)|큰 수 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42883%29%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔|✔|✔||✔||
 |[42888](https://programmers.co.kr/learn/courses/30/lessons/42888)|오픈채팅방|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42888%29%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)|✔|✔|✔|✔||✔|✔|
