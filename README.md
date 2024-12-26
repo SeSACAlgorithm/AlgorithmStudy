@@ -13,10 +13,10 @@
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 290 |
 | 🥈 2위 | 경호 | 235 |
-| 🥉 3위 | 윤지 | 231 |
+| 🥉 3위 | 윤지 | 233 |
 | 🏅 4위 | 태호 | 226 |
-| 🎖️ 5위 | 정완 | 144 |
-| 🎀 6위 | 재원 | 120 |
+| 🎖️ 5위 | 정완 | 145 |
+| 🎀 6위 | 재원 | 121 |
 | 🎗 7위 | 정현 | 86 |
 
 # 📚 SWEA
@@ -218,7 +218,7 @@
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)|✔|✔||✔||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||||||||
 |[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)|✔|✔||✔|||✔|
-|[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1932%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)||✔||||||
+|[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1932%29%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95)|✔|✔||||||
 |[2011](https://www.acmicpc.net/problem/2011)|암호코드|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2011%29%20%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C)||||||||
 |[21317](https://www.acmicpc.net/problem/21317)|징검다리 건너기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/21317%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0)||✔||||||
 |[2156](https://www.acmicpc.net/problem/2156)|포도주 시식|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/2156%29%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D)||✔||||||
@@ -287,7 +287,7 @@
 |[16171](https://www.acmicpc.net/problem/16171)|나는 친구가 적다(Small)|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/16171%29%20%EB%82%98%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%EC%A0%81%EB%8B%A4%28Small%29)|✔|✔||||✔||
 |[16916](https://www.acmicpc.net/problem/16916)|부분 문자열|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/16916%29%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)|✔|✔||✔|✔|||
 |[17609](https://www.acmicpc.net/problem/17609)|회문|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/17609%29%20%ED%9A%8C%EB%AC%B8)||✔|✔|||||
-|[1764](https://www.acmicpc.net/problem/1764)|듣보잡|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1764%29%20%EB%93%A3%EB%B3%B4%EC%9E%A1)||✔||✔||✔||
+|[1764](https://www.acmicpc.net/problem/1764)|듣보잡|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/1764%29%20%EB%93%A3%EB%B3%B4%EC%9E%A1)|✔|✔||✔||✔||
 |[20154](https://www.acmicpc.net/problem/20154)|이 구역의 승자는 누구야|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20154%29%20%EC%9D%B4%20%EA%B5%AC%EC%97%AD%EC%9D%98%20%EC%8A%B9%EC%9E%90%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%95%BC)|✔|✔||||✔||
 |[20210](https://www.acmicpc.net/problem/20210)|파일 탐색기|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20210%29%20%ED%8C%8C%EC%9D%BC%20%ED%83%90%EC%83%89%EA%B8%B0)||||||||
 |[20437](https://www.acmicpc.net/problem/20437)|문자열 게임 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%AC%B8%EC%9E%90%EC%97%B4/20437%29%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%84%202)||||||||
@@ -382,7 +382,7 @@
 |[11653](https://www.acmicpc.net/problem/11653)|소인수분해|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/11653%29%20%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)|✔||✔||✔|||
 |[1271](https://www.acmicpc.net/problem/1271)|엄청난 부자2|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1271%29%20%EC%97%84%EC%B2%AD%EB%82%9C%20%EB%B6%80%EC%9E%902)|✔|✔|||✔|||
 |[1747](https://www.acmicpc.net/problem/1747)|수소&팰린드롬|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1747%29%20%EC%88%98%EC%86%8C%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)|||✔|||||
-|[1934](https://www.acmicpc.net/problem/1934)|최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1934%29%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|✔|✔|✔|✔|✔|||
+|[1934](https://www.acmicpc.net/problem/1934)|최소공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1934%29%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|✔|✔|✔|✔|✔|✔||
 |[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/1978%29%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)|✔|✔|✔|✔|✔|✔|✔|
 |[21275](https://www.acmicpc.net/problem/21275)|폰 호석만|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/21275%29%20%ED%8F%B0%20%ED%98%B8%EC%84%9D%EB%A7%8C)||||||||
 |[21919](https://www.acmicpc.net/problem/21919)|소수 최소 공배수|[링크](./%EB%B0%B1%EC%A4%80/%EC%88%98%ED%95%99/21919%29%20%EC%86%8C%EC%88%98%20%EC%B5%9C%EC%86%8C%20%EA%B3%B5%EB%B0%B0%EC%88%98)||||||||
@@ -895,7 +895,7 @@
 |[17687](https://programmers.co.kr/learn/courses/30/lessons/17687)|[3차] n진수 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/17687%29%20%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84)|||✔||||✔|
 |[42584](https://programmers.co.kr/learn/courses/30/lessons/42584)|주식 가격|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/42584%29%20%EC%A3%BC%EC%8B%9D%20%EA%B0%80%EA%B2%A9)|✔|✔|✔|||✔|✔|
 |[42885](https://programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/42885%29%20%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)|✔|✔|✔||||✔|
-|[49993](https://programmers.co.kr/learn/courses/30/lessons/49993)|스킬트리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/49993%29%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)|✔|✔|✔|||✔|✔|
+|[49993](https://programmers.co.kr/learn/courses/30/lessons/49993)|스킬트리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/49993%29%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)|✔|✔|✔|✔||✔|✔|
 |[49994](https://programmers.co.kr/learn/courses/30/lessons/49994)|방문 길이|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/49994%29%20%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4)|✔|✔|✔||||✔|
 |[68645](https://programmers.co.kr/learn/courses/30/lessons/68645)|삼각 달팽이|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/68645%29%20%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4)|✔||✔||||✔|
 |[68936](https://programmers.co.kr/learn/courses/30/lessons/68936)|쿼드압축 후 개수 세기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%282%29/68936%29%20%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0)|||✔||||✔|
