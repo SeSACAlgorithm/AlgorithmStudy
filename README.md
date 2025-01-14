@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 297 |
+| 🥇 1위 | 석희 | 298 |
 | 🥈 2위 | 윤지 | 243 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
@@ -214,7 +214,7 @@
 |[14501](https://www.acmicpc.net/problem/14501)|퇴사|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/14501%29%20%ED%87%B4%EC%82%AC)||✔||||||
 |[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1463%29%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|✔|✔||✔|||✔|
 |[15486](https://www.acmicpc.net/problem/15486)|퇴사 2|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/15486%29%20%ED%87%B4%EC%82%AC%202)|||✔||||✔|
-|[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1699%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9)|✔|||||||
+|[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1699%29%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9)|✔|✔||||||
 |[17626](https://www.acmicpc.net/problem/17626)|Four Squares|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/17626%29%20Four%20Squares)|✔|✔||✔||||
 |[1890](https://www.acmicpc.net/problem/1890)|점프|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1890%29%20%EC%A0%90%ED%94%84)||✔||||||
 |[1912](https://www.acmicpc.net/problem/1912)|연속합|[링크](./%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/1912%29%20%EC%97%B0%EC%86%8D%ED%95%A9)|✔|✔||✔|||✔|
