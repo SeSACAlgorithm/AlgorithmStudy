@@ -16,7 +16,7 @@
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
 | 🎖️ 5위 | 정완 | 155 |
-| 🎀 6위 | 재원 | 127 |
+| 🎀 6위 | 재원 | 128 |
 | 🎗 7위 | 정현 | 86 |
 
 # 📚 SWEA
@@ -694,7 +694,7 @@
 |[15691](https://www.acmicpc.net/problem/15691)|회전 초밥|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/15691%29%20%ED%9A%8C%EC%A0%84%20%EC%B4%88%EB%B0%A5)||✔||||||
 |[1806](https://www.acmicpc.net/problem/1806)|부분합|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/1806%29%20%EB%B6%80%EB%B6%84%ED%95%A9)||||||||
 |[2003](https://www.acmicpc.net/problem/2003)|수들의 합 2|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2003%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%202)|✔||||✔|||
-|[2018](https://www.acmicpc.net/problem/2018)|수들의 합 5|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2018%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%205)|✔|||||||
+|[2018](https://www.acmicpc.net/problem/2018)|수들의 합 5|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/2018%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%205)|✔|||||✔||
 |[20366](https://www.acmicpc.net/problem/20366)|같이 눈사람 만들래|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20366%29%20%EA%B0%99%EC%9D%B4%20%EB%88%88%EC%82%AC%EB%9E%8C%20%EB%A7%8C%EB%93%A4%EB%9E%98)||||||||
 |[20442](https://www.acmicpc.net/problem/20442)|ㅋㅋ루ㅋㅋ|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20442%29%20%E3%85%8B%E3%85%8B%EB%A3%A8%E3%85%8B%E3%85%8B)||||||||
 |[20922](https://www.acmicpc.net/problem/20922)|겹치는 건 싫어|[링크](./%EB%B0%B1%EC%A4%80/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/20922%29%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4)|✔|||||||
