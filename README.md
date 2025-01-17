@@ -12,7 +12,7 @@
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 300 |
-| 🥈 2위 | 윤지 | 246 |
+| 🥈 2위 | 윤지 | 247 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
 | 🎖️ 5위 | 정완 | 158 |
@@ -524,7 +524,7 @@
 |[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2110%29%20%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98)||||||||
 |[22871](https://www.acmicpc.net/problem/22871)|징검다리 건너기(large)|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/22871%29%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0%28large%29)||||||||
 |[2412](https://www.acmicpc.net/problem/2412)|암벽 등반|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2412%29%20%EC%95%94%EB%B2%BD%20%EB%93%B1%EB%B0%98)||||||||
-|[2417](https://www.acmicpc.net/problem/2417)|정수 제곱근|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2417%29%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC)||||||||
+|[2417](https://www.acmicpc.net/problem/2417)|정수 제곱근|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2417%29%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC)|✔|||||||
 |[2470](https://www.acmicpc.net/problem/2470)|두 용액|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2470%29%20%EB%91%90%20%EC%9A%A9%EC%95%A1)||||||||
 |[2473](https://www.acmicpc.net/problem/2473)|세 용액|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2473%29%20%EC%84%B8%20%EC%9A%A9%EC%95%A1)||||||||
 |[2512](https://www.acmicpc.net/problem/2512)|예산|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/2512%29%20%EC%98%88%EC%82%B0)||||||||
