@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 302 |
+| 🥇 1위 | 석희 | 303 |
 | 🥈 2위 | 윤지 | 248 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
@@ -517,7 +517,7 @@
 |[1300](https://www.acmicpc.net/problem/1300)|K번째 수|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1300%29%20K%EB%B2%88%EC%A7%B8%20%EC%88%98)||||||||
 |[13397](https://www.acmicpc.net/problem/13397)|구간 나누기 2|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/13397%29%20%EA%B5%AC%EA%B0%84%20%EB%82%98%EB%88%84%EA%B8%B0%202)||||||||
 |[1477](https://www.acmicpc.net/problem/1477)|휴게소 세우기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1477%29%20%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%B8%EC%9A%B0%EA%B8%B0)||||||||
-|[1654](https://www.acmicpc.net/problem/1654)|랜선 자르기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1654%29%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)||||||||
+|[1654](https://www.acmicpc.net/problem/1654)|랜선 자르기|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1654%29%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0)||✔||||||
 |[1789](https://www.acmicpc.net/problem/1789)|수들의 합|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1789%29%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9)|✔|✔||||||
 |[1939](https://www.acmicpc.net/problem/1939)|중량제한|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1939%29%20%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C)||||||||
 |[19637](https://www.acmicpc.net/problem/19637)|IF문 좀 대신 써줘|[링크](./%EB%B0%B1%EC%A4%80/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/19637%29%20IF%EB%AC%B8%20%EC%A2%80%20%EB%8C%80%EC%8B%A0%20%EC%8D%A8%EC%A4%98)|✔|||||||
