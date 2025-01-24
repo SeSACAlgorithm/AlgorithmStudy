@@ -15,7 +15,7 @@
 | 🥈 2위 | 윤지 | 248 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
-| 🎖️ 5위 | 정완 | 161 |
+| 🎖️ 5위 | 정완 | 162 |
 | 🎀 6위 | 재원 | 131 |
 | 🎗 7위 | 정현 | 86 |
 
@@ -96,7 +96,7 @@
 |[16719](https://www.acmicpc.net/problem/16719)|ZOAC|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/16719%29%20ZOAC)||||||||
 |[16926](https://www.acmicpc.net/problem/16926)|배열 돌리기 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/16926%29%20%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201)||||||||
 |[17276](https://www.acmicpc.net/problem/17276)|배열 돌리기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17276%29%20%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0)||||||||
-|[17413](https://www.acmicpc.net/problem/17413)|단어 뒤집기 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17413%29%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202)|✔|✔||||||
+|[17413](https://www.acmicpc.net/problem/17413)|단어 뒤집기 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17413%29%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202)|✔|✔||✔||||
 |[17478](https://www.acmicpc.net/problem/17478)|재귀함수가 뭔가요|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/17478%29%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%20%EB%AD%94%EA%B0%80%EC%9A%94)||✔||✔||||
 |[1913](https://www.acmicpc.net/problem/1913)|달팽이|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/1913%29%20%EB%8B%AC%ED%8C%BD%EC%9D%B4)|✔||✔||||✔|
 |[20053](https://www.acmicpc.net/problem/20053)|최소, 최대 2|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/20053%29%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80%202)|✔|✔|✔|✔|✔|||
