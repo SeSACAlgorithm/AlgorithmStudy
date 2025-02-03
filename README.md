@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 305 |
+| 🥇 1위 | 석희 | 306 |
 | 🥈 2위 | 윤지 | 248 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
@@ -149,7 +149,7 @@
 |[16954](https://www.acmicpc.net/problem/16954)|움직이는 미로 탈출|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16954%29%20%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%20%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C)||||||||
 |[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1697%29%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)||✔||||||
 |[16973](https://www.acmicpc.net/problem/16973)|직사각형 탈출|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/16973%29%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%ED%83%88%EC%B6%9C)||||||||
-|[17836](https://www.acmicpc.net/problem/17836)|공주님을 구해라!|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/17836%29%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC%21)||||||||
+|[17836](https://www.acmicpc.net/problem/17836)|공주님을 구해라!|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/17836%29%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC%21)||✔||||||
 |[18513](https://www.acmicpc.net/problem/18513)|샘터|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/18513%29%20%EC%83%98%ED%84%B0)||||||||
 |[1967](https://www.acmicpc.net/problem/1967)|트리의 지름|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1967%29%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84)|||||||✔|
 |[2146](https://www.acmicpc.net/problem/2146)|다리 만들기|[링크](./%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/2146%29%20%EB%8B%A4%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|||||||✔|
