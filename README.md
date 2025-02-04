@@ -11,7 +11,7 @@
 # 🏆 Ranking
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
-| 🥇 1위 | 석희 | 306 |
+| 🥇 1위 | 석희 | 307 |
 | 🥈 2위 | 윤지 | 248 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
@@ -113,6 +113,7 @@
 |[22859](https://www.acmicpc.net/problem/22859)|HTML 파싱|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22859%29%20HTML%20%ED%8C%8C%EC%8B%B1)||||||||
 |[22860](https://www.acmicpc.net/problem/22860)|폴더 정리 (small)|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/22860%29%20%ED%8F%B4%EB%8D%94%20%EC%A0%95%EB%A6%AC%20%28small%29)||||||||
 |[24060](https://www.acmicpc.net/problem/24060)|알고리즘 수업 - 병합 정렬 1|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/24060%29%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC%201)||||||||
+|[25206](https://www.acmicpc.net/problem/25206)|너의 평점|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/25206%29%20%EB%84%88%EC%9D%98%20%ED%8F%89%EC%A0%90)||✔||||||
 |[2578](https://www.acmicpc.net/problem/2578)|빙고|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2578%29%20%EB%B9%99%EA%B3%A0)||||||||
 |[2615](https://www.acmicpc.net/problem/2615)|오목|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2615%29%20%EC%98%A4%EB%AA%A9)||||||||
 |[2711](https://www.acmicpc.net/problem/2711)|오타맨 고창영|[링크](./%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/2711%29%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81)|✔|✔||✔|✔|||
