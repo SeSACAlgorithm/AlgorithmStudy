@@ -12,7 +12,7 @@
 | 🥇 순위 | 👤 이름 | ✔ 횟수 |
 | --- | --- | --- |
 | 🥇 1위 | 석희 | 308 |
-| 🥈 2위 | 윤지 | 249 |
+| 🥈 2위 | 윤지 | 250 |
 | 🥉 3위 | 경호 | 235 |
 | 🏅 4위 | 태호 | 226 |
 | 🎖️ 5위 | 정완 | 162 |
@@ -845,7 +845,7 @@
 |[1844](https://programmers.co.kr/learn/courses/30/lessons/1844)|게임 맵 최단거리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/1844%29%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)|✔|✔|✔||||✔|
 |[42577](https://programmers.co.kr/learn/courses/30/lessons/42577)|전화번호 목록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42577%29%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D)|✔|✔|✔|✔||✔|✔|
 |[42578](https://programmers.co.kr/learn/courses/30/lessons/42578)|위장|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42578%29%20%EC%9C%84%EC%9E%A5)|✔|✔|✔|||✔|✔|
-|[42583](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42583%29%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)||✔||||||
+|[42583](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42583%29%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD)|✔|✔||||||
 |[42586](https://programmers.co.kr/learn/courses/30/lessons/42586)|기능개발|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42586%29%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|✔|✔|✔|✔||✔|✔|
 |[42587](https://programmers.co.kr/learn/courses/30/lessons/42587)|프로세스|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42587%29%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)|✔|✔|✔|✔||✔|✔|
 |[42626](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LEVEL%202%20%281%29/42626%29%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C)|✔|✔|✔|✔||✔|✔|
